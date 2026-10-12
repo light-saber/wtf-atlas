@@ -45,6 +45,16 @@
 
   function epHref(vid) { return '#/episode/' + vid; }
 
+  /* link to the exact card inside its episode: #/episode/<vid>/<tab>/<index> */
+  function itemHref(kind, it) {
+    var ep = byId(it.video_id);
+    if (!ep) return epHref(it.video_id);
+    var key = function (x) { return (x.text || '') + '|' + (x.metric || '') + '|' + (x.value || ''); };
+    var k = key(it), idx = -1;
+    (ep[kind] || []).some(function (x, i) { if (key(x) === k) { idx = i; return true; } return false; });
+    return epHref(it.video_id) + '/' + kind + (idx >= 0 ? '/' + idx : '');
+  }
+
   function safeEp(vid) {
     var ep = byId(vid);
     if (!ep) return null;
@@ -169,7 +179,7 @@
       '<p class="hero-eyebrow">Nikhil Kamath · WTF podcast</p>' +
       '<h1>Everything the <em>smartest guests</em> said, made findable.</h1>' +
       '<p class="hero-sub">Insights, numbers, quotes and ideas from ' + eps +
-      ' episodes — organised by industry, geography and person, each one traced back to the moment it was said.</p>' +
+      ' episodes — organised by industry, geography and person, each one linked back to the episode it came from.</p>' +
       '<div class="stat-row">' +
       stat(eps, 'Episodes') +
       stat(m.counts.insights || 0, 'Insights') +
@@ -305,8 +315,9 @@
     ['quotes', 'Quotes'], ['ideas', 'Ideas'], ['stories', 'Stories']
   ];
 
-  function viewEpisode(vid) {
+  function viewEpisode(vid, tab) {
     var ep = byId(vid);
+    if (!TABS.some(function (t) { return t[0] === tab; })) tab = 'insights';
     if (!ep) return notFound('Unknown episode');
     var h = '<section class="epd-head">' +
       '<a class="back" href="#/episodes">← All episodes</a>' +
@@ -328,11 +339,11 @@
 
     h += '<div class="epd-tabs" role="tablist">' + TABS.map(function (t, i) {
       return '<button role="tab" data-tab="' + t[0] + '" aria-selected="' +
-        (i === state.tab ? 'true' : 'false') + '">' + t[1] +
+        (t[0] === tab ? 'true' : 'false') + '">' + t[1] +
         ' <span style="opacity:.5">' + ep[t[0]].length + '</span></button>';
     }).join('') + '</div>';
 
-    h += '<div id="tabPanel">' + cardsOf(state.tab, ep[state.tab], {sameEpisode:true}) + '</div>';
+    h += '<div id="tabPanel">' + cardsOf(tab, ep[tab], {sameEpisode:true}) + '</div>';
     return h;
   }
 
@@ -355,7 +366,8 @@
 
   /* ============================ Router ============================ */
 
-  var state = { filters: {}, tab: 'insights' };
+  var state = { filters: {} };
+  var lastRoot = null, lastEp = null;
 
   function route() {
     var hash = location.hash.replace(/^#\/?/, '');
@@ -377,14 +389,26 @@
       else if (root === 'ideas') html = viewList('ideas', 'Ideas', 'Opportunities, theses and contrarian bets proposed by the guests.', null);
       else if (root === 'stories') html = viewList('stories', 'Stories', 'Concrete anecdotes with named entities — and the lesson attached.', null);
       else if (root === 'episodes') html = viewEpisodes();
-      else if (root === 'episode' && parts[1]) html = viewEpisode(parts[1]);
+      else if (root === 'episode' && parts[1]) html = viewEpisode(parts[1], parts[2]);
       else html = notFound('Page not found');
     } catch (err) {
       html = notFound('Error rendering ' + (root || 'home') + ': ' + err.message);
     }
 
     main.innerHTML = html;
-    window.scrollTo(0, 0);
+
+    /* deep link from search: #/episode/<vid>/<tab>/<index> -> scroll to + flash the card */
+    var target = root === 'episode' && parts[3] != null &&
+      main.querySelectorAll('#tabPanel .card')[+parts[3]];
+    if (target) {
+      target.scrollIntoView({ block: 'center' });
+      target.classList.add('flash');
+    } else if (!(root === 'episode' && lastRoot === 'episode' && lastEp === parts[1])) {
+      /* keep scroll position when only switching tabs inside the same episode */
+      window.scrollTo(0, 0);
+    }
+    lastRoot = root;
+    lastEp = parts[1] || null;
   }
 
   /* delegated clicks: filter chips + episode tabs */
@@ -399,8 +423,8 @@
     }
     var tab = e.target.closest('.epd-tabs button');
     if (tab) {
-      state.tab = tab.getAttribute('data-tab');
-      route();
+      var m = location.hash.match(/^#\/episode\/([^/]+)/);
+      if (m) location.hash = '#/episode/' + m[1] + '/' + tab.getAttribute('data-tab');
       return;
     }
   });
@@ -474,7 +498,7 @@
       html += '<div class="sr-group">' + g[1] + '</div>';
       hits.forEach(function (it) {
         var idx = srItems.length;
-        srItems.push({ hash: epHref(it.video_id) });
+        srItems.push({ hash: itemHref(kind, it) });
         var label = it.text || it.metric || '';
         var ep = safeEp(it.video_id);
         html += '<button class="sr-item" data-i="' + idx + '">' +
