@@ -131,7 +131,7 @@ a:hover { color: var(--accent-2); text-decoration: underline; }
 .brand-text { font-family: var(--serif); font-weight: 700; font-size: 20px; letter-spacing: -.02em; }
 .brand-text em { font-style: normal; color: var(--accent); }
 
-.nav { display: flex; gap: 4px; margin-left: 6px; flex: 1; overflow-x: auto; scrollbar-width: none; }
+.nav { display: flex; gap: 4px; margin-left: 6px; flex: 1; min-width: 0; overflow-x: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch; }
 .nav::-webkit-scrollbar { display: none; }
 .nav a {
   font-size: 13.5px; font-weight: 500; color: var(--ink-2); text-decoration: none;
@@ -140,6 +140,15 @@ a:hover { color: var(--accent-2); text-decoration: underline; }
 }
 .nav a:hover { background: var(--paper-2); color: var(--ink); }
 .nav a.active { background: var(--accent-soft); color: var(--accent-2); }
+
+/* On small screens the brand shrinks and nav becomes the priority row */
+@media (max-width: 760px) {
+  .topbar-inner { gap: 10px; height: 56px; padding: 0 16px; }
+  .brand-text { font-size: 17px; }
+  .nav { margin-left: 2px; }
+  .nav a { padding: 7px 9px; font-size: 13px; }
+  .search-btn { padding: 8px; flex: none; }
+}
 
 .search-btn {
   display: inline-flex; align-items: center; gap: 8px;
