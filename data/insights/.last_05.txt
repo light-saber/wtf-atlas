@@ -1,0 +1,800 @@
+[
+  {
+    "video_id": "EP-#17-Yuval-Noah-Harari-Stories,-Power-and-Why-Truth-Doesn't-Matter-Nikhil-Kamath-People-by-WTF",
+    "guests": ["Yuval Noah Harari"],
+    "industries": ["ai", "finance", "crypto", "content", "healthcare"],
+    "geographies": ["India", "US", "Europe", "Russia", "Greenland", "Ukraine", "Venezuela", "Iran", "Libya", "Iraq", "Afghanistan", "Denmark"],
+    "insights": [
+      {
+        "text": "Humans cooperate at scale through shared stories; corporations and money depend on those stories.",
+        "speaker": "Yuval Noah Harari",
+        "industry": "finance",
+        "geography": null
+      },
+      {
+        "text": "The more attractive a belief is, the more carefully its evidence should be examined.",
+        "speaker": "Yuval Noah Harari",
+        "industry": null,
+        "geography": null
+      },
+      {
+        "text": "Large organizations, including armies and companies, require shared beliefs and cooperation; coercion alone cannot sustain them.",
+        "speaker": "Yuval Noah Harari",
+        "industry": null,
+        "geography": null
+      },
+      {
+        "text": "Trust built between the US and Europe over generations can be damaged quickly by threats and humiliation.",
+        "speaker": "Yuval Noah Harari",
+        "industry": null,
+        "geography": "Europe"
+      },
+      {
+        "text": "A banker's economic role is to build trust between savers and entrepreneurs who do not know each other.",
+        "speaker": "Yuval Noah Harari",
+        "industry": "finance",
+        "geography": null
+      },
+      {
+        "text": "Treating state commitments as personal promises between leaders weakens the continuity of international agreements.",
+        "speaker": "Yuval Noah Harari",
+        "industry": null,
+        "geography": "US"
+      },
+      {
+        "text": "AI could eventually make decisions through corporations without human executives directing each transaction.",
+        "speaker": "Yuval Noah Harari",
+        "industry": "ai",
+        "geography": null
+      },
+      {
+        "text": "Young people should develop intellectual, social, physical and spiritual skills because future job requirements are uncertain.",
+        "speaker": "Yuval Noah Harari",
+        "industry": "ai",
+        "geography": "India"
+      },
+      {
+        "text": "Replacing human bureaucrats with AI systems can make decisions more opaque and less accountable.",
+        "speaker": "Yuval Noah Harari",
+        "industry": "ai",
+        "geography": "US"
+      }
+    ],
+    "data_points": [
+      {
+        "metric": "Historical share of government budgets spent on the military",
+        "value": "more than 50%",
+        "unit": "%",
+        "speaker": "Yuval Noah Harari",
+        "context": "Harari contrasts historical military spending with the early 21st century."
+      },
+      {
+        "metric": "Average worldwide military expenditure in the early 21st century",
+        "value": "about 6 to 7%",
+        "unit": "%",
+        "speaker": "Yuval Noah Harari",
+        "context": "He uses this to illustrate the benefits of international trust."
+      },
+      {
+        "metric": "Average government healthcare budget in the early 21st century",
+        "value": "around 10%",
+        "unit": "%",
+        "speaker": "Yuval Noah Harari",
+        "context": "He says healthcare spending exceeded military spending on average."
+      },
+      {
+        "metric": "Horizon over which Harari says job markets cannot be predicted confidently",
+        "value": "5 years",
+        "unit": "years",
+        "speaker": "Yuval Noah Harari",
+        "context": "He advises young people against training for one narrow skill."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The more you want to believe a story, the more suspicious you should be.",
+        "speaker": "Yuval Noah Harari",
+        "theme": "belief and evidence"
+      },
+      {
+        "text": "Bankers build trust.",
+        "speaker": "Yuval Noah Harari",
+        "theme": "finance"
+      },
+      {
+        "text": "You need to work for years to build trust and you can lose it in a day.",
+        "speaker": "Yuval Noah Harari",
+        "theme": "trust"
+      },
+      {
+        "text": "Nobody has any idea.",
+        "speaker": "Yuval Noah Harari",
+        "theme": "future of work"
+      },
+      {
+        "text": "Don't believe people who tell you that all reality is just power.",
+        "speaker": "Yuval Noah Harari",
+        "theme": "power"
+      }
+    ],
+    "ideas": [
+      {
+        "text": "Prepare for an uncertain AI economy by building a broad mix of intellectual, social, physical and spiritual skills.",
+        "speaker": "Yuval Noah Harari",
+        "type": "playbook"
+      },
+      {
+        "text": "AI corporations may eventually make their own purchases and investments, using forms of value such as data or computing time.",
+        "speaker": "Yuval Noah Harari",
+        "type": "contrarian-take"
+      },
+      {
+        "text": "Evaluate a political change by whether a functioning democracy is built afterward, rather than by whether a dictator is removed.",
+        "speaker": "Yuval Noah Harari",
+        "type": "playbook"
+      }
+    ],
+    "stories": [
+      {
+        "text": "Harari describes Denmark helping the US after the September 11 attacks as an example of a relationship that held when one partner was in crisis.",
+        "speaker": "Yuval Noah Harari",
+        "lesson": "An alliance's value becomes clear when help is needed."
+      },
+      {
+        "text": "Harari recalls Trump's response to questions about Putin's broken promises: Trump said the promises had been made to Obama and Biden, rather than to him.",
+        "speaker": "Yuval Noah Harari",
+        "lesson": "Personalizing state commitments undermines institutional continuity."
+      }
+    ]
+  },
+  {
+    "video_id": "EP-#18-The-AI-Tsunami-is-Here-and-Society-Isn't-Ready-Dario-Amodei-x-Nikhil-Kamath-People-by-WTF",
+    "guests": ["Dario Amodei"],
+    "industries": ["ai", "biotech", "healthcare", "pharma", "finance", "manufacturing"],
+    "geographies": ["India", "US", "China", "Europe"],
+    "insights": [
+      {
+        "text": "Scaling model size, data and compute together has produced large gains across cognitive tasks.",
+        "speaker": "Dario Amodei",
+        "industry": "ai",
+        "geography": null
+      },
+      {
+        "text": "Amodei sees the concentration of power among a few AI companies as a governance problem requiring checks beyond company leadership.",
+        "speaker": "Dario Amodei",
+        "industry": "ai",
+        "geography": null
+      },
+      {
+        "text": "New model releases create repeated openings for applications that were technically impossible only months earlier.",
+        "speaker": "Dario Amodei",
+        "industry": "ai",
+        "geography": null
+      },
+      {
+        "text": "Coding tasks are moving to AI before the broader work of software engineering.",
+        "speaker": "Dario Amodei",
+        "industry": "ai",
+        "geography": null
+      },
+      {
+        "text": "A small human contribution to design, user demand or coordination can become highly productive when AI performs the remaining work.",
+        "speaker": "Dario Amodei",
+        "industry": "ai",
+        "geography": null
+      },
+      {
+        "text": "Careless use of AI for schoolwork or coding can weaken the user's own skills.",
+        "speaker": "Dario Amodei",
+        "industry": "ai",
+        "geography": null
+      },
+      {
+        "text": "For frontier models, Amodei believes buyers often prefer the most capable model even when a cheaper alternative exists.",
+        "speaker": "Dario Amodei",
+        "industry": "ai",
+        "geography": null
+      },
+      {
+        "text": "Training data generated through a model's trial and error is becoming more important relative to static datasets.",
+        "speaker": "Dario Amodei",
+        "industry": "ai",
+        "geography": null
+      },
+      {
+        "text": "AI could accelerate therapies whose components can be systematically modified, including peptides and engineered cells.",
+        "speaker": "Dario Amodei",
+        "industry": "biotech",
+        "geography": null
+      }
+    ],
+    "data_points": [
+      {
+        "metric": "Revenue threshold below which companies are exempt from the California transparency law discussed",
+        "value": "$500 million",
+        "unit": "$",
+        "speaker": "Dario Amodei",
+        "context": "Amodei cites the threshold when responding to a concern about regulatory capture."
+      },
+      {
+        "metric": "Cadence of new Anthropic model releases described by Amodei",
+        "value": "every 2 or 3 months",
+        "unit": "months",
+        "speaker": "Dario Amodei",
+        "context": "Each release can enable new application ideas."
+      },
+      {
+        "metric": "Illustrative human share of a task",
+        "value": "5%",
+        "unit": "%",
+        "speaker": "Dario Amodei",
+        "context": "He uses it to explain how human judgment can complement AI work."
+      },
+      {
+        "metric": "Illustrative AI share of the same task",
+        "value": "95%",
+        "unit": "%",
+        "speaker": "Dario Amodei",
+        "context": "Amodei says AI doing the remainder can amplify the human contribution."
+      },
+      {
+        "metric": "Illustrative productivity increase from that division of work",
+        "value": "20 times",
+        "unit": "x",
+        "speaker": "Dario Amodei",
+        "context": "He describes the potential effect of a human doing 5% while AI does 95%."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Don't argue with someone else's vision. If you have a strong vision and you share that vision with a few other people, you should just go off and do your own thing.",
+        "speaker": "Dario Amodei",
+        "theme": "founding a company"
+      },
+      {
+        "text": "I wouldn't look at what people say. I would look at what people do.",
+        "speaker": "Dario Amodei",
+        "theme": "accountability"
+      },
+      {
+        "text": "Coding is going away first.",
+        "speaker": "Dario Amodei",
+        "theme": "future of software work"
+      },
+      {
+        "text": "Having basic critical thinking skills may be the most important thing to success.",
+        "speaker": "Dario Amodei",
+        "theme": "AI literacy"
+      },
+      {
+        "text": "You mostly learn by doing.",
+        "speaker": "Dario Amodei",
+        "theme": "learning to use AI"
+      }
+    ],
+    "ideas": [
+      {
+        "text": "Build specialized AI applications in fields such as biological discovery or regulated financial services, where domain work extends beyond the model provider's focus.",
+        "speaker": "Dario Amodei",
+        "type": "business-idea"
+      },
+      {
+        "text": "Develop skills in human interaction, physical-world work and critical thinking as AI takes on more analytical tasks.",
+        "speaker": "Dario Amodei",
+        "type": "playbook"
+      },
+      {
+        "text": "Investigate AI-enabled peptide and cell-based therapies as areas of biotechnology with substantial room for improvement.",
+        "speaker": "Dario Amodei",
+        "type": "investment-thesis"
+      }
+    ],
+    "stories": [
+      {
+        "text": "While studying protein biomarkers, Amodei found biological systems dauntingly complex; seeing early neural-network work led him toward AI as a possible tool for biological discovery.",
+        "speaker": "Dario Amodei",
+        "lesson": "A hard problem in one field can motivate a career shift into another."
+      },
+      {
+        "text": "Amodei says Anthropic developed Claude Code internally because its staff wrote code, then built a more approachable interface after seeing non-coders struggle with the terminal.",
+        "speaker": "Dario Amodei",
+        "lesson": "Internal use and observed user friction can guide product development."
+      }
+    ]
+  },
+  {
+    "video_id": "EP-#18-WTF,-Alcohol-is-a-$70B-Business-in-India-Nikhil-Kamath-explores-Gaps-and-Opportunities",
+    "guests": [],
+    "industries": ["alcohol", "restaurant", "content"],
+    "geographies": ["India", "US", "Goa", "Delhi", "Karnataka", "Maharashtra", "Tamil Nadu", "Southeast Asia"],
+    "insights": [
+      {
+        "text": "A bar's appeal depends on the whole experience, including drinks, food, music, lighting, service and comfort.",
+        "speaker": "Minakshi",
+        "industry": "restaurant",
+        "geography": "India"
+      },
+      {
+        "text": "Beer needs frequent, widespread distribution because buyers tend to want it close to home.",
+        "speaker": "Unattributed",
+        "industry": "alcohol",
+        "geography": "India"
+      },
+      {
+        "text": "Goa Brewing positions its beer around ingredient quality and a distinct taste rather than paying bars to stock it.",
+        "speaker": "Unattributed",
+        "industry": "alcohol",
+        "geography": "India"
+      },
+      {
+        "text": "India's state-by-state excise rules and listing fees make bringing a new alcohol brand to market expensive.",
+        "speaker": "Unattributed",
+        "industry": "alcohol",
+        "geography": "India"
+      },
+      {
+        "text": "A new drinks brand should establish demand with bars and retailers before asking a distributor to carry it.",
+        "speaker": "Unattributed",
+        "industry": "alcohol",
+        "geography": "India"
+      },
+      {
+        "text": "Selling stock into distribution is insufficient if it does not continue through retailers to consumers.",
+        "speaker": "Abhishek",
+        "industry": "alcohol",
+        "geography": "India"
+      },
+      {
+        "text": "Co-packing can let a founder launch an alcohol brand without first building a licensed distillery.",
+        "speaker": "Unattributed",
+        "industry": "alcohol",
+        "geography": "India"
+      },
+      {
+        "text": "Because direct alcohol advertising is restricted, events, experiences and mixers can become routes into the drinks business.",
+        "speaker": "Unattributed",
+        "industry": "alcohol",
+        "geography": "India"
+      }
+    ],
+    "data_points": [
+      {
+        "metric": "Cocktail share of sales described for Sidecar",
+        "value": "85%",
+        "unit": "%",
+        "speaker": "Minakshi",
+        "context": "She describes Sidecar's sales mix."
+      },
+      {
+        "metric": "Goa Brewing bottles sold in the previous financial year",
+        "value": "27 lag bottles",
+        "unit": "bottles",
+        "speaker": "Unattributed",
+        "context": "The founder describes the brewery's sales volume; the ASR transcript says 'lag'."
+      },
+      {
+        "metric": "Goa Brewing gross sales in that year",
+        "value": "20 CR",
+        "unit": "INR crore",
+        "speaker": "Unattributed",
+        "context": "The founder says gross sales crossed this figure."
+      },
+      {
+        "metric": "Equipment spending described for starting an independent beer company",
+        "value": "six CR rupees",
+        "unit": "INR crore",
+        "speaker": "Unattributed",
+        "context": "The brewer describes its initial equipment investment."
+      },
+      {
+        "metric": "Capital described for launching a brand through a co-packer",
+        "value": "30 to 50 lakh rupees",
+        "unit": "INR lakh",
+        "speaker": "Unattributed",
+        "context": "The discussion contrasts a brand launch with building manufacturing capacity."
+      },
+      {
+        "metric": "Delhi listing fee stated for a vodka or gin brand",
+        "value": "12 lakh rupees",
+        "unit": "INR lakh",
+        "speaker": "Unattributed",
+        "context": "Listing fees are presented as a major early use of capital."
+      },
+      {
+        "metric": "Markets to which Radico brands were said to be exported",
+        "value": "100 countries",
+        "unit": "countries",
+        "speaker": "Abhishek",
+        "context": "He discusses using local distributors for exports."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Grooming and good-looking are two different things.",
+        "speaker": "Minakshi",
+        "theme": "hospitality"
+      },
+      {
+        "text": "The philosophy of Goa Brewing is simply: you want to create beer which is in the home refrigerator.",
+        "speaker": "Unattributed",
+        "theme": "brand positioning"
+      },
+      {
+        "text": "The first 10,000 consumers is the toughest.",
+        "speaker": "Abhishek",
+        "theme": "brand building"
+      },
+      {
+        "text": "The minute you push your primaries and you don't look at your secondaries and tertiaries, the brand is finished.",
+        "speaker": "Abhishek",
+        "theme": "distribution"
+      }
+    ],
+    "ideas": [
+      {
+        "text": "Launch a niche spirits brand through a co-packer, then spend early effort getting bars and shops to sample it.",
+        "speaker": "Unattributed",
+        "type": "playbook"
+      },
+      {
+        "text": "Build alcohol-adjacent businesses around cocktail mixers, events or brand experiences.",
+        "speaker": "Nikhil Kamath",
+        "type": "business-idea"
+      },
+      {
+        "text": "Use local distributors with strong market knowledge to export an Indian spirits brand.",
+        "speaker": "Abhishek",
+        "type": "playbook"
+      }
+    ],
+    "stories": [
+      {
+        "text": "Minakshi says she wanted to bartend after hotel school but found women were barred from doing so in some Indian states; she moved into beverage marketing and later opened Cocktails and Dreams Speakeasy with Yangdup Lama.",
+        "speaker": "Minakshi",
+        "lesson": "A blocked career path can lead to another route into the same industry."
+      },
+      {
+        "text": "The Goa Brewing founder says an IPA tasted on a flight to New York prompted him to visit breweries throughout his US trip and pursue a different kind of beer in India.",
+        "speaker": "Unattributed",
+        "lesson": "A product discovery became the starting point for a brewing venture."
+      },
+      {
+        "text": "An event organizer says he met his wife at one of his own events and had earlier created SpottedClub.com to photograph nightlife across Indian cities.",
+        "speaker": "Unattributed",
+        "lesson": "Event organizing led to a broader entertainment business."
+      }
+    ]
+  },
+  {
+    "video_id": "EP-#19-Pain,-Power-and-The-Game-Nobody-Wins-Chamath-Palihapitiya-x-Nikhil-Kamath-People-by-WTF",
+    "guests": ["Chamath Palihapitiya"],
+    "industries": ["venture-capital", "ai", "finance", "crypto", "batteries", "manufacturing", "content"],
+    "geographies": ["India", "US", "Europe", "Canada", "China"],
+    "insights": [
+      {
+        "text": "Kamath's startup grants provide capital without taking equity and also introduce him to young technical founders.",
+        "speaker": "Nikhil Kamath",
+        "industry": "venture-capital",
+        "geography": "India"
+      },
+      {
+        "text": "Chamath sees past hardship as a possible source of the persistence required to build companies at scale.",
+        "speaker": "Chamath Palihapitiya",
+        "industry": "venture-capital",
+        "geography": null
+      },
+      {
+        "text": "Chamath says treating business as a game has reduced his dependence on public praise for deals.",
+        "speaker": "Chamath Palihapitiya",
+        "industry": "finance",
+        "geography": null
+      },
+      {
+        "text": "His proposed AI investment stack separates silicon and models from software AI and physical AI.",
+        "speaker": "Chamath Palihapitiya",
+        "industry": "ai",
+        "geography": null
+      },
+      {
+        "text": "For physical AI, Chamath emphasizes energy storage, actuation and locomotion as constraints on useful robots.",
+        "speaker": "Chamath Palihapitiya",
+        "industry": "batteries",
+        "geography": null
+      },
+      {
+        "text": "Funding data centers and power infrastructure with venture capital can mismatch the assets' economics with investors' return expectations.",
+        "speaker": "Chamath Palihapitiya",
+        "industry": "venture-capital",
+        "geography": null
+      },
+      {
+        "text": "Chamath argues that student debt and scarce housing make capitalism less convincing to young Americans.",
+        "speaker": "Chamath Palihapitiya",
+        "industry": "finance",
+        "geography": "US"
+      },
+      {
+        "text": "An Indian social media platform would need a supportive government framework to overcome global platforms' engagement-driven scale.",
+        "speaker": "Chamath Palihapitiya",
+        "industry": "content",
+        "geography": "India"
+      }
+    ],
+    "data_points": [
+      {
+        "metric": "Young founders supported by Kamath's grant program",
+        "value": "a dozen kids every couple of months",
+        "unit": "founders per couple of months",
+        "speaker": "Nikhil Kamath",
+        "context": "He describes the program's pace."
+      },
+      {
+        "metric": "Age filter Kamath describes for grant recipients",
+        "value": "under the age of 25",
+        "unit": "years",
+        "speaker": "Nikhil Kamath",
+        "context": "He says recipients are generally technical and young."
+      },
+      {
+        "metric": "Sale price Chamath states for an AI chip company he helped start",
+        "value": "$20 billion",
+        "unit": "$",
+        "speaker": "Chamath Palihapitiya",
+        "context": "He recounts the sale to Nvidia."
+      },
+      {
+        "metric": "Initial payment Chamath says Nvidia wired to the company",
+        "value": "13 billion",
+        "unit": "dollars",
+        "speaker": "Chamath Palihapitiya",
+        "context": "He says seeing the payment had little emotional effect on him."
+      },
+      {
+        "metric": "Venture investor return expectation mentioned for AI infrastructure funding",
+        "value": "30%",
+        "unit": "IRR",
+        "speaker": "Chamath Palihapitiya",
+        "context": "He questions the fit between venture returns and infrastructure spending."
+      },
+      {
+        "metric": "Chamath's student debt when he was younger",
+        "value": "20 or 30,000",
+        "unit": "dollars",
+        "speaker": "Chamath Palihapitiya",
+        "context": "He contrasts his debt with what he describes as today's larger burdens."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Pain is a fantastic amplifier of capability.",
+        "speaker": "Chamath Palihapitiya",
+        "theme": "entrepreneurship"
+      },
+      {
+        "text": "None of it matters. It's just a complete game.",
+        "speaker": "Chamath Palihapitiya",
+        "theme": "success"
+      },
+      {
+        "text": "It's the machine that makes the machine.",
+        "speaker": "Chamath Palihapitiya",
+        "theme": "software production"
+      },
+      {
+        "text": "I needed to touch the stove and get burned.",
+        "speaker": "Chamath Palihapitiya",
+        "theme": "investment risk"
+      },
+      {
+        "text": "What you get for that economic inefficiency is sovereignty.",
+        "speaker": "Chamath Palihapitiya",
+        "theme": "local media"
+      }
+    ],
+    "ideas": [
+      {
+        "text": "Build a collaborative software factory that lets people direct AI-assisted software production.",
+        "speaker": "Chamath Palihapitiya",
+        "type": "business-idea"
+      },
+      {
+        "text": "Invest across silicon, software production, and the energy storage and actuation needed for physical AI.",
+        "speaker": "Chamath Palihapitiya",
+        "type": "investment-thesis"
+      },
+      {
+        "text": "Create an Indian social media company on a framework that supports local cultural requirements.",
+        "speaker": "Chamath Palihapitiya",
+        "type": "business-idea"
+      },
+      {
+        "text": "Limit large investments to assets with lower risk of permanent loss and reserve speculative bets for smaller positions.",
+        "speaker": "Chamath Palihapitiya",
+        "type": "playbook"
+      }
+    ],
+    "stories": [
+      {
+        "text": "Chamath says a company he helped start was sold to Nvidia for $20 billion, yet a screenshot of the first large payment left him focused on newer problems rather than celebrating.",
+        "speaker": "Chamath Palihapitiya",
+        "lesson": "A major financial outcome need not feel like a personal endpoint."
+      },
+      {
+        "text": "Chamath recalls Elon Musk showing him a Gigafactory schematic and calling it 'the machine that makes the machine,' an idea that later shaped his software-factory project.",
+        "speaker": "Chamath Palihapitiya",
+        "lesson": "A manufacturing concept can inspire a software business model."
+      },
+      {
+        "text": "Chamath says leveraged, high-risk investments created a liquidity crisis that forced him to sell Tesla shares; repeated losses led him to change his position-sizing approach.",
+        "speaker": "Chamath Palihapitiya",
+        "lesson": "Position size and liquidity matter alongside conviction."
+      }
+    ]
+  },
+  {
+    "video_id": "EP-#19-WTF-is-Making-it-in-an-Offbeat-Career-Nikhil-Kamath-Ft.-Kriti-Sanon,-Badshah-and-KL-Rahul",
+    "guests": ["Kriti Sanon", "Badshah", "KL Rahul"],
+    "industries": ["content", "fashion", "gaming", "batteries", "climate"],
+    "geographies": ["India", "Canada", "US"],
+    "insights": [
+      {
+        "text": "Kriti says classical dance training gave her a foundation she later used in performance, despite disliking the lessons at the time.",
+        "speaker": "Kriti Sanon",
+        "industry": "content",
+        "geography": "India"
+      },
+      {
+        "text": "Kriti sees asking questions on set as a way to understand a character and improve her acting.",
+        "speaker": "Kriti Sanon",
+        "industry": "content",
+        "geography": "India"
+      },
+      {
+        "text": "KL Rahul says cricket performance depends on judging speed, bounce and movement as well as hand-eye coordination.",
+        "speaker": "KL Rahul",
+        "industry": null,
+        "geography": null
+      },
+      {
+        "text": "Rahul would prefer more match experience because it exposes mistakes and different opponents.",
+        "speaker": "KL Rahul",
+        "industry": null,
+        "geography": "India"
+      },
+      {
+        "text": "Rahul says focusing on enjoyment and the current match helps him perform better than chasing distant milestones.",
+        "speaker": "KL Rahul",
+        "industry": null,
+        "geography": null
+      },
+      {
+        "text": "Badshah says accessible samples and music software make production easier, while ready-made material can limit exploration.",
+        "speaker": "Badshah",
+        "industry": "content",
+        "geography": null
+      },
+      {
+        "text": "Badshah sees live performance as an enduring source of value because audiences pay for the experience.",
+        "speaker": "Badshah",
+        "industry": "content",
+        "geography": "India"
+      },
+      {
+        "text": "Kamath argues that founders should select a growing sector before choosing what company to build within it.",
+        "speaker": "Nikhil Kamath",
+        "industry": "finance",
+        "geography": "India"
+      }
+    ],
+    "data_points": [
+      {
+        "metric": "Time Kriti spent learning kathak",
+        "value": "5 years",
+        "unit": "years",
+        "speaker": "Kriti Sanon",
+        "context": "She says the training later helped her as a performer."
+      },
+      {
+        "metric": "Age at which Rahul entered a cricket camp",
+        "value": "11",
+        "unit": "years old",
+        "speaker": "KL Rahul",
+        "context": "He says he had wanted to play cricket for several years before then."
+      },
+      {
+        "metric": "Annual matches Rahul says his academy offered",
+        "value": "10 games in a year",
+        "unit": "games per year",
+        "speaker": "KL Rahul",
+        "context": "He contrasts this with the match experience available through a school team."
+      },
+      {
+        "metric": "Annual matches Rahul says a school-team player could get",
+        "value": "30 games in a year",
+        "unit": "games per year",
+        "speaker": "KL Rahul",
+        "context": "He says more games provide more chances to find mistakes."
+      },
+      {
+        "metric": "Year Badshah says 'Saturday Saturday' was released locally",
+        "value": "2012",
+        "unit": "year",
+        "speaker": "Badshah",
+        "context": "He describes the song's path toward a film placement."
+      },
+      {
+        "metric": "Year Badshah says Dharma contacted him about the song",
+        "value": "2013",
+        "unit": "year",
+        "speaker": "Badshah",
+        "context": "He says the filmmakers heard it in a Chandigarh club."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "She asks questions. She wants to know.",
+        "speaker": "Kriti Sanon",
+        "theme": "learning on set"
+      },
+      {
+        "text": "Performing is a skill that you develop, but the want to perform is what drives you.",
+        "speaker": "Badshah",
+        "theme": "performance"
+      },
+      {
+        "text": "You can't fight something that's inevitable.",
+        "speaker": "Badshah",
+        "theme": "AI in music"
+      },
+      {
+        "text": "Every time I try to overachieve or look too far ahead, I miss what's under me.",
+        "speaker": "KL Rahul",
+        "theme": "focus"
+      },
+      {
+        "text": "Pick Industries and companies and people.",
+        "speaker": "Nikhil Kamath",
+        "theme": "investing"
+      }
+    ],
+    "ideas": [
+      {
+        "text": "For an aspiring cricketer, seek regular competitive matches alongside coaching to reveal weaknesses and build experience.",
+        "speaker": "KL Rahul",
+        "type": "playbook"
+      },
+      {
+        "text": "Build or invest in live-music venues and events around the audience experience.",
+        "speaker": "Badshah",
+        "type": "business-idea"
+      },
+      {
+        "text": "Study which sector could become much larger over the next decade, then decide what business to build in it.",
+        "speaker": "Nikhil Kamath",
+        "type": "playbook"
+      },
+      {
+        "text": "Explore a high-end Indian fashion brand built around handmade production and a distinctive story.",
+        "speaker": "Nikhil Kamath",
+        "type": "business-idea"
+      }
+    ],
+    "stories": [
+      {
+        "text": "Kriti says her mother put her into kathak classes after seeing her dance at a college event when she was five; she disliked the classes then but later valued the training.",
+        "speaker": "Kriti Sanon",
+        "lesson": "Early practice can become useful long after it ends."
+      },
+      {
+        "text": "Rahul says he asked for cricket coaching from childhood, but his father waited until he was 11 to enroll him in a camp.",
+        "speaker": "KL Rahul",
+        "lesson": "His interest in cricket preceded formal coaching."
+      },
+      {
+        "text": "Badshah says he produced 'Saturday Saturday' for local release in 2012; after Varun and director Shashank heard it in a Chandigarh club, Dharma contacted him about using it in a film.",
+        "speaker": "Badshah",
+        "lesson": "A locally released song reached film audiences through club play."
+      }
+    ]
+  }
+]

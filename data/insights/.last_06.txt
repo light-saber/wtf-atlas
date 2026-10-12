@@ -1,0 +1,743 @@
+[
+  {
+    "video_id": "EP-#2-Humanoids-Cost-as-Much-as-an-SUV-Now-Nikhil-Kamath-x-Brett-Adcock-WTF-Online-Ep-2",
+    "guests": ["Brett Adcock"],
+    "industries": ["ai", "robotics", "manufacturing", "logistics", "aviation", "consumer-electronics"],
+    "geographies": ["US", "India", "China", "Europe"],
+    "insights": [
+      {
+        "text": "Certification, safety rules and manufacturing scale are the main barriers Brett identifies to carrying paying passengers in electric aircraft; he says the aircraft already fly.",
+        "speaker": "Brett Adcock",
+        "industry": "aviation",
+        "geography": "US"
+      },
+      {
+        "text": "The battery energy gap with aircraft fuel makes short flights the practical starting point for electric aviation.",
+        "speaker": "Brett Adcock",
+        "industry": "aviation",
+        "geography": null
+      },
+      {
+        "text": "Brett favors humanoid robots because homes and workplaces were built for human bodies and actions.",
+        "speaker": "Brett Adcock",
+        "industry": "robotics",
+        "geography": null
+      },
+      {
+        "text": "Figure's BMW deployment runs its reasoning on the robot, without relying on a network connection.",
+        "speaker": "Brett Adcock",
+        "industry": "robotics",
+        "geography": "US"
+      },
+      {
+        "text": "Data from one robot task can improve different tasks: Brett says logistics package handling has helped Figure's laundry folding work.",
+        "speaker": "Brett Adcock",
+        "industry": "ai",
+        "geography": null
+      },
+      {
+        "text": "A learned skill can be distributed across a robot fleet by putting the same neural network on every robot.",
+        "speaker": "Brett Adcock",
+        "industry": "robotics",
+        "geography": null
+      },
+      {
+        "text": "Brett says Figure's robot is not yet safe enough for him to leave it roaming autonomously around his young children.",
+        "speaker": "Brett Adcock",
+        "industry": "robotics",
+        "geography": null
+      },
+      {
+        "text": "Brett argues that useful, general purpose behavior is the current bottleneck in humanoids; manufacturing capacity becomes more decisive after that problem is solved.",
+        "speaker": "Brett Adcock",
+        "industry": "robotics",
+        "geography": "China"
+      },
+      {
+        "text": "Brett expects voice to become a primary way people communicate with robots, though he says today's voice models still interrupt users and make other errors.",
+        "speaker": "Brett Adcock",
+        "industry": "ai",
+        "geography": null
+      }
+    ],
+    "data_points": [
+      {
+        "metric": "Sale price of Brett's recruiting marketplace",
+        "value": "a little over 100 million",
+        "unit": "$",
+        "speaker": "Brett Adcock",
+        "context": "He says he sold Vetery to the Adecco Group in 2017."
+      },
+      {
+        "metric": "Energy density difference between aircraft fuel and batteries",
+        "value": "roughly a 30x difference",
+        "unit": "x",
+        "speaker": "Brett Adcock",
+        "context": "He uses the gap to explain the initial focus on short electric flights."
+      },
+      {
+        "metric": "Expected time until electric aircraft carry paying passengers",
+        "value": "within the next like 5 years",
+        "unit": "years",
+        "speaker": "Brett Adcock",
+        "context": "His forecast depends on certification and scaling."
+      },
+      {
+        "metric": "Duration of Figure's BMW commercial operation",
+        "value": "over 5 months",
+        "unit": "months",
+        "speaker": "Brett Adcock",
+        "context": "He says the robot has run daily with on board reasoning."
+      },
+      {
+        "metric": "Parts in a Figure robot",
+        "value": "like a thousand",
+        "unit": "parts",
+        "speaker": "Brett Adcock",
+        "context": "He gives the approximate component count while describing the robot."
+      },
+      {
+        "metric": "Figure 2 work at its first commercial customer",
+        "value": "10 hours a day",
+        "unit": "hours per workday",
+        "speaker": "Brett Adcock",
+        "context": "He says it performs a task on a car production line."
+      },
+      {
+        "metric": "Potential number of humanoids",
+        "value": "billions",
+        "unit": "robots",
+        "speaker": "Brett Adcock",
+        "context": "This is his forecast for humanoids in homes and the commercial workforce."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The world was designed for humans.",
+        "speaker": "Brett Adcock",
+        "theme": "humanoid form"
+      },
+      {
+        "text": "Once one robot knows how to do like logistics, that's the same neural networks we can put to every single robot in the fleet.",
+        "speaker": "Brett Adcock",
+        "theme": "fleet learning"
+      },
+      {
+        "text": "I would not let my robot roam free for hours and weeks right now with my young kids.",
+        "speaker": "Brett Adcock",
+        "theme": "robot safety"
+      },
+      {
+        "text": "The problem right now is solving a general purpose humanoid robot.",
+        "speaker": "Brett Adcock",
+        "theme": "technical bottleneck"
+      },
+      {
+        "text": "I think it's whoever has the best general purposeness.",
+        "speaker": "Brett Adcock",
+        "theme": "robotics competition"
+      }
+    ],
+    "ideas": [
+      {
+        "text": "Build components, compute, training or data collection tools for humanoid makers; Brett says the field needs help across those areas.",
+        "speaker": "Brett Adcock",
+        "type": "business-idea"
+      },
+      {
+        "text": "Make a large bet on useful general purpose robot behavior before treating factory capacity as the deciding advantage.",
+        "speaker": "Brett Adcock",
+        "type": "contrarian-take"
+      },
+      {
+        "text": "Pursue difficult ideas with large markets because Brett finds they attract investors and employees who want to work on important problems.",
+        "speaker": "Brett Adcock",
+        "type": "playbook"
+      }
+    ],
+    "stories": [
+      {
+        "text": "Brett says he sold his AI recruiting marketplace Vetery to the Adecco Group in 2017, then started Archer Aviation to build electric aircraft.",
+        "speaker": "Brett Adcock",
+        "lesson": "Experience integrating hardware and software carried into his later robotics work."
+      },
+      {
+        "text": "Brett says Figure 2 has worked every workday at a BMW production line, giving Figure data on autonomous operation, interventions and failures.",
+        "speaker": "Brett Adcock",
+        "lesson": "A live deployment reveals problems that demonstrations cannot."
+      },
+      {
+        "text": "Brett says he has kept a Figure robot in his home for months to test tasks, while supervising it around his children.",
+        "speaker": "Brett Adcock",
+        "lesson": "Home testing has not yet established the safety record he wants for unsupervised use."
+      }
+    ]
+  },
+  {
+    "video_id": "EP-#2-Nikhil-Kamath-x-Ranbir-Kapoor-People-by-WTF-Ep-#2",
+    "guests": ["Ranbir Kapoor"],
+    "industries": ["film", "content", "fashion", "finance"],
+    "geographies": ["India", "US"],
+    "insights": [
+      {
+        "text": "Ranbir says film interviews centered on a release often draw more interest in an actor's personal life than in the film.",
+        "speaker": "Ranbir Kapoor",
+        "industry": "film",
+        "geography": "India"
+      },
+      {
+        "text": "Ranbir credits assisting Sanjay Leela Bhansali on Black with teaching him more about filmmaking than his formal film classes.",
+        "speaker": "Ranbir Kapoor",
+        "industry": "film",
+        "geography": "India"
+      },
+      {
+        "text": "Ranbir says Animal helped him move beyond a career position he felt had become stagnant, despite criticism of the film.",
+        "speaker": "Ranbir Kapoor",
+        "industry": "film",
+        "geography": "India"
+      },
+      {
+        "text": "Nikhil argues that an audience's connection with a public figure can come from visible flaws and vulnerability.",
+        "speaker": "Nikhil Kamath",
+        "industry": "content",
+        "geography": null
+      },
+      {
+        "text": "Ranbir has worked on an Indian essentials and sneaker brand but says he is still studying the market because he does not want a celebrity brand that fails.",
+        "speaker": "Ranbir Kapoor",
+        "industry": "fashion",
+        "geography": "India"
+      },
+      {
+        "text": "Ranbir says a long career in the arts requires patience and sacrifice, while directing requires selflessness and producing requires skill with people.",
+        "speaker": "Ranbir Kapoor",
+        "industry": "film",
+        "geography": null
+      },
+      {
+        "text": "Ranbir says choosing a story and character he believes in has worked better for him than choosing a film mainly to pursue a bigger commercial result.",
+        "speaker": "Ranbir Kapoor",
+        "industry": "film",
+        "geography": "India"
+      },
+      {
+        "text": "Ranbir says film financing has changed because corporate financing and ownership of intellectual property now matter more alongside streaming.",
+        "speaker": "Ranbir Kapoor",
+        "industry": "film",
+        "geography": "India"
+      }
+    ],
+    "data_points": [
+      {
+        "metric": "Ranbir's 10th standard board result",
+        "value": "54.3",
+        "unit": "%",
+        "speaker": "Ranbir Kapoor",
+        "context": "He recalls his family celebrating the result."
+      },
+      {
+        "metric": "Ranbir's student meal budget in New York",
+        "value": "$2 lunch, $2 dinner",
+        "unit": "$ per meal",
+        "speaker": "Ranbir Kapoor",
+        "context": "He uses it to describe the budget his father gave him."
+      },
+      {
+        "metric": "Workday while assisting on Black",
+        "value": "14, 15 hours a day",
+        "unit": "hours per day",
+        "speaker": "Ranbir Kapoor",
+        "context": "He describes the demands of working for Sanjay Leela Bhansali."
+      },
+      {
+        "metric": "Time spent considering a sneaker brand",
+        "value": "10 years",
+        "unit": "years",
+        "speaker": "Ranbir Kapoor",
+        "context": "He says he has talked about the idea for years."
+      },
+      {
+        "metric": "Training time for an upcoming role",
+        "value": "3 hours a day",
+        "unit": "hours per day",
+        "speaker": "Ranbir Kapoor",
+        "context": "He describes his mobility, cardio and strength sessions."
+      },
+      {
+        "metric": "Films Ranbir estimates work in a year",
+        "value": "three or four",
+        "unit": "films",
+        "speaker": "Ranbir Kapoor",
+        "context": "His estimate during a discussion of box office risk."
+      },
+      {
+        "metric": "Films Ranbir estimates are made in that comparison",
+        "value": "80, 90",
+        "unit": "films",
+        "speaker": "Ranbir Kapoor",
+        "context": "He gives this as the pool from which only a few work."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "You have something inspiring to say, then do an interview.",
+        "speaker": "Ranbir Kapoor",
+        "theme": "publicity"
+      },
+      {
+        "text": "I don't think movies should be where society derives their sense of morality.",
+        "speaker": "Nikhil Kamath",
+        "theme": "films and morality"
+      },
+      {
+        "text": "To really have a long career in the arts, you have to have patience.",
+        "speaker": "Ranbir Kapoor",
+        "theme": "creative careers"
+      },
+      {
+        "text": "You don't need to always play the hero. You don't always have to play that quintessential hero.",
+        "speaker": "Ranbir Kapoor",
+        "theme": "acting"
+      },
+      {
+        "text": "Eventually, you will only become a star or a superstar if you're a good actor.",
+        "speaker": "Ranbir Kapoor",
+        "theme": "craft"
+      }
+    ],
+    "ideas": [
+      {
+        "text": "Build an Indian lifestyle brand around essentials such as T-shirts, jeans, shirts and sneakers.",
+        "speaker": "Ranbir Kapoor",
+        "type": "business-idea"
+      },
+      {
+        "text": "For film investment, seek financing and ownership of the intellectual property rather than relying only on a producer's fee.",
+        "speaker": "Ranbir Kapoor",
+        "type": "investment-thesis"
+      },
+      {
+        "text": "Choose film roles for belief in the story and character instead of making commercial scale the starting intention.",
+        "speaker": "Ranbir Kapoor",
+        "type": "playbook"
+      }
+    ],
+    "stories": [
+      {
+        "text": "Ranbir says he left a résumé outside Sanjay Leela Bhansali's office after Devdas; Bhansali called him the next day, and Ranbir later assisted on Black.",
+        "speaker": "Ranbir Kapoor",
+        "lesson": "He pursued the filmmaker he most wanted to learn from."
+      },
+      {
+        "text": "Ranbir recalls Ayan telling him several days into Wake Up Sid that he was playing the part like a hero rather than a character.",
+        "speaker": "Ranbir Kapoor",
+        "lesson": "The correction changed how he approached later roles."
+      },
+      {
+        "text": "Ranbir says he produced Jagga Jasoos, which did poorly at the box office, and concluded that producing required skills he did not have.",
+        "speaker": "Ranbir Kapoor",
+        "lesson": "Success in acting did not automatically translate into producing."
+      }
+    ]
+  },
+  {
+    "video_id": "EP-#2-Secrets-of-Social-Media-Success,-Mental-Health-and-Distribution-Hacks-3-OGs-Reveal-All",
+    "guests": ["Umang Bedi", "Tanmay Bhat"],
+    "industries": ["content", "social-media", "advertising", "ecommerce"],
+    "geographies": ["India", "China", "US", "Brazil", "Saudi Arabia"],
+    "insights": [
+      {
+        "text": "Umang says social platforms can use contacts and engagement data to learn a user's network and keep drawing that user back for advertising.",
+        "speaker": "Umang Bedi",
+        "industry": "social-media",
+        "geography": null
+      },
+      {
+        "text": "Umang says Josh and Dailyhunt chose anonymous access and content based recommendations rather than requiring personal data and a social graph.",
+        "speaker": "Umang Bedi",
+        "industry": "social-media",
+        "geography": "India"
+      },
+      {
+        "text": "Umang says local language content is a distinct use case in India, with Josh's content differing from the content he sees on Instagram.",
+        "speaker": "Umang Bedi",
+        "industry": "content",
+        "geography": "India"
+      },
+      {
+        "text": "Tanmay says a large YouTube audience tends to carry over to other platforms more reliably than a large Instagram audience carries over to YouTube.",
+        "speaker": "Tanmay Bhat",
+        "industry": "content",
+        "geography": null
+      },
+      {
+        "text": "Umang argues that easy creator tools helped short video platforms let people make popular content without professional video production skills.",
+        "speaker": "Umang Bedi",
+        "industry": "content",
+        "geography": null
+      },
+      {
+        "text": "Umang says time spent on the internet in rural India is growing relative to urban India, with phones serving as a primary screen for consumption and creation.",
+        "speaker": "Umang Bedi",
+        "industry": "social-media",
+        "geography": "India"
+      },
+      {
+        "text": "Tanmay says an emotional connection with an audience depends on being authentic enough to show personal flaws.",
+        "speaker": "Tanmay Bhat",
+        "industry": "content",
+        "geography": null
+      },
+      {
+        "text": "Umang describes Douyin's combination of creator tools, personalized recommendations and commerce as a powerful way to turn attention into sales.",
+        "speaker": "Umang Bedi",
+        "industry": "ecommerce",
+        "geography": "China"
+      }
+    ],
+    "data_points": [
+      {
+        "metric": "Dailyhunt monthly active users",
+        "value": "240 million",
+        "unit": "monthly active users",
+        "speaker": "Umang Bedi",
+        "context": "He gives the app's reach during the discussion of Indian platforms."
+      },
+      {
+        "metric": "Josh reach",
+        "value": "about 180 million",
+        "unit": "users",
+        "speaker": "Umang Bedi",
+        "context": "He compares it with Dailyhunt's audience."
+      },
+      {
+        "metric": "Indians who speak and communicate in Hindi",
+        "value": "about 560 million",
+        "unit": "people",
+        "speaker": "Umang Bedi",
+        "context": "He uses the figure to explain the market for local language content."
+      },
+      {
+        "metric": "Tanmay's first Twitter audience",
+        "value": "10,000",
+        "unit": "followers",
+        "speaker": "Tanmay Bhat",
+        "context": "He says he gained them by posting jokes."
+      },
+      {
+        "metric": "Average short video use among the Chinese users Umang discusses",
+        "value": "2 and a half hours a day",
+        "unit": "hours per day",
+        "speaker": "Umang Bedi",
+        "context": "He uses it to compare time spent across markets."
+      },
+      {
+        "metric": "Douyin share of commerce in China",
+        "value": "7%",
+        "unit": "%",
+        "speaker": "Umang Bedi",
+        "context": "He cites it while describing short video commerce."
+      },
+      {
+        "metric": "TikTok monthly active users in India when it exited",
+        "value": "240 million",
+        "unit": "monthly active users",
+        "speaker": "Umang Bedi",
+        "context": "He describes TikTok's scale in India."
+      },
+      {
+        "metric": "TikTok time spent in India when it exited",
+        "value": "almost 50 minutes",
+        "unit": "minutes per user per day",
+        "speaker": "Umang Bedi",
+        "context": "He gives the figure alongside TikTok's Indian audience."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "If you are really big on YouTube, you are likely also big on the other platforms but not vice versa.",
+        "speaker": "Tanmay Bhat",
+        "theme": "audience distribution"
+      },
+      {
+        "text": "Any platform that enables you to become a rockstar in the easiest way possible would win.",
+        "speaker": "Umang Bedi",
+        "theme": "creator tools"
+      },
+      {
+        "text": "Emotionally connecting with an audience, it really comes down to authenticity.",
+        "speaker": "Tanmay Bhat",
+        "theme": "audience trust"
+      },
+      {
+        "text": "If you hire, you technically shouldn't be firing.",
+        "speaker": "Umang Bedi",
+        "theme": "hiring responsibility"
+      }
+    ],
+    "ideas": [
+      {
+        "text": "Recommend local language content from what a person watches rather than requiring sign-in or building recommendations from their contacts.",
+        "speaker": "Umang Bedi",
+        "type": "playbook"
+      },
+      {
+        "text": "Give creators simple production tools so people without professional video skills can publish compelling short videos.",
+        "speaker": "Umang Bedi",
+        "type": "playbook"
+      },
+      {
+        "text": "Use direct community spaces, such as Discord, to keep followers connected beyond a platform's main feed.",
+        "speaker": "Tanmay Bhat",
+        "type": "playbook"
+      }
+    ],
+    "stories": [
+      {
+        "text": "Tanmay says he began posting jokes on Twitter in 2009, reached his first 10,000 followers, and met the people who formed AIB through Twitter.",
+        "speaker": "Tanmay Bhat",
+        "lesson": "Publishing consistently helped him build both an audience and creative relationships."
+      },
+      {
+        "text": "Umang says his driver took a job in Dubai and then sent him a LinkedIn request because Instagram felt intimidating to him.",
+        "speaker": "Umang Bedi",
+        "lesson": "A platform's portrayed lifestyle can affect who feels comfortable using it."
+      },
+      {
+        "text": "Umang says Dailyhunt had about a month's cash left in March 2020, then raised funding on March 28.",
+        "speaker": "Umang Bedi",
+        "lesson": "He describes how close the company came to running out of cash."
+      }
+    ]
+  },
+  {
+    "video_id": "EP-#2-WTF-Is-Wealth-Ray-Dalio-Breaks-It-Down-w-Nikhil-Kamath-WTF-is-Finance-Ep-2",
+    "guests": ["Ray Dalio"],
+    "industries": ["finance", "crypto", "real-estate", "ai"],
+    "geographies": ["India", "US", "China", "UK", "France", "UAE", "Saudi Arabia"],
+    "insights": [
+      {
+        "text": "Ray says most investors should first choose a diversified asset mix that does not depend on timing the market.",
+        "speaker": "Ray Dalio",
+        "industry": "finance",
+        "geography": null
+      },
+      {
+        "text": "Ray favors holding some gold because it can diversify a portfolio when other assets struggle, despite its low long term real return.",
+        "speaker": "Ray Dalio",
+        "industry": "finance",
+        "geography": null
+      },
+      {
+        "text": "Ray says excessive debt creation in several countries makes him wary of holding wealth in fiat currencies and related debt instruments.",
+        "speaker": "Ray Dalio",
+        "industry": "finance",
+        "geography": null
+      },
+      {
+        "text": "Ray considers Bitcoin a form of money but prefers gold because Bitcoin transactions can be tracked or interfered with and the system carries other risks.",
+        "speaker": "Ray Dalio",
+        "industry": "crypto",
+        "geography": null
+      },
+      {
+        "text": "Ray sees stablecoins as potentially useful for quick transactions, but says a coin tied to fiat currency is not yet an attractive store of wealth for him.",
+        "speaker": "Ray Dalio",
+        "industry": "crypto",
+        "geography": null
+      },
+      {
+        "text": "Ray says a company's headline valuation can create apparent wealth that its owners cannot all convert into spendable money at that price.",
+        "speaker": "Ray Dalio",
+        "industry": "finance",
+        "geography": null
+      },
+      {
+        "text": "Ray says investors need to understand cause and effect to develop an edge and should diversify their bets to reduce risk.",
+        "speaker": "Ray Dalio",
+        "industry": "finance",
+        "geography": null
+      },
+      {
+        "text": "Ray expects India to have strong growth fundamentals over the next decade, citing infrastructure development, access to credit, talent and relatively little debt.",
+        "speaker": "Ray Dalio",
+        "industry": "finance",
+        "geography": "India"
+      },
+      {
+        "text": "Ray says a young person with little money should first consider what investment in learning or a small business would most improve their ability to succeed.",
+        "speaker": "Ray Dalio",
+        "industry": "finance",
+        "geography": "India"
+      }
+    ],
+    "data_points": [
+      {
+        "metric": "Ray's pay for caddying",
+        "value": "$6 a bag",
+        "unit": "$ per bag",
+        "speaker": "Ray Dalio",
+        "context": "He describes how he earned money for his first investments."
+      },
+      {
+        "metric": "Amount Ray first put into the stock market",
+        "value": "$50",
+        "unit": "$",
+        "speaker": "Ray Dalio",
+        "context": "He says he invested after saving his caddying earnings."
+      },
+      {
+        "metric": "Gold or alternative money allocation Ray suggests for most investors",
+        "value": "between 5% and 15%",
+        "unit": "% of portfolio",
+        "speaker": "Ray Dalio",
+        "context": "He presents it as a portfolio allocation, dependent on other holdings."
+      },
+      {
+        "metric": "Gold's real return described by Ray",
+        "value": "about a 1.2% a year",
+        "unit": "% real return per year",
+        "speaker": "Ray Dalio",
+        "context": "He contrasts gold's low return with its diversification benefit."
+      },
+      {
+        "metric": "Nikhil's longstanding gold allocation",
+        "value": "10%",
+        "unit": "% of asset base",
+        "speaker": "Nikhil Kamath",
+        "context": "He states it while questioning gold as a store of wealth."
+      },
+      {
+        "metric": "Illustrative stake sold to establish a startup valuation",
+        "value": "$50 million",
+        "unit": "$",
+        "speaker": "Ray Dalio",
+        "context": "He uses it in an example about apparent versus spendable wealth."
+      },
+      {
+        "metric": "Illustrative valuation from that transaction",
+        "value": "a billion dollars",
+        "unit": "$",
+        "speaker": "Ray Dalio",
+        "context": "He says the valuation does not mean everyone could sell at that price."
+      },
+      {
+        "metric": "Horizon for Ray's India growth forecast",
+        "value": "the next 10 years",
+        "unit": "years",
+        "speaker": "Ray Dalio",
+        "context": "He discusses India's growth ingredients over this period."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Money is debt and debt is money.",
+        "speaker": "Ray Dalio",
+        "theme": "money and debt"
+      },
+      {
+        "text": "Most people can't beat the market.",
+        "speaker": "Ray Dalio",
+        "theme": "portfolio construction"
+      },
+      {
+        "text": "Wealth can easily be created.",
+        "speaker": "Ray Dalio",
+        "theme": "paper wealth"
+      },
+      {
+        "text": "You need to have an edge, and that is by knowing those cause-effect relationships.",
+        "speaker": "Ray Dalio",
+        "theme": "investing"
+      },
+      {
+        "text": "Play the game, find a game that you love and ideally one that makes money.",
+        "speaker": "Ray Dalio",
+        "theme": "learning by doing"
+      }
+    ],
+    "ideas": [
+      {
+        "text": "Start with a diversified portfolio allocation before attempting market timing.",
+        "speaker": "Ray Dalio",
+        "type": "playbook"
+      },
+      {
+        "text": "Hold some gold or alternative money as a portfolio diversifier, with the amount depending on the other assets held.",
+        "speaker": "Ray Dalio",
+        "type": "investment-thesis"
+      },
+      {
+        "text": "Learn a field by playing its game early and spending time with people already skilled at it.",
+        "speaker": "Ray Dalio",
+        "type": "playbook"
+      },
+      {
+        "text": "Consider prediction markets as a way to hedge an equity position against a specific adverse event.",
+        "speaker": "Ray Dalio",
+        "type": "investment-thesis"
+      }
+    ],
+    "stories": [
+      {
+        "text": "Ray says he saved money from caddying, bought a cheap stock that was then acquired and tripled, and became interested in markets at age 12.",
+        "speaker": "Ray Dalio",
+        "lesson": "An early gain drew him into investing, though he says the trade's reasoning made no sense."
+      },
+      {
+        "text": "Ray says he was clerking at the New York Stock Exchange in 1971 when President Nixon ended the dollar's convertibility into gold.",
+        "speaker": "Ray Dalio",
+        "lesson": "The event shaped his attention to money and claims on it."
+      },
+      {
+        "text": "Ray says his grandchildren sell hot cider in a park and learn about equipment costs, unit costs, margins and recovering their initial spending.",
+        "speaker": "Ray Dalio",
+        "lesson": "A small venture can teach the mechanics of business."
+      }
+    ]
+  },
+  {
+    "video_id": "EP-#2-WTF-are-Ray-Dalio's-Rules-to-Build-a-Real-Portfolio-Nikhil-Kamath-WTF-is-Finance-Ep-2-Teaser-(Trailer)",
+    "guests": ["Ray Dalio"],
+    "industries": ["finance", "crypto"],
+    "geographies": [],
+    "insights": [
+      {
+        "text": "Ray says an increase in reported wealth has limited practical value unless an owner can convert it into money to spend.",
+        "speaker": "Ray Dalio",
+        "industry": "finance",
+        "geography": null
+      },
+      {
+        "text": "Ray says the current ratio of wealth to money is very high.",
+        "speaker": "Ray Dalio",
+        "industry": "finance",
+        "geography": null
+      }
+    ],
+    "data_points": [
+      {
+        "metric": "Portfolio allocation Ray begins to recommend",
+        "value": "between 5 and 15%",
+        "unit": "% of portfolio",
+        "speaker": "Ray Dalio",
+        "context": "The teaser ends before he names the asset."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The wealth isn't worth anything if you don't sell it, convert it into money to spend.",
+        "speaker": "Ray Dalio",
+        "theme": "paper wealth"
+      },
+      {
+        "text": "We have right now a very high ratio of wealth to money.",
+        "speaker": "Ray Dalio",
+        "theme": "wealth and liquidity"
+      }
+    ],
+    "ideas": [],
+    "stories": []
+  }
+]

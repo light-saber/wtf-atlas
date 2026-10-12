@@ -1,208 +1,894 @@
 [
-  {
-    "video_id": "EP-#5-EdTech-What's-Broken,-What's-Next-With-Nikhil,-Ronnie-Screwvala-,-Gaurav-Munjal-and-Jay-Kotak",
-    "guests": ["Ronnie Screwvala", "Gaurav Munjal", "Jay Kotak"],
-    "industries": ["edtech", "education", "finance", "venture-capital", "content", "gaming"],
-    "geographies": ["India", "US", "Africa", "Vietnam"],
-    "insights": [
-      {"text": "Ronnie built UTV's early television content on a cost-plus B2B model because it lacked funding, then moved into broadcasting and film to own a consumer brand and scale.", "speaker": "Ronnie Screwvala", "industry": "content", "geography": "India"},
-      {"text": "An integrated media business can create more value than a single-format media company, even when investors criticize its apparent lack of focus.", "speaker": "Ronnie Screwvala", "industry": "content", "geography": "India"},
-      {"text": "For working adults learning online, the learning experience and process matter more than lectures alone.", "speaker": "Ronnie Screwvala", "industry": "edtech", "geography": null},
-      {"text": "Opening accessible libraries in rural schools coincided with a sharp rise in attendance, showing that a small change in access can change engagement.", "speaker": "Ronnie Screwvala", "industry": "education", "geography": "India"},
-      {"text": "Competitive exam preparation is a tournament business: learners pay for coaching because qualifying for scarce places can change their lives.", "speaker": "Gaurav Munjal", "industry": "edtech", "geography": "India"},
-      {"text": "An AI learning app could generate lessons and questions at each student's level and use positive reinforcement to keep them engaged.", "speaker": "Gaurav Munjal", "industry": "edtech", "geography": null},
-      {"text": "Digital onboarding let Kotak 811 reach people who were unbanked or underbanked through a zero-minimum-balance account opened on a phone.", "speaker": "Jay Kotak", "industry": "finance", "geography": "India"},
-      {"text": "Investors seeking rapid scale can obscure the value of building a company patiently and with less capital.", "speaker": "Nikhil Kamath", "industry": "venture-capital", "geography": "India"},
-      {"text": "Founders should spot problems before trying to solve them, since speed leaves little room to react after a threat is obvious.", "speaker": "Ronnie Screwvala", "industry": null, "geography": null}
-    ],
-    "data_points": [
-      {"metric": "Rural-school attendance after opening libraries", "value": "60 to 95", "unit": "%", "speaker": "Ronnie Screwvala", "context": "He described the attendance change across rural schools his foundation worked with."},
-      {"metric": "Rural schools worked with", "value": "1200", "unit": "schools", "speaker": "Ronnie Screwvala", "context": "Scope of his example about libraries and attendance."},
-      {"metric": "Combined revenue of four named coaching chains", "value": "20 000", "unit": "INR crore", "speaker": "Gaurav Munjal", "context": "He cited Chaitanya, Allen, Aakash and Narayana to illustrate offline coaching's scale."},
-      {"metric": "Top educator compensation", "value": "a million", "unit": "US dollars", "speaker": "Gaurav Munjal", "context": "He said some Unacademy teachers earn this amount."},
-      {"metric": "Kotak 811 monthly new accounts", "value": "six lakh", "unit": "accounts per month", "speaker": "Jay Kotak", "context": "He used this to describe digital account-opening scale."},
-      {"metric": "Kotak 811 share of Kotak's account openings", "value": "seventy to seventy five", "unit": "%", "speaker": "Jay Kotak", "context": "He attributed most new account openings to the digital product."}
-    ],
-    "quotes": [
-      {"text": "I've been blessed by not being spoiled with a lot of fundraising, which I think really corrupts people and corrupts minds and corrupts businesses.", "speaker": "Ronnie Screwvala", "theme": "capital discipline"},
-      {"text": "When you're going against the grain and a lot of people think they have not understood your model, I've found that's normally where 10x or 20x value gets created.", "speaker": "Ronnie Screwvala", "theme": "contrarian value"},
-      {"text": "I hate balance. I think you have to go all in if you have to create something truly big.", "speaker": "Gaurav Munjal", "theme": "entrepreneurial intensity"},
-      {"text": "I am not looking for problem solvers anymore. I'm talking about problem spotters.", "speaker": "Ronnie Screwvala", "theme": "hiring"},
-      {"text": "You can open a bank account in three minutes sitting in your living room on your phone.", "speaker": "Jay Kotak", "theme": "digital banking"}
-    ],
-    "ideas": [
-      {"text": "Build an adaptive AI tutor that generates lessons and questions in real time and makes progress feel like winning a game.", "speaker": "Gaurav Munjal", "type": "business-idea"},
-      {"text": "Build technology-first education products in sectors beyond fintech, taking Duolingo and Roblox as examples of engaging software.", "speaker": "Gaurav Munjal", "type": "investment-thesis"},
-      {"text": "Augment formal schooling and expand access for disadvantaged learners rather than dismantling its useful structure.", "speaker": "Ronnie Screwvala", "type": "playbook"},
-      {"text": "Build a consumer media brand through an integrated broadcaster and movie-studio model rather than remaining a supplier of content.", "speaker": "Ronnie Screwvala", "type": "playbook"}
-    ],
-    "stories": [
-      {"text": "Gaurav Munjal asked his friend Roman, newly through the UPSC examination, to record preparation videos before training; those videos brought Unacademy about a million views.", "speaker": "Gaurav Munjal", "lesson": "A single high-demand teaching format can reveal a larger product opportunity."},
-      {"text": "Ronnie Screwvala said UTV's first five movies failed, yet he continued because film was needed to build a consumer media brand.", "speaker": "Ronnie Screwvala", "lesson": "A new channel may require several failures before its strategic value appears."},
-      {"text": "Gaurav Munjal said Resonance in Jaipur rejected him from Ashish Arora's batch after an entrance test; Arora later joined Unacademy.", "speaker": "Gaurav Munjal", "lesson": "Digital education can broaden access to teachers once restricted to selected batches."}
-    ]
-  },
-  {
-    "video_id": "EP-#5-Nikhil-Kamath-x-Kumar-Birla-People-by-WTF-Ep-#5",
-    "guests": ["Kumar Mangalam Birla"],
-    "industries": ["manufacturing", "finance", "retail", "fashion", "real-estate", "venture-capital"],
-    "geographies": ["India", "UK", "US"],
-    "insights": [
-      {"text": "Large businesses need more creative management as easy sources of growth are exhausted and new value must be found.", "speaker": "Kumar Mangalam Birla", "industry": "manufacturing", "geography": null},
-      {"text": "A conglomerate should invest in new growth engines when established businesses mature and their growth slows.", "speaker": "Kumar Mangalam Birla", "industry": "manufacturing", "geography": "India"},
-      {"text": "Running multiple businesses at scale depends on trusting experienced teams rather than treating the group as family-run.", "speaker": "Kumar Mangalam Birla", "industry": "manufacturing", "geography": "India"},
-      {"text": "A hiring decision for a complex business should test whether a leader learns quickly and can lead large, diverse teams.", "speaker": "Kumar Mangalam Birla", "industry": null, "geography": null},
-      {"text": "The group's move into paint draws on housing demand and its existing cement dealership network.", "speaker": "Kumar Mangalam Birla", "industry": "manufacturing", "geography": "India"},
-      {"text": "The group's jewelry entry draws on retail experience, consumer aspiration and trust in its brand.", "speaker": "Kumar Mangalam Birla", "industry": "retail", "geography": "India"},
-      {"text": "Private equity and venture capital can grow businesses, but founders knowingly accept investor terms and should align expectations before signing.", "speaker": "Kumar Mangalam Birla", "industry": "venture-capital", "geography": null},
-      {"text": "On-the-job exposure to manufacturing, finance and hiring can accelerate business learning beyond classroom instruction.", "speaker": "Kumar Mangalam Birla", "industry": "manufacturing", "geography": "India"}
-    ],
-    "data_points": [
-      {"metric": "Employees across the group", "value": "180,000", "unit": "people", "speaker": "Kumar Mangalam Birla", "context": "Scale of the organization he described as one team."},
-      {"metric": "Long-tenured employees", "value": "4,000", "unit": "people", "speaker": "Kumar Mangalam Birla", "context": "Employees he said had stayed with the group for 20-plus years."},
-      {"metric": "Tenure of those long-serving employees", "value": "20 plus", "unit": "years", "speaker": "Kumar Mangalam Birla", "context": "Used to explain the internal leadership pipeline."},
-      {"metric": "Time between CA completion and graduation", "value": "6 months", "unit": "months", "speaker": "Kumar Mangalam Birla", "context": "He said he completed his chartered accountancy qualification within this period of graduating."},
-      {"metric": "Approximate cost of a large jewelry store", "value": "30 CR", "unit": "INR crore", "speaker": "Kumar Mangalam Birla", "context": "His estimate when discussing startup capital for jewelry retail."}
-    ],
-    "quotes": [
-      {"text": "The most creative thing you can do is build or run a business.", "speaker": "Kumar Mangalam Birla", "theme": "business creativity"},
-      {"text": "If you want to grow, the only way to grow is to have energized teams.", "speaker": "Kumar Mangalam Birla", "theme": "leadership"},
-      {"text": "Legacy to me is more about impact, not so much about accolades.", "speaker": "Kumar Mangalam Birla", "theme": "legacy"},
-      {"text": "Giving a part of that back to society is something that for me and for all of us is a given.", "speaker": "Kumar Mangalam Birla", "theme": "corporate responsibility"},
-      {"text": "There's so much change in the world today that to stay current, tweak your business model on the basis of what's happening.", "speaker": "Kumar Mangalam Birla", "theme": "adaptation"}
-    ],
-    "ideas": [
-      {"text": "Use a mature conglomerate's distribution and retail experience to enter adjacent consumer categories such as paint and jewelry.", "speaker": "Kumar Mangalam Birla", "type": "playbook"},
-      {"text": "Create an affordable jewelry brand with a clear price ceiling so buyers know what they can spend before entering a store.", "speaker": "Nikhil Kamath", "type": "business-idea"},
-      {"text": "Build leadership bandwidth by recruiting managers with experience and skills the organization lacks.", "speaker": "Kumar Mangalam Birla", "type": "playbook"}
-    ],
-    "stories": [
-      {"text": "Kumar Mangalam Birla worked beside his father through meetings for long days while studying for his CA; when his father began testing his understanding, he realized Kumar had absorbed the discussions.", "speaker": "Kumar Mangalam Birla", "lesson": "Direct exposure and feedback built confidence before he took responsibility."},
-      {"text": "Kumar Mangalam Birla spent a year on the shop floor at Century Textiles to learn manufacturing controls and operations.", "speaker": "Kumar Mangalam Birla", "lesson": "Operational experience can ground later leadership decisions."},
-      {"text": "A scholarship named for his father enabled a woman from a conservative family to continue her education when her parents could only afford to educate her brother.", "speaker": "Kumar Mangalam Birla", "lesson": "Scholarships can alter the choices created by unequal household resources."}
-    ]
-  },
-  {
-    "video_id": "EP-#6-People-with-The-Prime-Minister-Shri-Narendra-Modi-x-Nikhil-Kamath-Episode-6-By-WTF",
-    "guests": ["Narendra Modi"],
-    "industries": ["politics", "education", "public-service", "technology"],
-    "geographies": ["India", "China", "Russia", "Ukraine", "Iran", "Palestine", "Israel", "Nepal", "Pakistan", "Bangladesh", "United Arab Emirates"],
-    "insights": [
-      {"text": "Success in politics requires standing with people in good and bad times, taking responsibility and working as part of a team.", "speaker": "Narendra Modi", "industry": "politics", "geography": "India"},
-      {"text": "Modi argues that entrants to public life should put a mission above personal ambition.", "speaker": "Narendra Modi", "industry": "politics", "geography": "India"},
-      {"text": "Modi distinguishes communication through conduct from oratory, citing Gandhi's way of life as his strongest political message.", "speaker": "Narendra Modi", "industry": "politics", "geography": "India"},
-      {"text": "Social media can strengthen democracy by giving citizens ways to verify claims beyond a limited set of reporters.", "speaker": "Narendra Modi", "industry": "technology", "geography": "India"},
-      {"text": "Growing comfortable can weaken an entrepreneur's willingness to take risks and adapt.", "speaker": "Narendra Modi", "industry": null, "geography": null},
-      {"text": "Government efficiency should be measured by shorter processes and better delivery, not simply by fewer ministers or employees.", "speaker": "Narendra Modi", "industry": "public-service", "geography": "India"},
-      {"text": "Revisiting the villages where senior civil servants began their careers was used to make them confront whether local conditions had improved.", "speaker": "Narendra Modi", "industry": "public-service", "geography": "India"},
-      {"text": "Young people can have political impact through education and community work even without running for office.", "speaker": "Narendra Modi", "industry": "politics", "geography": "India"}
-    ],
-    "data_points": [
-      {"metric": "Population of Vadnagar in Modi's childhood", "value": "15,000", "unit": "people", "speaker": "Narendra Modi", "context": "His recalled size of his hometown in North Gujarat."},
-      {"metric": "Reservation for women in local government", "value": "50%", "unit": "%", "speaker": "Narendra Modi", "context": "He said this exists in almost every Indian state, with variation."},
-      {"metric": "Planned reservation for women in legislatures", "value": "30%", "unit": "%", "speaker": "Narendra Modi", "context": "He cited future representation in MLA and MP categories."},
-      {"metric": "People in the community he described as overlooked", "value": "25 lakh", "unit": "people", "speaker": "Narendra Modi", "context": "He explained why responding to Draupadi Murmu's request mattered despite limited electoral benefit."},
-      {"metric": "Places where that community lives", "value": "250", "unit": "places", "speaker": "Narendra Modi", "context": "He described the community's geographic dispersion."}
-    ],
-    "quotes": [
-      {"text": "They should come with a mission, not with an ambition.", "speaker": "Narendra Modi", "theme": "public service"},
-      {"text": "Communication is more important than the art of speech.", "speaker": "Narendra Modi", "theme": "leadership"},
-      {"text": "Most people fail in life because they get used to their comfort zone.", "speaker": "Narendra Modi", "theme": "risk"},
-      {"text": "I am not neutral. I am on the side of peace.", "speaker": "Narendra Modi", "theme": "foreign policy"},
-      {"text": "For me, 'AI' stands for 'Aspirational India.'", "speaker": "Narendra Modi", "theme": "national ambition"}
-    ],
-    "ideas": [
-      {"text": "Recruit mission-driven young people into all political parties and public service roles, including community work outside elections.", "speaker": "Narendra Modi", "type": "playbook"},
-      {"text": "Treat minimum government as a redesign of slow approvals and processes so services reach citizens faster.", "speaker": "Narendra Modi", "type": "playbook"},
-      {"text": "Prepare women serving in local government for future leadership in state and national legislatures.", "speaker": "Narendra Modi", "type": "playbook"}
-    ],
-    "stories": [
-      {"text": "Modi read a military-school advertisement in his village, ordered the English prospectus by money order and asked headmaster Rasbihari Maniyar to explain it; his father said the family could not afford to send him.", "speaker": "Narendra Modi", "lesson": "Money constrained an early ambition despite his initiative."},
-      {"text": "While driving an RSS Jeep back from Ukai Dam, Modi switched off the engine to save petrol on a slope and lost control of braking; the passengers escaped harm.", "speaker": "Narendra Modi", "lesson": "A failed shortcut became a direct lesson in risk."},
-      {"text": "After becoming Gujarat chief minister, Modi sent officers to earthquake-affected districts; they returned identifying rules that blocked progress, and he told them to change those rules.", "speaker": "Narendra Modi", "lesson": "Field visits can reveal and remove administrative bottlenecks."}
-    ]
-  },
-  {
-    "video_id": "EP-#6-WTF-is-Health-ft.-Nikhil-Kamath,-Suniel-Shetty,-Nithin-Kamath-and-Mukesh-Bansal",
-    "guests": ["Suniel Shetty", "Nithin Kamath", "Mukesh Bansal"],
-    "industries": ["healthcare", "fitness", "longevity", "food", "retail", "venture-capital"],
-    "geographies": ["India", "US", "Europe"],
-    "insights": [
-      {"text": "Mukesh Bansal sees India's low paid gym participation as evidence that its organized fitness market is still early.", "speaker": "Mukesh Bansal", "industry": "fitness", "geography": "India"},
-      {"text": "The gap between gym users and people with diabetes or prediabetes points to a much larger unmet need for healthy behavior.", "speaker": "Mukesh Bansal", "industry": "healthcare", "geography": "India"},
-      {"text": "Nithin Kamath argues that promoting sports beyond cricket could make exercise a routine part of Indian life.", "speaker": "Nithin Kamath", "industry": "fitness", "geography": "India"},
-      {"text": "Mukesh Bansal stopped drinking after repeatedly finding that even moderate wine disrupted his sleep and next-day work and exercise.", "speaker": "Mukesh Bansal", "industry": "healthcare", "geography": null},
-      {"text": "Suniel Shetty says consistent training, controlled food portions and sleep matter more than expensive equipment for maintaining fitness.", "speaker": "Suniel Shetty", "industry": "fitness", "geography": null},
-      {"text": "Mukesh Bansal moved Myntra from personalized T-shirts to fashion after years of experiments, demonstrating that a category pivot can unlock scale.", "speaker": "Mukesh Bansal", "industry": "retail", "geography": "India"},
-      {"text": "Nithin Kamath frames early investment in health as a way to improve quality of life and reduce retirement-period healthcare costs.", "speaker": "Nithin Kamath", "industry": "longevity", "geography": "India"},
-      {"text": "Training before the workday helps Nithin Kamath avoid missed sessions and improves his food choices later in the day.", "speaker": "Nithin Kamath", "industry": "fitness", "geography": null}
-    ],
-    "data_points": [
-      {"metric": "Paying gym members in India", "value": "5 million", "unit": "people", "speaker": "Mukesh Bansal", "context": "His estimate of India's paid gym market."},
-      {"metric": "Gym penetration in India", "value": "4%", "unit": "%", "speaker": "Mukesh Bansal", "context": "He compared it with the US and Europe."},
-      {"metric": "Gym penetration in the US", "value": "20%", "unit": "%", "speaker": "Mukesh Bansal", "context": "Comparison for India's fitness-market opportunity."},
-      {"metric": "Gym penetration in Europe", "value": "15%", "unit": "%", "speaker": "Mukesh Bansal", "context": "Comparison for India's fitness-market opportunity."},
-      {"metric": "People with diabetes", "value": "50 million", "unit": "people", "speaker": "Mukesh Bansal", "context": "He used this as a starting estimate of India's lifestyle-disease burden."},
-      {"metric": "People diabetic or prediabetic", "value": "150 million", "unit": "people", "speaker": "Mukesh Bansal", "context": "His upper estimate of people affected or at risk."},
-      {"metric": "Time until Myntra's fashion pivot", "value": "4 years", "unit": "years", "speaker": "Mukesh Bansal", "context": "Time spent experimenting before fashion took off."}
-    ],
-    "quotes": [
-      {"text": "You can't outrun a bad diet.", "speaker": "Nithin Kamath", "theme": "nutrition"},
-      {"text": "This alcohol, I think it's been marketed all too well, especially wine is good for you kind of marketing. It's absolutely bogus.", "speaker": "Mukesh Bansal", "theme": "alcohol"},
-      {"text": "Fitness is not as expensive or as difficult as one seems. It's the consistency.", "speaker": "Suniel Shetty", "theme": "fitness habits"},
-      {"text": "Do you want to increase your lifespan or do you want to increase your health span?", "speaker": "Nithin Kamath", "theme": "longevity"},
-      {"text": "Wellness cheaper than illness.", "speaker": "Suniel Shetty", "theme": "preventive health"}
-    ],
-    "ideas": [
-      {"text": "Back startups that make healthier choices easier for Indians, as Rainmatter Health has been doing.", "speaker": "Nithin Kamath", "type": "investment-thesis"},
-      {"text": "Grow fitness participation through early sports culture and incentives, including sports pathways into education.", "speaker": "Nithin Kamath", "type": "playbook"},
-      {"text": "Build scaled, differentiated fitness services as health awareness rises in India.", "speaker": "Mukesh Bansal", "type": "business-idea"}
-    ],
-    "stories": [
-      {"text": "Mukesh Bansal said Myntra sold personalized T-shirts online for years without strong demand, pivoted to fashion in 2011 and merged with Flipkart in 2014.", "speaker": "Mukesh Bansal", "lesson": "Experimentation can expose a stronger market than the original niche."},
-      {"text": "Nithin Kamath said his wife Seema's breast-cancer diagnosis in 2020 led him to examine his diet and stop treating exercise as enough by itself.", "speaker": "Nithin Kamath", "lesson": "A family health event changed his own health priorities."},
-      {"text": "Suniel Shetty stepped away from cinema while caring for his father, then received a call about a major fitness show the morning after his father died.", "speaker": "Suniel Shetty", "lesson": "He treated the call as a reason to return to work on his own terms."}
-    ]
-  },
-  {
-    "video_id": "EP-#7-Nikhil-Kamath-x-NZ-PM-Christopher-Luxon-People-by-WTF-Ep-#7",
-    "guests": ["Christopher Luxon"],
-    "industries": ["politics", "finance", "healthcare", "education", "space", "climate"],
-    "geographies": ["New Zealand", "India", "US", "UK", "Australia", "Singapore", "Europe", "Southeast Asia"],
-    "insights": [
-      {"text": "Business and political leadership share team-building and communication skills, but success in one field requires learning the distinct rules of the other.", "speaker": "Christopher Luxon", "industry": "politics", "geography": "New Zealand"},
-      {"text": "A leader should protect what already works while provoking enough change to improve results.", "speaker": "Christopher Luxon", "industry": "politics", "geography": null},
-      {"text": "Character, curiosity, communication and conflict management matter more to leadership than exceptional academic performance.", "speaker": "Christopher Luxon", "industry": null, "geography": null},
-      {"text": "New Zealand's strict campaign spending caps aim to prevent personal wealth from becoming a prerequisite for parliamentary candidacy.", "speaker": "Christopher Luxon", "industry": "politics", "geography": "New Zealand"},
-      {"text": "Luxon wants public servants to think like service organizations whose customers are patients, pupils and other citizens.", "speaker": "Christopher Luxon", "industry": "politics", "geography": "New Zealand"},
-      {"text": "Governments often fail to define problems clearly, leaving proposed solutions searching for problems to solve.", "speaker": "Christopher Luxon", "industry": "politics", "geography": null},
-      {"text": "After supply-chain disruptions, countries are shifting some emphasis from lowest-cost sourcing toward resilience.", "speaker": "Christopher Luxon", "industry": null, "geography": null},
-      {"text": "New Zealand is using an investor visa to attract capital and deepen business ties despite its geographic distance.", "speaker": "Christopher Luxon", "industry": "finance", "geography": "New Zealand"}
-    ],
-    "data_points": [
-      {"metric": "Parliamentary candidate campaign spending cap", "value": "26,000", "unit": "New Zealand dollars", "speaker": "Christopher Luxon", "context": "His account of New Zealand election-spending rules."},
-      {"metric": "Active investor visa qualifying investment", "value": "$5 million", "unit": "New Zealand dollars", "speaker": "Christopher Luxon", "context": "He said the investment could create a residency pathway."},
-      {"metric": "Investor visa residency timeline", "value": "three", "unit": "years", "speaker": "Christopher Luxon", "context": "Time to the residency pathway he described."},
-      {"metric": "Organizations at New Zealand investment event", "value": "107", "unit": "organizations", "speaker": "Christopher Luxon", "context": "He described a recent investor gathering."},
-      {"metric": "Countries represented at investment event", "value": "16", "unit": "countries", "speaker": "Christopher Luxon", "context": "Breadth of the investor gathering."},
-      {"metric": "Capital represented at investment event", "value": "$6.5 trillion", "unit": "dollars", "speaker": "Christopher Luxon", "context": "His description of organizations' money available to invest."},
-      {"metric": "New Zealand population", "value": "5.5 million", "unit": "people", "speaker": "Christopher Luxon", "context": "He used the country's size to explain its resourcefulness."}
-    ],
-    "quotes": [
-      {"text": "It's not what you do, it's actually who you are that matters much more.", "speaker": "Christopher Luxon", "theme": "identity"},
-      {"text": "Governments don't do problem definition well. The solutions are often roaming around in search of problems to attach to.", "speaker": "Christopher Luxon", "theme": "policy design"},
-      {"text": "We're in the people business in politics.", "speaker": "Christopher Luxon", "theme": "leadership"},
-      {"text": "People are sick of politicians talking in bumper stickers. They actually want delivery.", "speaker": "Christopher Luxon", "theme": "governance"},
-      {"text": "If you don't like the system, get into the system and actually make it a better system.", "speaker": "Christopher Luxon", "theme": "civic participation"}
-    ],
-    "ideas": [
-      {"text": "Use an investor visa linked to New Zealand investment and residency to attract international capital and business relationships.", "speaker": "Christopher Luxon", "type": "investment-thesis"},
-      {"text": "Design public agencies around citizen outcomes and apply technology to improve health, education and infrastructure delivery.", "speaker": "Christopher Luxon", "type": "playbook"},
-      {"text": "Move government terms from three to four years so administrations have more time to deliver before voters judge them.", "speaker": "Christopher Luxon", "type": "contrarian-take"}
-    ],
-    "stories": [
-      {"text": "Christopher Luxon brought New Zealand's largest prime-ministerial delegation to India, including business and community representatives and a kapa haka performing-arts team.", "speaker": "Christopher Luxon", "lesson": "Cultural and business visits can deepen ties between countries."},
-      {"text": "Luxon said he moved abroad at 24 with his wife Amanda, spent 16 years overseas and raised their two children away from extended family support.", "speaker": "Christopher Luxon", "lesson": "The experience made his immediate family central to his identity."}
-    ]
-  }
+ {
+  "video_id": "EP-#5-EdTech-What's-Broken,-What's-Next-With-Nikhil,-Ronnie-Screwvala-,-Gaurav-Munjal-and-Jay-Kotak",
+  "guests": [
+   "Ronnie Screwvala",
+   "Gaurav Munjal",
+   "Jay Kotak"
+  ],
+  "industries": [
+   "edtech",
+   "education",
+   "finance",
+   "venture-capital",
+   "content",
+   "gaming"
+  ],
+  "geographies": [
+   "India",
+   "US",
+   "Africa",
+   "Vietnam"
+  ],
+  "insights": [
+   {
+    "text": "Ronnie built UTV's early television content on a cost-plus B2B model because it lacked funding, then moved into broadcasting and film to own a consumer brand and scale.",
+    "speaker": "Ronnie Screwvala",
+    "industry": "content",
+    "geography": "India"
+   },
+   {
+    "text": "An integrated media business can create more value than a single-format media company, even when investors criticize its apparent lack of focus.",
+    "speaker": "Ronnie Screwvala",
+    "industry": "content",
+    "geography": "India"
+   },
+   {
+    "text": "For working adults learning online, the learning experience and process matter more than lectures alone.",
+    "speaker": "Ronnie Screwvala",
+    "industry": "edtech",
+    "geography": null
+   },
+   {
+    "text": "Opening accessible libraries in rural schools coincided with a sharp rise in attendance, showing that a small change in access can change engagement.",
+    "speaker": "Ronnie Screwvala",
+    "industry": "education",
+    "geography": "India"
+   },
+   {
+    "text": "Competitive exam preparation is a tournament business: learners pay for coaching because qualifying for scarce places can change their lives.",
+    "speaker": "Gaurav Munjal",
+    "industry": "edtech",
+    "geography": "India"
+   },
+   {
+    "text": "An AI learning app could generate lessons and questions at each student's level and use positive reinforcement to keep them engaged.",
+    "speaker": "Gaurav Munjal",
+    "industry": "edtech",
+    "geography": null
+   },
+   {
+    "text": "Digital onboarding let Kotak 811 reach people who were unbanked or underbanked through a zero-minimum-balance account opened on a phone.",
+    "speaker": "Jay Kotak",
+    "industry": "finance",
+    "geography": "India"
+   },
+   {
+    "text": "Investors seeking rapid scale can obscure the value of building a company patiently and with less capital.",
+    "speaker": "Nikhil Kamath",
+    "industry": "venture-capital",
+    "geography": "India"
+   },
+   {
+    "text": "Founders should spot problems before trying to solve them, since speed leaves little room to react after a threat is obvious.",
+    "speaker": "Ronnie Screwvala",
+    "industry": null,
+    "geography": null
+   }
+  ],
+  "data_points": [
+   {
+    "metric": "Rural-school attendance after opening libraries",
+    "value": "60 to 95",
+    "unit": "%",
+    "speaker": "Ronnie Screwvala",
+    "context": "He described the attendance change across rural schools his foundation worked with."
+   },
+   {
+    "metric": "Rural schools worked with",
+    "value": "1200",
+    "unit": "schools",
+    "speaker": "Ronnie Screwvala",
+    "context": "Scope of his example about libraries and attendance."
+   },
+   {
+    "metric": "Combined revenue of four named coaching chains",
+    "value": "20 000",
+    "unit": "INR crore",
+    "speaker": "Gaurav Munjal",
+    "context": "He cited Chaitanya, Allen, Aakash and Narayana to illustrate offline coaching's scale."
+   },
+   {
+    "metric": "Top educator compensation",
+    "value": "a million",
+    "unit": "US dollars",
+    "speaker": "Gaurav Munjal",
+    "context": "He said some Unacademy teachers earn this amount."
+   },
+   {
+    "metric": "Kotak 811 monthly new accounts",
+    "value": "six lakh",
+    "unit": "accounts per month",
+    "speaker": "Jay Kotak",
+    "context": "He used this to describe digital account-opening scale."
+   },
+   {
+    "metric": "Kotak 811 share of Kotak's account openings",
+    "value": "seventy to seventy five",
+    "unit": "%",
+    "speaker": "Jay Kotak",
+    "context": "He attributed most new account openings to the digital product."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "I've been blessed by not being spoiled with a lot of fundraising, which I think really corrupts people and corrupts minds and corrupts businesses.",
+    "speaker": "Ronnie Screwvala",
+    "theme": "capital discipline"
+   },
+   {
+    "text": "When you're going against the grain and a lot of people think they have not understood your model, I've found that's normally where 10x or 20x value gets created.",
+    "speaker": "Ronnie Screwvala",
+    "theme": "contrarian value"
+   },
+   {
+    "text": "I hate balance. I think you have to go all in if you have to create something truly big.",
+    "speaker": "Gaurav Munjal",
+    "theme": "entrepreneurial intensity"
+   },
+   {
+    "text": "I am not looking for problem solvers anymore. I'm talking about problem spotters.",
+    "speaker": "Ronnie Screwvala",
+    "theme": "hiring"
+   },
+   {
+    "text": "You can open a bank account in three minutes sitting in your living room on your phone.",
+    "speaker": "Jay Kotak",
+    "theme": "digital banking"
+   }
+  ],
+  "ideas": [
+   {
+    "text": "Build an adaptive AI tutor that generates lessons and questions in real time and makes progress feel like winning a game.",
+    "speaker": "Gaurav Munjal",
+    "type": "business-idea"
+   },
+   {
+    "text": "Build technology-first education products in sectors beyond fintech, taking Duolingo and Roblox as examples of engaging software.",
+    "speaker": "Gaurav Munjal",
+    "type": "investment-thesis"
+   },
+   {
+    "text": "Augment formal schooling and expand access for disadvantaged learners rather than dismantling its useful structure.",
+    "speaker": "Ronnie Screwvala",
+    "type": "playbook"
+   },
+   {
+    "text": "Build a consumer media brand through an integrated broadcaster and movie-studio model rather than remaining a supplier of content.",
+    "speaker": "Ronnie Screwvala",
+    "type": "playbook"
+   }
+  ],
+  "stories": [
+   {
+    "text": "Gaurav Munjal asked his friend Roman, newly through the UPSC examination, to record preparation videos before training; those videos brought Unacademy about a million views.",
+    "speaker": "Gaurav Munjal",
+    "lesson": "A single high-demand teaching format can reveal a larger product opportunity."
+   },
+   {
+    "text": "Ronnie Screwvala said UTV's first five movies failed, yet he continued because film was needed to build a consumer media brand.",
+    "speaker": "Ronnie Screwvala",
+    "lesson": "A new channel may require several failures before its strategic value appears."
+   },
+   {
+    "text": "Gaurav Munjal said Resonance in Jaipur rejected him from Ashish Arora's batch after an entrance test; Arora later joined Unacademy.",
+    "speaker": "Gaurav Munjal",
+    "lesson": "Digital education can broaden access to teachers once restricted to selected batches."
+   }
+  ]
+ },
+ {
+  "video_id": "EP-#5-Nikhil-Kamath-x-Kumar-Birla-People-by-WTF-Ep-#5",
+  "guests": [
+   "Kumar Mangalam Birla"
+  ],
+  "industries": [
+   "manufacturing",
+   "finance",
+   "retail",
+   "fashion",
+   "real-estate",
+   "venture-capital"
+  ],
+  "geographies": [
+   "India",
+   "UK",
+   "US"
+  ],
+  "insights": [
+   {
+    "text": "Large businesses need more creative management as easy sources of growth are exhausted and new value must be found.",
+    "speaker": "Kumar Mangalam Birla",
+    "industry": "manufacturing",
+    "geography": null
+   },
+   {
+    "text": "A conglomerate should invest in new growth engines when established businesses mature and their growth slows.",
+    "speaker": "Kumar Mangalam Birla",
+    "industry": "manufacturing",
+    "geography": "India"
+   },
+   {
+    "text": "Running multiple businesses at scale depends on trusting experienced teams rather than treating the group as family-run.",
+    "speaker": "Kumar Mangalam Birla",
+    "industry": "manufacturing",
+    "geography": "India"
+   },
+   {
+    "text": "A hiring decision for a complex business should test whether a leader learns quickly and can lead large, diverse teams.",
+    "speaker": "Kumar Mangalam Birla",
+    "industry": null,
+    "geography": null
+   },
+   {
+    "text": "The group's move into paint draws on housing demand and its existing cement dealership network.",
+    "speaker": "Kumar Mangalam Birla",
+    "industry": "manufacturing",
+    "geography": "India"
+   },
+   {
+    "text": "The group's jewelry entry draws on retail experience, consumer aspiration and trust in its brand.",
+    "speaker": "Kumar Mangalam Birla",
+    "industry": "retail",
+    "geography": "India"
+   },
+   {
+    "text": "Private equity and venture capital can grow businesses, but founders knowingly accept investor terms and should align expectations before signing.",
+    "speaker": "Kumar Mangalam Birla",
+    "industry": "venture-capital",
+    "geography": null
+   },
+   {
+    "text": "On-the-job exposure to manufacturing, finance and hiring can accelerate business learning beyond classroom instruction.",
+    "speaker": "Kumar Mangalam Birla",
+    "industry": "manufacturing",
+    "geography": "India"
+   }
+  ],
+  "data_points": [
+   {
+    "metric": "Employees across the group",
+    "value": "180,000",
+    "unit": "people",
+    "speaker": "Kumar Mangalam Birla",
+    "context": "Scale of the organization he described as one team."
+   },
+   {
+    "metric": "Long-tenured employees",
+    "value": "4,000",
+    "unit": "people",
+    "speaker": "Kumar Mangalam Birla",
+    "context": "Employees he said had stayed with the group for 20-plus years."
+   },
+   {
+    "metric": "Tenure of those long-serving employees",
+    "value": "20 plus",
+    "unit": "years",
+    "speaker": "Kumar Mangalam Birla",
+    "context": "Used to explain the internal leadership pipeline."
+   },
+   {
+    "metric": "Time between CA completion and graduation",
+    "value": "6 months",
+    "unit": "months",
+    "speaker": "Kumar Mangalam Birla",
+    "context": "He said he completed his chartered accountancy qualification within this period of graduating."
+   },
+   {
+    "metric": "Approximate cost of a large jewelry store",
+    "value": "30 CR",
+    "unit": "INR crore",
+    "speaker": "Kumar Mangalam Birla",
+    "context": "His estimate when discussing startup capital for jewelry retail."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "The most creative thing you can do is build or run a business.",
+    "speaker": "Kumar Mangalam Birla",
+    "theme": "business creativity"
+   },
+   {
+    "text": "If you want to grow, the only way to grow is to have energized teams.",
+    "speaker": "Kumar Mangalam Birla",
+    "theme": "leadership"
+   },
+   {
+    "text": "Legacy to me is more about impact, not so much about accolades.",
+    "speaker": "Kumar Mangalam Birla",
+    "theme": "legacy"
+   },
+   {
+    "text": "Giving a part of that back to society is something that for me and for all of us is a given.",
+    "speaker": "Kumar Mangalam Birla",
+    "theme": "corporate responsibility"
+   },
+   {
+    "text": "There's so much change in the world today that to stay current, tweak your business model on the basis of what's happening.",
+    "speaker": "Kumar Mangalam Birla",
+    "theme": "adaptation"
+   }
+  ],
+  "ideas": [
+   {
+    "text": "Use a mature conglomerate's distribution and retail experience to enter adjacent consumer categories such as paint and jewelry.",
+    "speaker": "Kumar Mangalam Birla",
+    "type": "playbook"
+   },
+   {
+    "text": "Create an affordable jewelry brand with a clear price ceiling so buyers know what they can spend before entering a store.",
+    "speaker": "Nikhil Kamath",
+    "type": "business-idea"
+   },
+   {
+    "text": "Build leadership bandwidth by recruiting managers with experience and skills the organization lacks.",
+    "speaker": "Kumar Mangalam Birla",
+    "type": "playbook"
+   }
+  ],
+  "stories": [
+   {
+    "text": "Kumar Mangalam Birla worked beside his father through meetings for long days while studying for his CA; when his father began testing his understanding, he realized Kumar had absorbed the discussions.",
+    "speaker": "Kumar Mangalam Birla",
+    "lesson": "Direct exposure and feedback built confidence before he took responsibility."
+   },
+   {
+    "text": "Kumar Mangalam Birla spent a year on the shop floor at Century Textiles to learn manufacturing controls and operations.",
+    "speaker": "Kumar Mangalam Birla",
+    "lesson": "Operational experience can ground later leadership decisions."
+   },
+   {
+    "text": "A scholarship named for his father enabled a woman from a conservative family to continue her education when her parents could only afford to educate her brother.",
+    "speaker": "Kumar Mangalam Birla",
+    "lesson": "Scholarships can alter the choices created by unequal household resources."
+   }
+  ]
+ },
+ {
+  "video_id": "EP-#6-People-with-The-Prime-Minister-Shri-Narendra-Modi-x-Nikhil-Kamath-Episode-6-By-WTF",
+  "guests": [
+   "Narendra Modi"
+  ],
+  "industries": [
+   "politics",
+   "education",
+   "public-service",
+   "technology"
+  ],
+  "geographies": [
+   "India",
+   "China",
+   "Russia",
+   "Ukraine",
+   "Iran",
+   "Palestine",
+   "Israel",
+   "Nepal",
+   "Pakistan",
+   "Bangladesh",
+   "United Arab Emirates"
+  ],
+  "insights": [
+   {
+    "text": "Success in politics requires standing with people in good and bad times, taking responsibility and working as part of a team.",
+    "speaker": "Narendra Modi",
+    "industry": "politics",
+    "geography": "India"
+   },
+   {
+    "text": "Modi argues that entrants to public life should put a mission above personal ambition.",
+    "speaker": "Narendra Modi",
+    "industry": "politics",
+    "geography": "India"
+   },
+   {
+    "text": "Modi distinguishes communication through conduct from oratory, citing Gandhi's way of life as his strongest political message.",
+    "speaker": "Narendra Modi",
+    "industry": "politics",
+    "geography": "India"
+   },
+   {
+    "text": "Social media can strengthen democracy by giving citizens ways to verify claims beyond a limited set of reporters.",
+    "speaker": "Narendra Modi",
+    "industry": "technology",
+    "geography": "India"
+   },
+   {
+    "text": "Growing comfortable can weaken an entrepreneur's willingness to take risks and adapt.",
+    "speaker": "Narendra Modi",
+    "industry": null,
+    "geography": null
+   },
+   {
+    "text": "Government efficiency should be measured by shorter processes and better delivery, not simply by fewer ministers or employees.",
+    "speaker": "Narendra Modi",
+    "industry": "public-service",
+    "geography": "India"
+   },
+   {
+    "text": "Revisiting the villages where senior civil servants began their careers was used to make them confront whether local conditions had improved.",
+    "speaker": "Narendra Modi",
+    "industry": "public-service",
+    "geography": "India"
+   },
+   {
+    "text": "Young people can have political impact through education and community work even without running for office.",
+    "speaker": "Narendra Modi",
+    "industry": "politics",
+    "geography": "India"
+   }
+  ],
+  "data_points": [
+   {
+    "metric": "Population of Vadnagar in Modi's childhood",
+    "value": "15,000",
+    "unit": "people",
+    "speaker": "Narendra Modi",
+    "context": "His recalled size of his hometown in North Gujarat."
+   },
+   {
+    "metric": "Reservation for women in local government",
+    "value": "50%",
+    "unit": "%",
+    "speaker": "Narendra Modi",
+    "context": "He said this exists in almost every Indian state, with variation."
+   },
+   {
+    "metric": "Planned reservation for women in legislatures",
+    "value": "30%",
+    "unit": "%",
+    "speaker": "Narendra Modi",
+    "context": "He cited future representation in MLA and MP categories."
+   },
+   {
+    "metric": "People in the community he described as overlooked",
+    "value": "25 lakh",
+    "unit": "people",
+    "speaker": "Narendra Modi",
+    "context": "He explained why responding to Draupadi Murmu's request mattered despite limited electoral benefit."
+   },
+   {
+    "metric": "Places where that community lives",
+    "value": "250",
+    "unit": "places",
+    "speaker": "Narendra Modi",
+    "context": "He described the community's geographic dispersion."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "They should come with a mission, not with an ambition.",
+    "speaker": "Narendra Modi",
+    "theme": "public service"
+   },
+   {
+    "text": "Communication is more important than the art of speech.",
+    "speaker": "Narendra Modi",
+    "theme": "leadership"
+   },
+   {
+    "text": "Most people fail in life because they get used to their comfort zone.",
+    "speaker": "Narendra Modi",
+    "theme": "risk"
+   },
+   {
+    "text": "I am not neutral. I am on the side of peace.",
+    "speaker": "Narendra Modi",
+    "theme": "foreign policy"
+   },
+   {
+    "text": "For me, 'AI' stands for 'Aspirational India.'",
+    "speaker": "Narendra Modi",
+    "theme": "national ambition"
+   }
+  ],
+  "ideas": [
+   {
+    "text": "Recruit mission-driven young people into all political parties and public service roles, including community work outside elections.",
+    "speaker": "Narendra Modi",
+    "type": "playbook"
+   },
+   {
+    "text": "Treat minimum government as a redesign of slow approvals and processes so services reach citizens faster.",
+    "speaker": "Narendra Modi",
+    "type": "playbook"
+   },
+   {
+    "text": "Prepare women serving in local government for future leadership in state and national legislatures.",
+    "speaker": "Narendra Modi",
+    "type": "playbook"
+   }
+  ],
+  "stories": [
+   {
+    "text": "Modi read a military-school advertisement in his village, ordered the English prospectus by money order and asked headmaster Rasbihari Maniyar to explain it; his father said the family could not afford to send him.",
+    "speaker": "Narendra Modi",
+    "lesson": "Money constrained an early ambition despite his initiative."
+   },
+   {
+    "text": "While driving an RSS Jeep back from Ukai Dam, Modi switched off the engine to save petrol on a slope and lost control of braking; the passengers escaped harm.",
+    "speaker": "Narendra Modi",
+    "lesson": "A failed shortcut became a direct lesson in risk."
+   },
+   {
+    "text": "After becoming Gujarat chief minister, Modi sent officers to earthquake-affected districts; they returned identifying rules that blocked progress, and he told them to change those rules.",
+    "speaker": "Narendra Modi",
+    "lesson": "Field visits can reveal and remove administrative bottlenecks."
+   }
+  ]
+ },
+ {
+  "video_id": "EP-#6-WTF-is-Health-ft.-Nikhil-Kamath,-Suniel-Shetty,-Nithin-Kamath-and-Mukesh-Bansal",
+  "guests": [
+   "Suniel Shetty",
+   "Nithin Kamath",
+   "Mukesh Bansal"
+  ],
+  "industries": [
+   "healthcare",
+   "fitness",
+   "longevity",
+   "food",
+   "retail",
+   "venture-capital"
+  ],
+  "geographies": [
+   "India",
+   "US",
+   "Europe"
+  ],
+  "insights": [
+   {
+    "text": "Mukesh Bansal sees India's low paid gym participation as evidence that its organized fitness market is still early.",
+    "speaker": "Mukesh Bansal",
+    "industry": "fitness",
+    "geography": "India"
+   },
+   {
+    "text": "The gap between gym users and people with diabetes or prediabetes points to a much larger unmet need for healthy behavior.",
+    "speaker": "Mukesh Bansal",
+    "industry": "healthcare",
+    "geography": "India"
+   },
+   {
+    "text": "Nithin Kamath argues that promoting sports beyond cricket could make exercise a routine part of Indian life.",
+    "speaker": "Nithin Kamath",
+    "industry": "fitness",
+    "geography": "India"
+   },
+   {
+    "text": "Mukesh Bansal stopped drinking after repeatedly finding that even moderate wine disrupted his sleep and next-day work and exercise.",
+    "speaker": "Mukesh Bansal",
+    "industry": "healthcare",
+    "geography": null
+   },
+   {
+    "text": "Suniel Shetty says consistent training, controlled food portions and sleep matter more than expensive equipment for maintaining fitness.",
+    "speaker": "Suniel Shetty",
+    "industry": "fitness",
+    "geography": null
+   },
+   {
+    "text": "Mukesh Bansal moved Myntra from personalized T-shirts to fashion after years of experiments, demonstrating that a category pivot can unlock scale.",
+    "speaker": "Mukesh Bansal",
+    "industry": "retail",
+    "geography": "India"
+   },
+   {
+    "text": "Nithin Kamath frames early investment in health as a way to improve quality of life and reduce retirement-period healthcare costs.",
+    "speaker": "Nithin Kamath",
+    "industry": "longevity",
+    "geography": "India"
+   },
+   {
+    "text": "Training before the workday helps Nithin Kamath avoid missed sessions and improves his food choices later in the day.",
+    "speaker": "Nithin Kamath",
+    "industry": "fitness",
+    "geography": null
+   }
+  ],
+  "data_points": [
+   {
+    "metric": "Paying gym members in India",
+    "value": "5 million",
+    "unit": "people",
+    "speaker": "Mukesh Bansal",
+    "context": "His estimate of India's paid gym market."
+   },
+   {
+    "metric": "Gym penetration in India",
+    "value": "4%",
+    "unit": "%",
+    "speaker": "Mukesh Bansal",
+    "context": "He compared it with the US and Europe."
+   },
+   {
+    "metric": "Gym penetration in the US",
+    "value": "20%",
+    "unit": "%",
+    "speaker": "Mukesh Bansal",
+    "context": "Comparison for India's fitness-market opportunity."
+   },
+   {
+    "metric": "Gym penetration in Europe",
+    "value": "15%",
+    "unit": "%",
+    "speaker": "Mukesh Bansal",
+    "context": "Comparison for India's fitness-market opportunity."
+   },
+   {
+    "metric": "People with diabetes",
+    "value": "50 million",
+    "unit": "people",
+    "speaker": "Mukesh Bansal",
+    "context": "He used this as a starting estimate of India's lifestyle-disease burden."
+   },
+   {
+    "metric": "People diabetic or prediabetic",
+    "value": "150 million",
+    "unit": "people",
+    "speaker": "Mukesh Bansal",
+    "context": "His upper estimate of people affected or at risk."
+   },
+   {
+    "metric": "Time until Myntra's fashion pivot",
+    "value": "4 years",
+    "unit": "years",
+    "speaker": "Mukesh Bansal",
+    "context": "Time spent experimenting before fashion took off."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "You can't outrun a bad diet.",
+    "speaker": "Nithin Kamath",
+    "theme": "nutrition"
+   },
+   {
+    "text": "This alcohol, I think it's been marketed all too well, especially wine is good for you kind of marketing. It's absolutely bogus.",
+    "speaker": "Mukesh Bansal",
+    "theme": "alcohol"
+   },
+   {
+    "text": "Fitness is not as expensive or as difficult as one seems. It's the consistency.",
+    "speaker": "Suniel Shetty",
+    "theme": "fitness habits"
+   },
+   {
+    "text": "Do you want to increase your lifespan or do you want to increase your health span?",
+    "speaker": "Nithin Kamath",
+    "theme": "longevity"
+   },
+   {
+    "text": "Wellness cheaper than illness.",
+    "speaker": "Suniel Shetty",
+    "theme": "preventive health"
+   }
+  ],
+  "ideas": [
+   {
+    "text": "Back startups that make healthier choices easier for Indians, as Rainmatter Health has been doing.",
+    "speaker": "Nithin Kamath",
+    "type": "investment-thesis"
+   },
+   {
+    "text": "Grow fitness participation through early sports culture and incentives, including sports pathways into education.",
+    "speaker": "Nithin Kamath",
+    "type": "playbook"
+   },
+   {
+    "text": "Build scaled, differentiated fitness services as health awareness rises in India.",
+    "speaker": "Mukesh Bansal",
+    "type": "business-idea"
+   }
+  ],
+  "stories": [
+   {
+    "text": "Mukesh Bansal said Myntra sold personalized T-shirts online for years without strong demand, pivoted to fashion in 2011 and merged with Flipkart in 2014.",
+    "speaker": "Mukesh Bansal",
+    "lesson": "Experimentation can expose a stronger market than the original niche."
+   },
+   {
+    "text": "Nithin Kamath said his wife Seema's breast-cancer diagnosis in 2020 led him to examine his diet and stop treating exercise as enough by itself.",
+    "speaker": "Nithin Kamath",
+    "lesson": "A family health event changed his own health priorities."
+   },
+   {
+    "text": "Suniel Shetty stepped away from cinema while caring for his father, then received a call about a major fitness show the morning after his father died.",
+    "speaker": "Suniel Shetty",
+    "lesson": "He treated the call as a reason to return to work on his own terms."
+   }
+  ]
+ },
+ {
+  "video_id": "EP-#7-Nikhil-Kamath-x-NZ-PM-Christopher-Luxon-People-by-WTF-Ep-#7",
+  "guests": [
+   "Christopher Luxon"
+  ],
+  "industries": [
+   "politics",
+   "finance",
+   "healthcare",
+   "education",
+   "space",
+   "climate"
+  ],
+  "geographies": [
+   "New Zealand",
+   "India",
+   "US",
+   "UK",
+   "Australia",
+   "Singapore",
+   "Europe",
+   "Southeast Asia"
+  ],
+  "insights": [
+   {
+    "text": "Business and political leadership share team-building and communication skills, but success in one field requires learning the distinct rules of the other.",
+    "speaker": "Christopher Luxon",
+    "industry": "politics",
+    "geography": "New Zealand"
+   },
+   {
+    "text": "A leader should protect what already works while provoking enough change to improve results.",
+    "speaker": "Christopher Luxon",
+    "industry": "politics",
+    "geography": null
+   },
+   {
+    "text": "Character, curiosity, communication and conflict management matter more to leadership than exceptional academic performance.",
+    "speaker": "Christopher Luxon",
+    "industry": null,
+    "geography": null
+   },
+   {
+    "text": "New Zealand's strict campaign spending caps aim to prevent personal wealth from becoming a prerequisite for parliamentary candidacy.",
+    "speaker": "Christopher Luxon",
+    "industry": "politics",
+    "geography": "New Zealand"
+   },
+   {
+    "text": "Luxon wants public servants to think like service organizations whose customers are patients, pupils and other citizens.",
+    "speaker": "Christopher Luxon",
+    "industry": "politics",
+    "geography": "New Zealand"
+   },
+   {
+    "text": "Governments often fail to define problems clearly, leaving proposed solutions searching for problems to solve.",
+    "speaker": "Christopher Luxon",
+    "industry": "politics",
+    "geography": null
+   },
+   {
+    "text": "After supply-chain disruptions, countries are shifting some emphasis from lowest-cost sourcing toward resilience.",
+    "speaker": "Christopher Luxon",
+    "industry": null,
+    "geography": null
+   },
+   {
+    "text": "New Zealand is using an investor visa to attract capital and deepen business ties despite its geographic distance.",
+    "speaker": "Christopher Luxon",
+    "industry": "finance",
+    "geography": "New Zealand"
+   }
+  ],
+  "data_points": [
+   {
+    "metric": "Parliamentary candidate campaign spending cap",
+    "value": "26,000",
+    "unit": "New Zealand dollars",
+    "speaker": "Christopher Luxon",
+    "context": "His account of New Zealand election-spending rules."
+   },
+   {
+    "metric": "Active investor visa qualifying investment",
+    "value": "$5 million",
+    "unit": "New Zealand dollars",
+    "speaker": "Christopher Luxon",
+    "context": "He said the investment could create a residency pathway."
+   },
+   {
+    "metric": "Investor visa residency timeline",
+    "value": "three",
+    "unit": "years",
+    "speaker": "Christopher Luxon",
+    "context": "Time to the residency pathway he described."
+   },
+   {
+    "metric": "Organizations at New Zealand investment event",
+    "value": "107",
+    "unit": "organizations",
+    "speaker": "Christopher Luxon",
+    "context": "He described a recent investor gathering."
+   },
+   {
+    "metric": "Countries represented at investment event",
+    "value": "16",
+    "unit": "countries",
+    "speaker": "Christopher Luxon",
+    "context": "Breadth of the investor gathering."
+   },
+   {
+    "metric": "Capital represented at investment event",
+    "value": "$6.5 trillion",
+    "unit": "dollars",
+    "speaker": "Christopher Luxon",
+    "context": "His description of organizations' money available to invest."
+   },
+   {
+    "metric": "New Zealand population",
+    "value": "5.5 million",
+    "unit": "people",
+    "speaker": "Christopher Luxon",
+    "context": "He used the country's size to explain its resourcefulness."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "It's not what you do, it's actually who you are that matters much more.",
+    "speaker": "Christopher Luxon",
+    "theme": "identity"
+   },
+   {
+    "text": "Governments don't do problem definition well. The solutions are often roaming around in search of problems to attach to.",
+    "speaker": "Christopher Luxon",
+    "theme": "policy design"
+   },
+   {
+    "text": "We're in the people business in politics.",
+    "speaker": "Christopher Luxon",
+    "theme": "leadership"
+   },
+   {
+    "text": "People are sick of politicians talking in bumper stickers. They actually want delivery.",
+    "speaker": "Christopher Luxon",
+    "theme": "governance"
+   },
+   {
+    "text": "If you don't like the system, get into the system and actually make it a better system.",
+    "speaker": "Christopher Luxon",
+    "theme": "civic participation"
+   }
+  ],
+  "ideas": [
+   {
+    "text": "Use an investor visa linked to New Zealand investment and residency to attract international capital and business relationships.",
+    "speaker": "Christopher Luxon",
+    "type": "investment-thesis"
+   },
+   {
+    "text": "Design public agencies around citizen outcomes and apply technology to improve health, education and infrastructure delivery.",
+    "speaker": "Christopher Luxon",
+    "type": "playbook"
+   },
+   {
+    "text": "Move government terms from three to four years so administrations have more time to deliver before voters judge them.",
+    "speaker": "Christopher Luxon",
+    "type": "contrarian-take"
+   }
+  ],
+  "stories": [
+   {
+    "text": "Christopher Luxon brought New Zealand's largest prime-ministerial delegation to India, including business and community representatives and a kapa haka performing-arts team.",
+    "speaker": "Christopher Luxon",
+    "lesson": "Cultural and business visits can deepen ties between countries."
+   },
+   {
+    "text": "Luxon said he moved abroad at 24 with his wife Amanda, spent 16 years overseas and raised their two children away from extended family support.",
+    "speaker": "Christopher Luxon",
+    "lesson": "The experience made his immediate family central to his identity."
+   }
+  ]
+ }
 ]

@@ -1,0 +1,30 @@
+You are an analyst extracting structured intelligence from podcast transcripts of "WTF" with Nikhil Kamath.
+
+Read these transcript files:
+{{FILES}}
+
+Each file is a plain-text ASR transcript of one episode. Lines are caption cues, not speakers.
+
+For EACH file, extract ONLY what is actually said in that transcript. Never invent, infer, or import content from your own knowledge. If a category has nothing, return an empty array.
+
+Produce a JSON array with one object per file, using this exact schema:
+
+{
+  "video_id": "<the video id from the filename, before .txt>",
+  "guests": ["<full name of each guest, not Nikhil Kamath>"],
+  "industries": ["<industry tags, lowercase, e.g. edtech, biotech, ai, venture-capital, real-estate, consumer-electronics, healthcare, longevity, content, gaming, climate, ev, alcohol, fashion, restaurant, skincare, pharma, travel, batteries, finance, crypto, policing, manufacturing, logistics>"],
+  "geographies": ["<countries/regions actually discussed, e.g. India, US, China, EU, Southeast Asia>"],
+  "insights": [{"text": "<one crisp, self-contained analytical claim or lesson>", "speaker": "<who said it>", "industry": "<tag or null>", "geography": "<country/region or null>"}],
+  "data_points": [{"metric": "<what is measured>", "value": "<the number/range exactly as stated>", "unit": "<%, $, INR crore, years, x, etc>", "speaker": "<who said it>", "context": "<why it matters, one line>"}],
+  "quotes": [{"text": "<verbatim or lightly de-stuttered quote, max 60 words>", "speaker": "<who said it>", "theme": "<short theme>"}],
+  "ideas": [{"text": "<an opportunity, thesis, business idea, or contrarian bet proposed>", "speaker": "<who said it>", "type": "business-idea|investment-thesis|contrarian-take|playbook"}],
+  "stories": [{"text": "<a concrete anecdote with named entities and what happened>", "speaker": "<who told it>", "lesson": "<one line>"}]
+}
+
+Rules:
+- 5-12 insights, 3-10 data_points, 3-8 quotes, 2-6 ideas, 1-4 stories per episode. Quality over quantity.
+- EVERY item needs a "speaker". If attribution is unclear from the transcript, use "Unattributed" - do not guess a name.
+- Prefer numbers that are specific (market sizes, growth rates, multiples, unit economics, hiring, time-to-X). Skip vague numbers.
+- Quotes must be genuinely quotable - punchy, opinionated, or counterintuitive. Skip filler.
+- "value" must be the figure AS STATED in the transcript (e.g. "$11 billion", "70%", "3x", "10 years"), not converted or rounded.
+- Output ONLY the JSON array. No prose, no markdown fence, no explanation.

@@ -1,0 +1,611 @@
+[
+  {
+    "video_id": "EP-#15-A.R.-Rahman-The-Genius-Who-Took-Indian-Music-Global-Nikhil-Kamath-People-by-WTF-Ep-15",
+    "guests": ["A.R. Rahman"],
+    "industries": ["content", "ai", "fashion", "manufacturing", "consumer-electronics"],
+    "geographies": ["India", "US", "China", "Malaysia", "Africa", "Ireland"],
+    "insights": [
+      {
+        "text": "Rahman's mother rented out the family's music equipment after his father's death, preserving the instruments and providing income until rental demand declined.",
+        "speaker": "A.R. Rahman",
+        "industry": "content",
+        "geography": "India"
+      },
+      {
+        "text": "Rahman treats music like a conversation: changing rhythm, key or delivery can renew a listener's attention.",
+        "speaker": "A.R. Rahman",
+        "industry": "content",
+        "geography": null
+      },
+      {
+        "text": "Rahman judges a song by whether it moves him, even when an audience takes years to appreciate it.",
+        "speaker": "A.R. Rahman",
+        "industry": "content",
+        "geography": null
+      },
+      {
+        "text": "Rahman's virtual band uses human composers, singers and musicians; its characters provide a lasting identity whose performers can change.",
+        "speaker": "A.R. Rahman",
+        "industry": "content",
+        "geography": null
+      },
+      {
+        "text": "Rahman sees gaps in Indian musical instruments, furniture, orchestras and musical theatre as opportunities for builders.",
+        "speaker": "A.R. Rahman",
+        "industry": "manufacturing",
+        "geography": "India"
+      }
+    ],
+    "data_points": [
+      {
+        "metric": "Duration the family's equipment rentals provided income",
+        "value": "six seven years",
+        "unit": "years",
+        "speaker": "A.R. Rahman",
+        "context": "The rentals supported Rahman's family before demand fell as customers bought their own equipment."
+      },
+      {
+        "metric": "Time spent developing the virtual band",
+        "value": "3 years",
+        "unit": "years",
+        "speaker": "A.R. Rahman",
+        "context": "Rahman described the work behind the multicultural virtual band."
+      },
+      {
+        "metric": "Time since starting his foundation and music school",
+        "value": "18 years",
+        "unit": "years",
+        "speaker": "A.R. Rahman",
+        "context": "Rahman linked the school and its students to his continuing motivation."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Music is like a conversation.",
+        "speaker": "A.R. Rahman",
+        "theme": "creative craft"
+      },
+      {
+        "text": "I am the people.",
+        "speaker": "A.R. Rahman",
+        "theme": "creative judgment"
+      },
+      {
+        "text": "I'm not God. I'm a servant only.",
+        "speaker": "A.R. Rahman",
+        "theme": "humility"
+      }
+    ],
+    "ideas": [
+      {
+        "text": "Create a multicultural virtual band with enduring characters and changing human performers to carry stories from India and other regions to a global audience.",
+        "speaker": "A.R. Rahman",
+        "type": "business-idea"
+      },
+      {
+        "text": "Build Indian-made keyboards and other musical equipment, an area where Rahman said he currently relies on imports.",
+        "speaker": "A.R. Rahman",
+        "type": "business-idea"
+      },
+      {
+        "text": "Develop musical theatre, state orchestras and ambitious live venues in India so more people can experience them locally.",
+        "speaker": "A.R. Rahman",
+        "type": "business-idea"
+      }
+    ],
+    "stories": [
+      {
+        "text": "After Rahman's father died, his mother kept his instruments, rented them out for studios and light-music shows, and later told Rahman to earn by playing keyboards when the rentals declined.",
+        "speaker": "A.R. Rahman",
+        "lesson": "Preserving a creative asset gave the family income and gave Rahman a path into studio work."
+      },
+      {
+        "text": "Rahman said Mani Ratnam asked for a love song; a tune came to Rahman as he was falling asleep, so he recorded it on a mini cassette before developing the song with singers and additional music.",
+        "speaker": "A.R. Rahman",
+        "lesson": "Capture an idea when it arrives, then develop it through collaboration."
+      }
+    ]
+  },
+  {
+    "video_id": "EP-#15-WTF-is-Climate-Change-Nikhil-ft.-Sunita,-Bhumi,-Navroz-and-Mirik",
+    "guests": ["Sunita", "Bhumi", "Navroz", "Mirik"],
+    "industries": ["climate", "energy", "ev", "manufacturing", "content"],
+    "geographies": ["India", "US", "China", "Malaysia", "EU"],
+    "insights": [
+      {
+        "text": "A uniform emissions-reduction timetable would lock lower-emitting developing countries into a lower per-person emissions level, according to an objection Navroz heard in early climate negotiations.",
+        "speaker": "Navroz",
+        "industry": "climate",
+        "geography": null
+      },
+      {
+        "text": "Navroz argues that Indian climate measures gain support when they also solve development problems, as public transport and decentralized energy can.",
+        "speaker": "Navroz",
+        "industry": "climate",
+        "geography": "India"
+      },
+      {
+        "text": "Sunita says farmers, fishers and others who work with the land recognize climate changes even if they do not use the term 'climate change.'",
+        "speaker": "Sunita",
+        "industry": "climate",
+        "geography": "India"
+      },
+      {
+        "text": "Sunita argues that climate solutions need enough speed and scale to have a visible effect; she cites Delhi's rapid adoption of CNG vehicles.",
+        "speaker": "Sunita",
+        "industry": "climate",
+        "geography": "India"
+      },
+      {
+        "text": "Bhumi says film productions can bring temporary jobs to remote villages while leaving pollution and disruption behind.",
+        "speaker": "Bhumi",
+        "industry": "content",
+        "geography": "India"
+      },
+      {
+        "text": "Mirik identifies bioenergy, waste management and circularity as connected opportunities suited to India's local supply chains and operating conditions.",
+        "speaker": "Mirik",
+        "industry": "climate",
+        "geography": "India"
+      }
+    ],
+    "data_points": [
+      {
+        "metric": "IPCC assessment cycle",
+        "value": "seven years",
+        "unit": "years",
+        "speaker": "Navroz",
+        "context": "A new group of authors begins another assessment after each cycle."
+      },
+      {
+        "metric": "Review comments received by Navroz's IPCC chapter",
+        "value": "1,200",
+        "unit": "comments",
+        "speaker": "Navroz",
+        "context": "He cited the volume of scrutiny in each of three review rounds."
+      },
+      {
+        "metric": "New CNG vehicles introduced in Delhi",
+        "value": "100,000",
+        "unit": "vehicles",
+        "speaker": "Sunita",
+        "context": "Sunita used the rollout as an example of implementing an environmental solution at scale."
+      },
+      {
+        "metric": "Electricity cost cited for mini grids",
+        "value": "30 rupees a unit",
+        "unit": "INR per unit",
+        "speaker": "Sunita",
+        "context": "She said this cost makes replacing grid electricity difficult without support."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "They may not have the fancy word that you and I have, call it climate change.",
+        "speaker": "Sunita",
+        "theme": "lived experience"
+      },
+      {
+        "text": "We're not protecting trees, we're protecting our toilet ground.",
+        "speaker": "Sunita",
+        "theme": "development and environment"
+      },
+      {
+        "text": "You've got to find ways of bringing a development problem in conversation with the climate angle.",
+        "speaker": "Navroz",
+        "theme": "climate solutions"
+      }
+    ],
+    "ideas": [
+      {
+        "text": "Build bioenergy, waste-management and circular-economy businesses around India's local supply chains.",
+        "speaker": "Mirik",
+        "type": "business-idea"
+      },
+      {
+        "text": "Provide decentralized renewable-energy services that improve rural productivity, such as agricultural processing or cold storage for medicines and vaccines.",
+        "speaker": "Navroz",
+        "type": "business-idea"
+      },
+      {
+        "text": "Use frugal engineering to turn discarded materials into affordable products, as in the example of making incense sticks from flowers discarded by temples.",
+        "speaker": "Sunita",
+        "type": "business-idea"
+      }
+    ],
+    "stories": [
+      {
+        "text": "Sunita visited women involved in the Chipko movement expecting to hear about protecting trees. They told her the trees also protected their toilet ground and their right to use forest resources, changing how she understood environmental work.",
+        "speaker": "Sunita",
+        "lesson": "Environmental action can be inseparable from people's daily needs and development rights."
+      },
+      {
+        "text": "Bhumi said she worked with Nikhil during COVID to help people in remote parts of Bangalore find ambulances or hospital beds, despite living and working elsewhere.",
+        "speaker": "Bhumi",
+        "lesson": "A public platform can be used to connect urgent needs with practical help."
+      }
+    ]
+  },
+  {
+    "video_id": "EP-#16-Elon-Musk-A-Different-Conversation-w-Nikhil-Kamath-Full-Episode-People-by-WTF-Ep.-16",
+    "guests": ["Elon Musk"],
+    "industries": ["content", "ai", "ev", "finance", "space"],
+    "geographies": ["India", "US", "EU", "Africa"],
+    "insights": [
+      {
+        "text": "Musk says X is strongest among readers, writers and thinkers, while he expects most future internet interaction to involve video and real-time AI.",
+        "speaker": "Elon Musk",
+        "industry": "content",
+        "geography": null
+      },
+      {
+        "text": "Musk describes X's goal as a global conversation across languages, supported by automatic translation.",
+        "speaker": "Elon Musk",
+        "industry": "content",
+        "geography": null
+      },
+      {
+        "text": "For long-term stock investing, Musk recommends judging a company's products, future product plans and team instead of daily price moves.",
+        "speaker": "Elon Musk",
+        "industry": "finance",
+        "geography": null
+      },
+      {
+        "text": "Musk predicts advances in AI and robotics could make paid work optional, while acknowledging that the prediction may prove wrong.",
+        "speaker": "Elon Musk",
+        "industry": "ai",
+        "geography": null
+      },
+      {
+        "text": "Musk says AI systems should pursue truth and remain curious because false premises can produce harmful conclusions.",
+        "speaker": "Elon Musk",
+        "industry": "ai",
+        "geography": null
+      },
+      {
+        "text": "Musk says philanthropy is difficult to assess because visible generosity does not establish whether recipients actually benefit.",
+        "speaker": "Elon Musk",
+        "industry": null,
+        "geography": null
+      }
+    ],
+    "data_points": [
+      {
+        "metric": "X monthly users",
+        "value": "about 600 million",
+        "unit": "users",
+        "speaker": "Elon Musk",
+        "context": "Musk gave this as X's usual monthly audience."
+      },
+      {
+        "metric": "X weekly users",
+        "value": "250 300 million",
+        "unit": "users",
+        "speaker": "Elon Musk",
+        "context": "Musk gave this approximate weekly audience while discussing the platform's reach."
+      },
+      {
+        "metric": "Time until work may become optional",
+        "value": "less than 20 years",
+        "unit": "years",
+        "speaker": "Elon Musk",
+        "context": "This was Musk's prediction based on advances in AI and robotics."
+      },
+      {
+        "metric": "Estimated annual savings from adding payment codes and comments to federal payments",
+        "value": "$200 billion",
+        "unit": "$ per year",
+        "speaker": "Elon Musk",
+        "context": "Musk presented this as the high end of his guess, alongside 'hundred billion.'"
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The questions we don't even know to ask are the most important ones.",
+        "speaker": "Elon Musk",
+        "theme": "curiosity"
+      },
+      {
+        "text": "A company is just a group of people assembled to create products and services.",
+        "speaker": "Elon Musk",
+        "theme": "investing"
+      },
+      {
+        "text": "It's very easy to give money away to get the appearance of goodness. It is very difficult to give money away for the reality of goodness.",
+        "speaker": "Elon Musk",
+        "theme": "philanthropy"
+      }
+    ],
+    "ideas": [
+      {
+        "text": "Invest for the long term in companies whose teams make strong products and appear capable of improving them.",
+        "speaker": "Elon Musk",
+        "type": "investment-thesis"
+      },
+      {
+        "text": "Develop solar-powered AI satellites in deep space by combining expertise from SpaceX, Tesla and xAI.",
+        "speaker": "Elon Musk",
+        "type": "investment-thesis"
+      },
+      {
+        "text": "Require a congressional payment code and a meaningful comment on each federal payment so payments can be audited.",
+        "speaker": "Elon Musk",
+        "type": "playbook"
+      }
+    ],
+    "stories": [
+      {
+        "text": "Musk described a proposed payment presented as aid for children in Africa whose wiring instructions pointed to Washington, DC. He said he asked to speak to the recipients before sending money and could not obtain that confirmation.",
+        "speaker": "Elon Musk",
+        "lesson": "Verify where aid money goes and who receives it."
+      }
+    ]
+  },
+  {
+    "video_id": "EP-#16-What-character-flaws-make-the-best-entrepreneurs-Nikhil-ft.Ritesh,-Ghazal-and-Manish",
+    "guests": ["Ritesh", "Ghazal", "Manish"],
+    "industries": ["skincare", "fashion", "manufacturing", "travel", "finance"],
+    "geographies": ["India", "Philippines", "US", "Bangladesh", "South Africa", "Spain", "Korea", "China"],
+    "insights": [
+      {
+        "text": "Ghazal says watching her mother sell gold and help restart her father's indebted shop changed her view of women's ability to act in a financial crisis.",
+        "speaker": "Ghazal",
+        "industry": "finance",
+        "geography": "India"
+      },
+      {
+        "text": "Ghazal says outsourced manufacturing lets a young personal-care brand use existing machinery while keeping control of research, formulation and quality checks.",
+        "speaker": "Ghazal",
+        "industry": "skincare",
+        "geography": "India"
+      },
+      {
+        "text": "Ghazal found that listing a new brand on marketplaces consumers already trusted helped overcome hesitation about buying from the brand's own website.",
+        "speaker": "Ghazal",
+        "industry": "skincare",
+        "geography": "India"
+      },
+      {
+        "text": "Manish distinguishes lasting personal style from temporary fashion trends by focusing on how someone puts available pieces together.",
+        "speaker": "Manish",
+        "industry": "fashion",
+        "geography": null
+      },
+      {
+        "text": "Ritesh says social pressure can erode the patience and perseverance needed to build a company.",
+        "speaker": "Ritesh",
+        "industry": null,
+        "geography": null
+      },
+      {
+        "text": "Ritesh says admitting mistakes early allows a founder to have honest discussions and correct decisions before problems deepen.",
+        "speaker": "Ritesh",
+        "industry": "travel",
+        "geography": null
+      }
+    ],
+    "data_points": [
+      {
+        "metric": "Debt Ghazal's father faced after the family business was divided",
+        "value": "40 to 50 lakhs",
+        "unit": "INR lakhs",
+        "speaker": "Ghazal",
+        "context": "The debt left the shop short of money for inventory."
+      },
+      {
+        "metric": "Time Ghazal's family took to emerge from that debt",
+        "value": "almost 5 years",
+        "unit": "years",
+        "speaker": "Ghazal",
+        "context": "She described the recovery after her mother helped fund new inventory."
+      },
+      {
+        "metric": "OYO's holiday homes managed in Europe",
+        "value": "150,000",
+        "unit": "holiday homes",
+        "speaker": "Ritesh",
+        "context": "Ritesh used the figure to illustrate OYO's international scale."
+      },
+      {
+        "metric": "Capital OYO had raised overall",
+        "value": "close to a billion and a half dollars",
+        "unit": "$",
+        "speaker": "Ritesh",
+        "context": "Ritesh gave the approximate amount while discussing growth and accountability to investors."
+      },
+      {
+        "metric": "Share of OYO hotels under minimum-guarantee agreements",
+        "value": "10%",
+        "unit": "%",
+        "speaker": "Ritesh",
+        "context": "Ritesh said this minority of hotels drove most losses during the company's growth phase."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Money only comes home when the business makes profit.",
+        "speaker": "Ghazal",
+        "theme": "business economics"
+      },
+      {
+        "text": "Confidence can be faked.",
+        "speaker": "Ghazal",
+        "theme": "entrepreneurship"
+      },
+      {
+        "text": "Indifference is the new cool.",
+        "speaker": "Ritesh",
+        "theme": "social pressure"
+      },
+      {
+        "text": "I think admitting mistakes and saying mea culpa is critical.",
+        "speaker": "Ritesh",
+        "theme": "leadership"
+      }
+    ],
+    "ideas": [
+      {
+        "text": "Start a personal-care brand using an external manufacturer while developing the formulation, testing consumer language and overseeing quality directly.",
+        "speaker": "Ghazal",
+        "type": "playbook"
+      },
+      {
+        "text": "Bring a beauty proposition that Indian consumers respond to into an affordable locally developed brand.",
+        "speaker": "Ghazal",
+        "type": "business-idea"
+      },
+      {
+        "text": "Delay short-term rewards and resist pressure to display success while building a company over years.",
+        "speaker": "Ritesh",
+        "type": "playbook"
+      }
+    ],
+    "stories": [
+      {
+        "text": "When Ghazal's father received an indebted shop after a family-business split, her mother sold her gold savings to help buy inventory and began tutoring children to support the household.",
+        "speaker": "Ghazal",
+        "lesson": "A family recovered through practical financial action and shared work."
+      },
+      {
+        "text": "Ghazal said she was hired to train experienced workers on software while still an NIIT student, after persuading the employer to give her one chance despite her age and lack of experience.",
+        "speaker": "Ghazal",
+        "lesson": "A low-risk trial can open a role before someone has conventional credentials."
+      },
+      {
+        "text": "Ritesh said most OYO hotels were on revenue-share agreements, but a smaller group on minimum guarantees caused most losses, prompting him to consolidate after rapid expansion.",
+        "speaker": "Ritesh",
+        "lesson": "A small part of a portfolio can determine the economics of the whole business."
+      }
+    ]
+  },
+  {
+    "video_id": "EP-#17-WTF-is-Gaming-in-India-Career,-Investment,-Entrepreneurship",
+    "guests": ["Nitish", "Sean", "Joseph", "Animesh"],
+    "industries": ["gaming", "content", "ai", "finance"],
+    "geographies": ["India", "South Korea", "China", "US", "Turkey"],
+    "insights": [
+      {
+        "text": "Nitish says listing Nazara improved its visibility and credibility with international partners, while removing special rights that private investors had held.",
+        "speaker": "Nitish",
+        "industry": "gaming",
+        "geography": "India"
+      },
+      {
+        "text": "Joseph says India's game-development history has emphasized operating existing games as a service, leaving less experience in creating new games.",
+        "speaker": "Joseph",
+        "industry": "gaming",
+        "geography": "India"
+      },
+      {
+        "text": "Joseph says a candidate's projects, writing or videos show more about their interest in gaming than a résumé alone.",
+        "speaker": "Joseph",
+        "industry": "gaming",
+        "geography": "India"
+      },
+      {
+        "text": "Sean estimates that India has a substantial audience willing or able to pay for games, although he calls his figure a guesstimate.",
+        "speaker": "Sean",
+        "industry": "gaming",
+        "geography": "India"
+      },
+      {
+        "text": "Joseph says mobile privacy changes have weakened ad targeting for hypercasual games, encouraging designs that rely more on in-app purchases.",
+        "speaker": "Joseph",
+        "industry": "gaming",
+        "geography": null
+      },
+      {
+        "text": "Animesh recommends involving gamers and creators during early development so their feedback shapes a game and they form a connection to its launch.",
+        "speaker": "Animesh",
+        "industry": "gaming",
+        "geography": "India"
+      }
+    ],
+    "data_points": [
+      {
+        "metric": "Krafton's market capitalization",
+        "value": "9 billion 10 billion US dollar",
+        "unit": "US dollars",
+        "speaker": "Sean",
+        "context": "Sean gave an approximate size for Krafton while discussing public gaming companies."
+      },
+      {
+        "metric": "Ludo King's downloads",
+        "value": "a billion downloads",
+        "unit": "downloads",
+        "speaker": "Unattributed",
+        "context": "The figure was cited while discussing Indian-made games that reached large scale."
+      },
+      {
+        "metric": "Potential Indian game payers",
+        "value": "100 million or 80 million",
+        "unit": "people",
+        "speaker": "Sean",
+        "context": "Sean explicitly presented this as his estimate of people willing or able to pay."
+      },
+      {
+        "metric": "Indian teams identified by Krafton",
+        "value": "256",
+        "unit": "teams",
+        "speaker": "Animesh",
+        "context": "He used the count to illustrate the developing competitive-gaming ecosystem."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Show me what you know. Show me what you can do.",
+        "speaker": "Joseph",
+        "theme": "hiring"
+      },
+      {
+        "text": "Gaming cannot be the only thing that you are pursuing in India right now. You need to have a backup plan.",
+        "speaker": "Animesh",
+        "theme": "gaming careers"
+      },
+      {
+        "text": "Talent goes where the money lies.",
+        "speaker": "Animesh",
+        "theme": "industry development"
+      },
+      {
+        "text": "You have to do the right thing, what you genuinely believe is right, versus trying to deliver the next quarter's result.",
+        "speaker": "Nitish",
+        "theme": "public-company leadership"
+      }
+    ],
+    "ideas": [
+      {
+        "text": "Build expertise in AI and a second field such as gaming, then use AI to create new game experiences or reduce development costs.",
+        "speaker": "Joseph",
+        "type": "playbook"
+      },
+      {
+        "text": "Use language models to let non-player characters respond to players in real time rather than relying entirely on fixed dialogue trees.",
+        "speaker": "Joseph",
+        "type": "business-idea"
+      },
+      {
+        "text": "Build Indian games for global audiences by strengthening new-game development skills and monetization expertise.",
+        "speaker": "Joseph",
+        "type": "investment-thesis"
+      }
+    ],
+    "stories": [
+      {
+        "text": "Sean said Krafton developed BGMI for India after PUBG Mobile, which Tencent published, was banned there.",
+        "speaker": "Sean",
+        "lesson": "A game publisher may need a market-specific product and publishing arrangement."
+      },
+      {
+        "text": "Joseph said FunPlus brought specialists from around the world to teach a Beijing team, which then developed King of Avalon.",
+        "speaker": "Joseph",
+        "lesson": "Targeted teaching can help a developing game team build new capabilities."
+      },
+      {
+        "text": "Animesh said SuperGaming invited him and Mortal to see Indus and give feedback well before launch; that early involvement made him willing to discuss the game later.",
+        "speaker": "Animesh",
+        "lesson": "Bring creators into development early to earn informed support."
+      }
+    ]
+  }
+]

@@ -1,197 +1,828 @@
 [
-  {
-    "video_id": "EP-#7-Who-is-Kiran-Mazumdar-Shaw-Really-And-WTF-is-Biotech",
-    "guests": ["Kiran Mazumdar-Shaw"],
-    "industries": ["biotech", "pharma", "healthcare", "manufacturing", "climate", "alcohol", "finance", "travel"],
-    "geographies": ["India", "US", "China", "Europe", "Australia", "Ireland", "UK", "Turkey"],
-    "insights": [
-      {"text": "A founder should recognize warning signs and cut losses before commitment to a failing business turns into denial; Kiran applies this lesson to Kingfisher Airlines.", "speaker": "Kiran Mazumdar-Shaw", "industry": "travel", "geography": "India"},
-      {"text": "Biocon moved from enzymes into biopharmaceuticals by reusing its fermentation capabilities for higher-value products.", "speaker": "Kiran Mazumdar-Shaw", "industry": "biotech", "geography": "India"},
-      {"text": "An IPO gave Biocon valued stock that could be monetized or used in acquisitions, beyond the cash raised at listing.", "speaker": "Kiran Mazumdar-Shaw", "industry": "finance", "geography": "India"},
-      {"text": "Unilever's ownership taught Biocon global manufacturing, reporting, regulatory and intellectual-property practices.", "speaker": "Kiran Mazumdar-Shaw", "industry": "biotech", "geography": "India"},
-      {"text": "Biocon sold its enzyme business when future investment would favor biopharmaceuticals, allowing a specialist buyer to develop the older business.", "speaker": "Kiran Mazumdar-Shaw", "industry": "biotech", "geography": "India"},
-      {"text": "Building biosimilars over a long period let Biocon absorb costs that would sharply affect an established pharmaceutical firm's current earnings if it entered now.", "speaker": "Kiran Mazumdar-Shaw", "industry": "pharma", "geography": "India"},
-      {"text": "India needs more research spending and curiosity-driven education to turn its young population into innovation capacity.", "speaker": "Kiran Mazumdar-Shaw", "industry": "biotech", "geography": "India"}
-    ],
-    "data_points": [
-      {"metric": "Biocon share of global statin APIs", "value": "50%", "unit": "%", "speaker": "Kiran Mazumdar-Shaw", "context": "She describes Biocon's scale after expanding from lovastatin into other statins."},
-      {"metric": "Animal-derived share of insulin used in India when Biocon began its insulin program", "value": "90%", "unit": "%", "speaker": "Kiran Mazumdar-Shaw", "context": "Low-cost animal insulin dominated before Biocon launched recombinant human insulin."},
-      {"metric": "Recombinant human insulin price relative to animal insulin at the time", "value": "10 times", "unit": "x", "speaker": "Kiran Mazumdar-Shaw", "context": "The price gap motivated Biocon to develop a lower-cost human insulin."},
-      {"metric": "Biocon acquisition of its biosimilars partner's commercial interest", "value": "three billion dollars", "unit": "dollars", "speaker": "Kiran Mazumdar-Shaw", "context": "She says the deal comprised two billion in cash and one billion in stock."},
-      {"metric": "Biologic drugs expected to come off patent", "value": "about 100 billion dollars", "unit": "dollars", "speaker": "Kiran Mazumdar-Shaw", "context": "She frames this as the biosimilars opportunity over the next 10 years."},
-      {"metric": "India's research spending as a share of GDP", "value": "less than one percent", "unit": "% of GDP", "speaker": "Kiran Mazumdar-Shaw", "context": "She argues that India should at least double this spending."}
-    ],
-    "quotes": [
-      {"text": "You've got to have hunger in your belly and you've got to have an idea which you think is exciting.", "speaker": "Kiran Mazumdar-Shaw", "theme": "entrepreneurship"},
-      {"text": "Don't be wedded to a historic business if that business can be monetized and if someone else can make a bigger business of that business.", "speaker": "Kiran Mazumdar-Shaw", "theme": "divestment"},
-      {"text": "Wealth has never been about money. Wealth has been about value creation.", "speaker": "Kiran Mazumdar-Shaw", "theme": "wealth"},
-      {"text": "Today we are followers, we are not innovators.", "speaker": "Kiran Mazumdar-Shaw", "theme": "research"}
-    ],
-    "ideas": [
-      {"text": "Use fermentation platforms developed for enzymes to manufacture biopharmaceuticals, including statins and insulin.", "speaker": "Kiran Mazumdar-Shaw", "type": "playbook"},
-      {"text": "Add research-linked incentives to India's pharmaceutical policy alongside production-linked incentives.", "speaker": "Kiran Mazumdar-Shaw", "type": "investment-thesis"},
-      {"text": "Build biotechnology ventures in genomics, cell and gene therapy, diagnostics, or personalized medicine.", "speaker": "Kiran Mazumdar-Shaw", "type": "business-idea"}
-    ],
-    "stories": [
-      {"text": "In 1978, Les Hawkins tracked Kiran Mazumdar-Shaw down in Baroda before her train to Delhi and persuaded her to start an Indian enzyme venture instead of taking a brewing job in Scotland.", "speaker": "Kiran Mazumdar-Shaw", "lesson": "A credible partner can open an entrepreneurial path when conventional employers refuse one."},
-      {"text": "Kiran Mazumdar-Shaw told Vijay Mallya to downsize Kingfisher Airlines during its crisis, but he continued trying to fund a larger airline as losses and debt grew.", "speaker": "Kiran Mazumdar-Shaw", "lesson": "Act on early signs of failure rather than financing escalating losses."},
-      {"text": "John sold his Chelsea townhouse investment and helped raise two million dollars so he and Kiran could buy Unilever's 30 percent stake in Biocon.", "speaker": "Kiran Mazumdar-Shaw", "lesson": "A contractual preemptive right enabled the founders to regain ownership."}
-    ]
-  },
-  {
-    "video_id": "EP-#8-Bill-Gates-x-Nikhil-Kamath-Part-2-People-by-WTF-Ep.8",
-    "guests": ["Bill Gates"],
-    "industries": ["ai", "healthcare", "education", "software", "finance"],
-    "geographies": ["India", "US", "Africa"],
-    "insights": [
-      {"text": "Gates expects AI and capable robots to remove shortages in services and physical work, forcing societies to rethink how people spend time.", "speaker": "Bill Gates", "industry": "ai", "geography": null},
-      {"text": "AI could supply medical expertise in places where doctors remain scarce, including India and Africa.", "speaker": "Bill Gates", "industry": "healthcare", "geography": "India"},
-      {"text": "Managing early Microsoft engineers as harshly as he managed himself limited Gates's ability to recognize sales and management talent.", "speaker": "Bill Gates", "industry": "software", "geography": "US"},
-      {"text": "The move from Microsoft to the foundation let Gates apply lessons about bringing together scientists, government specialists and field workers.", "speaker": "Bill Gates", "industry": "healthcare", "geography": "Africa"},
-      {"text": "Competition in software categories can be winner-take-all, while philanthropy is less directly competitive.", "speaker": "Bill Gates", "industry": "software", "geography": null},
-      {"text": "The AI transition may change the value of workers' skills within one generation, faster than the earlier decline in US farm employment.", "speaker": "Bill Gates", "industry": "ai", "geography": "US"},
-      {"text": "Personal wealth and intelligence do not ensure satisfying family relationships or happiness.", "speaker": "Bill Gates", "industry": null, "geography": null}
-    ],
-    "data_points": [
-      {"metric": "Gates's suggested horizon for AI changing the economic framework", "value": "20 years", "unit": "years", "speaker": "Bill Gates", "context": "He expects AI to perform both white-collar and physical work by then."},
-      {"metric": "US farm employment before and after its historical decline", "value": "50% farmers to 2% farmers", "unit": "% of workers", "speaker": "Bill Gates", "context": "Gates contrasts this gradual transition with the expected speed of AI."},
-      {"metric": "Period over which the US farming transition occurred", "value": "60-year period", "unit": "years", "speaker": "Bill Gates", "context": "A person could remain a farmer while their children moved to other work."},
-      {"metric": "Time Nikhil spent reading Gates's book Source Code", "value": "14 15 hours", "unit": "hours", "speaker": "Nikhil Kamath", "context": "He read during travel and before bed to prepare for the interview."}
-    ],
-    "quotes": [
-      {"text": "Talent is more varied than I realized.", "speaker": "Bill Gates", "theme": "management"},
-      {"text": "We will have created free intelligence.", "speaker": "Bill Gates", "theme": "ai"},
-      {"text": "Markets are about scarce resources.", "speaker": "Bill Gates", "theme": "economics"},
-      {"text": "Even giving away money can be very egotistical.", "speaker": "Bill Gates", "theme": "philanthropy"}
-    ],
-    "ideas": [
-      {"text": "Consider which roles, such as nursing or psychiatry, society may choose to reserve for humans even if machines can perform them.", "speaker": "Bill Gates", "type": "contrarian-take"},
-      {"text": "Build organizations with people whose skills differ from the founder's, including sales, management, science and field work.", "speaker": "Bill Gates", "type": "playbook"},
-      {"text": "Seek a role with the OpenAI team to learn the business implications of AI from close exposure to the work.", "speaker": "Bill Gates", "type": "playbook"}
-    ],
-    "stories": [
-      {"text": "As a child, Bill Gates worked out that his grandmother won card games by remembering every card played; she made him discover her method himself.", "speaker": "Bill Gates", "lesson": "Patiently staying with confusion helped him understand a difficult pattern."},
-      {"text": "On Microsoft retreats, Gates kept warning other leaders about threats to the company's survival even when they did not share his concern.", "speaker": "Bill Gates", "lesson": "Fear of losing a dominant position can drive intense competitive behavior."}
-    ]
-  },
-  {
-    "video_id": "EP-#8-WTF-is-Going-on-in-the-World-of-Content-w-Nikhil,-Ajay-Bijli,-Vijay-S.-and-Sajith-S",
-    "guests": ["Ajay Bijli", "Vijay Subramaniam", "Sajith Sivanandan"],
-    "industries": ["content", "gaming", "finance"],
-    "geographies": ["India", "US", "China", "Southeast Asia"],
-    "insights": [
-      {"text": "Streaming subscriptions in India reach far fewer people than television, leaving room to grow through regional-language content and wider smartphone access.", "speaker": "Sajith Sivanandan", "industry": "content", "geography": "India"},
-      {"text": "Multiplexes account for most Indian cinema revenue despite being a minority of screens because their ticket prices are higher.", "speaker": "Ajay Bijli", "industry": "content", "geography": "India"},
-      {"text": "India's single-screen cinemas keep closing as their owners find more value in converting the real estate, while multiplex openings only partly offset closures.", "speaker": "Ajay Bijli", "industry": "content", "geography": "India"},
-      {"text": "Theatrical release remains an important first monetization window for expensive films because box office receipts cannot simply be replaced by direct streaming.", "speaker": "Ajay Bijli", "industry": "content", "geography": null},
-      {"text": "Vijay argues that high upfront actor fees persist partly because creators lack transparent budgets, royalty rights and a meaningful share of later revenue.", "speaker": "Vijay Subramaniam", "industry": "content", "geography": "India"},
-      {"text": "A strong story can make an unknown actor viable, whereas a prominent actor cannot rescue a weak story.", "speaker": "Sajith Sivanandan", "industry": "content", "geography": "India"},
-      {"text": "Short video gives independent creators another route to reach audiences and is especially important among younger viewers.", "speaker": "Sajith Sivanandan", "industry": "content", "geography": "India"}
-    ],
-    "data_points": [
-      {"metric": "Indian streaming subscription market", "value": "about 2 billion", "unit": "US dollars", "speaker": "Sajith Sivanandan", "context": "He cites a BCG-Meta report to size the combined streaming business."},
-      {"metric": "Indian cinema screens", "value": "9000", "unit": "screens", "speaker": "Ajay Bijli", "context": "He says closures and new multiplex openings leave the total around this level."},
-      {"metric": "Indian multiplex screens", "value": "about 3500", "unit": "screens", "speaker": "Ajay Bijli", "context": "Multiplexes are a minority of the country's cinema screens."},
-      {"metric": "Share of cinema revenue from multiplexes", "value": "70%", "unit": "%", "speaker": "Ajay Bijli", "context": "He attributes their larger revenue share to higher average ticket prices."},
-      {"metric": "People in India who pay a streaming subscription", "value": "80 to 90 million", "unit": "people", "speaker": "Vijay Subramaniam", "context": "He contrasts paying streaming users with television's much larger reach."},
-      {"metric": "Male share of short-form content consumers in a study", "value": "75 percent", "unit": "%", "speaker": "Sajith Sivanandan", "context": "He links the skew partly to unequal access to smartphones."},
-      {"metric": "Lead actor's share of a big film's production budget", "value": "20 to 50", "unit": "%", "speaker": "Vijay Subramaniam", "context": "He gives this range while discussing film economics and talent fees."}
-    ],
-    "quotes": [
-      {"text": "Creativity and commerce is something that should happen hand in hand.", "speaker": "Ajay Bijli", "theme": "film economics"},
-      {"text": "Why is it wrong for a celebrity to make money?", "speaker": "Vijay Subramaniam", "theme": "talent fees"},
-      {"text": "Everything starts with material.", "speaker": "Vijay Subramaniam", "theme": "writing"},
-      {"text": "We have to work hard to earn that right of time.", "speaker": "Sajith Sivanandan", "theme": "audience attention"}
-    ],
-    "ideas": [
-      {"text": "Create a fund dedicated to writers that buys or develops scripts and gives writers a defined share of future revenue.", "speaker": "Vijay Subramaniam", "type": "business-idea"},
-      {"text": "Build a platform where scriptwriters can submit work, meet peers and connect with producers or streaming services.", "speaker": "Nikhil Kamath", "type": "business-idea"},
-      {"text": "Screen shorter live sports events in cinemas to offer communal viewing between stadium attendance and watching at home.", "speaker": "Ajay Bijli", "type": "business-idea"},
-      {"text": "Make original streaming pitches around a strong script, a fitting director and cast, with genres such as mystery or drama that travel well.", "speaker": "Sajith Sivanandan", "type": "playbook"}
-    ],
-    "stories": [
-      {"text": "Ajay Bijli renovated Priya Cinema after finding that his family's trucking business did not suit him; he then turned underused cinemas into multiplexes and opened his first in 1997.", "speaker": "Ajay Bijli", "lesson": "Existing cinema properties became a path to expansion before malls were available."},
-      {"text": "Sajith Sivanandan's parents mortgaged their 1100-square-foot home for his studies at the Asian Institute of Management in Manila, prompting him to take study seriously.", "speaker": "Sajith Sivanandan", "lesson": "A family's financial commitment changed his sense of responsibility."},
-      {"text": "Vijay Subramaniam began by managing a school band, then interned at Mahesh Bhupathi's Global Sports after it rented space in his family's house.", "speaker": "Vijay Subramaniam", "lesson": "Early entertainment work and a nearby opportunity led him into talent management."}
-    ]
-  },
-  {
-    "video_id": "EP-#9-Nikhil-Kamath-x-YouTube-CEO,-Neal-Mohan-People-by-WTF-Ep.-9",
-    "guests": ["Neal Mohan"],
-    "industries": ["content", "ai", "education", "gaming"],
-    "geographies": ["India", "US"],
-    "insights": [
-      {"text": "YouTube's podcast bets were video viewing, discovery beyond subscriptions and inclusion in creator monetization.", "speaker": "Neal Mohan", "industry": "content", "geography": null},
-      {"text": "Traditional news outlets and independent podcasters can both build large audiences on YouTube; Mohan expects more formats rather than a single winner.", "speaker": "Neal Mohan", "industry": "content", "geography": "US"},
-      {"text": "YouTube builds tools for creators to reach audiences, while creators control what they produce and when they publish it.", "speaker": "Neal Mohan", "industry": "content", "geography": null},
-      {"text": "Creator-led studios are beginning to perform production roles previously associated with large film studios, at different budgets and scales.", "speaker": "Neal Mohan", "industry": "content", "geography": "US"},
-      {"text": "A creator can use a YouTube audience as a base for books, clothing or other businesses in addition to advertising and subscriptions.", "speaker": "Neal Mohan", "industry": "content", "geography": null},
-      {"text": "A durable YouTube channel requires genuine interest in its subject and time for audience expectations and recommendations to develop.", "speaker": "Neal Mohan", "industry": "content", "geography": null},
-      {"text": "AI tools for translation and idea generation may have more practical value to creators than impressive video generation alone.", "speaker": "Neal Mohan", "industry": "ai", "geography": null}
-    ],
-    "data_points": [
-      {"metric": "Creators in India uploading videos to YouTube", "value": "100 million", "unit": "creators", "speaker": "Neal Mohan", "context": "He uses the figure to illustrate the scale of Indian content creation."},
-      {"metric": "Indian YouTube creators above one million subscribers", "value": "15,000", "unit": "creators", "speaker": "Neal Mohan", "context": "He says this had risen from about 11,000 a few months earlier."},
-      {"metric": "Revenue generated by Indian creators on YouTube", "value": "21,000 crores", "unit": "INR crore", "speaker": "Neal Mohan", "context": "He gives this figure for the last 3 years."},
-      {"metric": "Indian-created YouTube watch time consumed outside India", "value": "15%", "unit": "%", "speaker": "Neal Mohan", "context": "He also describes this as about 45 billion hours."},
-      {"metric": "Daily YouTube users", "value": "two billion", "unit": "people", "speaker": "Neal Mohan", "context": "He uses the figure to explain why many news formats can coexist."},
-      {"metric": "Videos uploaded to YouTube", "value": "20 billion", "unit": "videos", "speaker": "Neal Mohan", "context": "He cites the catalog's breadth while explaining niche learning content."}
-    ],
-    "quotes": [
-      {"text": "Build the technology and then frankly get out of the way.", "speaker": "Neal Mohan", "theme": "platform role"},
-      {"text": "Creators are the startups of Hollywood.", "speaker": "Neal Mohan", "theme": "creator economy"},
-      {"text": "Consumers really are in charge. They really vote with their time and their engagement.", "speaker": "Neal Mohan", "theme": "audience choice"},
-      {"text": "By the time a decision comes up to me, it's usually a decision between two bad choices.", "speaker": "Neal Mohan", "theme": "leadership"}
-    ],
-    "ideas": [
-      {"text": "Use AI dubbing and translation to make a creator's video available across languages while preserving voice and tone.", "speaker": "Neal Mohan", "type": "business-idea"},
-      {"text": "Offer AI tools that help a creator plan the next video or rapidly change a video's setting.", "speaker": "Neal Mohan", "type": "business-idea"},
-      {"text": "For niche educational content, consider direct fan funding alongside advertising, subscriptions, shopping and merchandise.", "speaker": "Neal Mohan", "type": "playbook"}
-    ],
-    "stories": [
-      {"text": "Neal Mohan started a small software venture in high school in Lucknow, building software for fellow students and teachers.", "speaker": "Neal Mohan", "lesson": "His interest in technology began before his media career."},
-      {"text": "Mohan saw creator-led studios run by Rhett and Link and Alan Chicken Chow near Disney's Burbank studio, producing YouTube-style shows in 10,000-square-foot facilities.", "speaker": "Neal Mohan", "lesson": "Creators can build their own production infrastructure."}
-    ]
-  },
-  {
-    "video_id": "EP-#9-WTF-is-Venture-Capital-Ft.-Nikhil,-Nithin,-Rajan-A.,-Prashanth-P.-and-Karthik-R",
-    "guests": ["Nithin Kamath", "Rajan Anandan", "Prashanth Prakash", "Karthik Reddy"],
-    "industries": ["venture-capital", "finance", "healthcare", "climate", "ai", "manufacturing", "consumer-electronics", "edtech", "ev"],
-    "geographies": ["India", "US", "China", "Southeast Asia", "Sri Lanka"],
-    "insights": [
-      {"text": "Venture funds seek exceptional winners because a small number of companies produce most portfolio returns.", "speaker": "Karthik Reddy", "industry": "venture-capital", "geography": "India"},
-      {"text": "Angel investing for financial return works best when the investor brings sector expertise and practical value to founders.", "speaker": "Rajan Anandan", "industry": "venture-capital", "geography": "India"},
-      {"text": "Indian consumer brands often test demand online and then add offline distribution to reach larger scale and better economics.", "speaker": "Rajan Anandan", "industry": "consumer-electronics", "geography": "India"},
-      {"text": "For a new marketplace, simply listing sellers is no longer enough; the platform needs a stronger service or other value add.", "speaker": "Prashanth Prakash", "industry": "venture-capital", "geography": "India"},
-      {"text": "Entrepreneurs should choose problems they know and can commit to for years rather than chase the sectors attracting the most funding this year.", "speaker": "Karthik Reddy", "industry": "venture-capital", "geography": null},
-      {"text": "Early-stage founders need resilience through near-death moments and the ability to change strategy while retaining core values.", "speaker": "Rajan Anandan", "industry": "venture-capital", "geography": null},
-      {"text": "Karthik argues that IPOs dominated by sales from existing holders, after expensive private rounds, can pass valuation risk to public buyers.", "speaker": "Karthik Reddy", "industry": "finance", "geography": "India"}
-    ],
-    "data_points": [
-      {"metric": "Peak XV active companies", "value": "400 plus", "unit": "companies", "speaker": "Rajan Anandan", "context": "He describes the scale of Peak XV's portfolio."},
-      {"metric": "Peak XV uninvested committed capital", "value": "2.5 billion", "unit": "US dollars", "speaker": "Rajan Anandan", "context": "He calls this dry powder available to invest over several years."},
-      {"metric": "Typical annual venture fund management fee", "value": "two percent", "unit": "% per year", "speaker": "Rajan Anandan", "context": "The fee pays a fund's team and operations."},
-      {"metric": "Typical venture fund carry", "value": "20", "unit": "% of gains", "speaker": "Rajan Anandan", "context": "Fund managers receive this share after distributions meet the fund's terms."},
-      {"metric": "Funding into Indian startups in 2021", "value": "over 40 billion dollars", "unit": "US dollars", "speaker": "Rajan Anandan", "context": "He contrasts it with 10 billion in 2020."},
-      {"metric": "Seed-funded Indian startups built for global markets from day zero", "value": "40 percent", "unit": "%", "speaker": "Rajan Anandan", "context": "He defines the group as companies raising roughly five to 40 crore in 2022."},
-      {"metric": "Online revenue at which new consumer brands may add offline distribution", "value": "50 to 100 crores", "unit": "INR crore", "speaker": "Rajan Anandan", "context": "He says this threshold fell as online customer acquisition became more expensive."}
-    ],
-    "quotes": [
-      {"text": "You can't teach hunger.", "speaker": "Rajan Anandan", "theme": "founders"},
-      {"text": "Write your values in ink and your strategy you should change.", "speaker": "Rajan Anandan", "theme": "adaptability"},
-      {"text": "If your objective is to make returns, you should not be an angel investor.", "speaker": "Karthik Reddy", "theme": "angel investing"},
-      {"text": "We can't get seduced by ideas and trends.", "speaker": "Karthik Reddy", "theme": "venture selection"}
-    ],
-    "ideas": [
-      {"text": "Build preventive health services that detect disease risk well before a condition appears.", "speaker": "Prashanth Prakash", "type": "business-idea"},
-      {"text": "Create AI infrastructure that makes models faster, cheaper, more reliable or less prone to hallucination, or build vertical AI applications.", "speaker": "Rajan Anandan", "type": "investment-thesis"},
-      {"text": "Train underserved healthcare workers through approved local courses with practical hospital placements and a path to employment.", "speaker": "Karthik Reddy", "type": "business-idea"},
-      {"text": "Develop sustainable materials from resources such as bamboo and hemp for global markets.", "speaker": "Prashanth Prakash", "type": "investment-thesis"}
-    ],
-    "stories": [
-      {"text": "Rajan Anandan said he and his younger brother survived violence in Sri Lanka because they could speak both Sinhala and Tamil when people were being pulled from cars nearby.", "speaker": "Rajan Anandan", "lesson": "He says the experience made him grateful and changed how he handles business setbacks."},
-      {"text": "Karthik Reddy used his savings for several angel checks, then invested for a businessman whose company he had helped sell before helping found Blume Ventures.", "speaker": "Karthik Reddy", "lesson": "Small personal investments and an operating relationship led into full-time venture work."},
-      {"text": "Prashanth Prakash recalled his father leaving HMT to start a small supplier for ITI and struggling to raise his first five or ten lakh rupees.", "speaker": "Prashanth Prakash", "lesson": "Seeing a parent start a factory gave him an early view of entrepreneurship."}
-    ]
-  }
+ {
+  "video_id": "EP-#7-Who-is-Kiran-Mazumdar-Shaw-Really-And-WTF-is-Biotech",
+  "guests": [
+   "Kiran Mazumdar-Shaw"
+  ],
+  "industries": [
+   "biotech",
+   "pharma",
+   "healthcare",
+   "manufacturing",
+   "climate",
+   "alcohol",
+   "finance",
+   "travel"
+  ],
+  "geographies": [
+   "India",
+   "US",
+   "China",
+   "Europe",
+   "Australia",
+   "Ireland",
+   "UK",
+   "Turkey"
+  ],
+  "insights": [
+   {
+    "text": "A founder should recognize warning signs and cut losses before commitment to a failing business turns into denial; Kiran applies this lesson to Kingfisher Airlines.",
+    "speaker": "Kiran Mazumdar-Shaw",
+    "industry": "travel",
+    "geography": "India"
+   },
+   {
+    "text": "Biocon moved from enzymes into biopharmaceuticals by reusing its fermentation capabilities for higher-value products.",
+    "speaker": "Kiran Mazumdar-Shaw",
+    "industry": "biotech",
+    "geography": "India"
+   },
+   {
+    "text": "An IPO gave Biocon valued stock that could be monetized or used in acquisitions, beyond the cash raised at listing.",
+    "speaker": "Kiran Mazumdar-Shaw",
+    "industry": "finance",
+    "geography": "India"
+   },
+   {
+    "text": "Unilever's ownership taught Biocon global manufacturing, reporting, regulatory and intellectual-property practices.",
+    "speaker": "Kiran Mazumdar-Shaw",
+    "industry": "biotech",
+    "geography": "India"
+   },
+   {
+    "text": "Biocon sold its enzyme business when future investment would favor biopharmaceuticals, allowing a specialist buyer to develop the older business.",
+    "speaker": "Kiran Mazumdar-Shaw",
+    "industry": "biotech",
+    "geography": "India"
+   },
+   {
+    "text": "Building biosimilars over a long period let Biocon absorb costs that would sharply affect an established pharmaceutical firm's current earnings if it entered now.",
+    "speaker": "Kiran Mazumdar-Shaw",
+    "industry": "pharma",
+    "geography": "India"
+   },
+   {
+    "text": "India needs more research spending and curiosity-driven education to turn its young population into innovation capacity.",
+    "speaker": "Kiran Mazumdar-Shaw",
+    "industry": "biotech",
+    "geography": "India"
+   }
+  ],
+  "data_points": [
+   {
+    "metric": "Biocon share of global statin APIs",
+    "value": "50%",
+    "unit": "%",
+    "speaker": "Kiran Mazumdar-Shaw",
+    "context": "She describes Biocon's scale after expanding from lovastatin into other statins."
+   },
+   {
+    "metric": "Animal-derived share of insulin used in India when Biocon began its insulin program",
+    "value": "90%",
+    "unit": "%",
+    "speaker": "Kiran Mazumdar-Shaw",
+    "context": "Low-cost animal insulin dominated before Biocon launched recombinant human insulin."
+   },
+   {
+    "metric": "Recombinant human insulin price relative to animal insulin at the time",
+    "value": "10 times",
+    "unit": "x",
+    "speaker": "Kiran Mazumdar-Shaw",
+    "context": "The price gap motivated Biocon to develop a lower-cost human insulin."
+   },
+   {
+    "metric": "Biocon acquisition of its biosimilars partner's commercial interest",
+    "value": "three billion dollars",
+    "unit": "dollars",
+    "speaker": "Kiran Mazumdar-Shaw",
+    "context": "She says the deal comprised two billion in cash and one billion in stock."
+   },
+   {
+    "metric": "Biologic drugs expected to come off patent",
+    "value": "about 100 billion dollars",
+    "unit": "dollars",
+    "speaker": "Kiran Mazumdar-Shaw",
+    "context": "She frames this as the biosimilars opportunity over the next 10 years."
+   },
+   {
+    "metric": "India's research spending as a share of GDP",
+    "value": "less than one percent",
+    "unit": "% of GDP",
+    "speaker": "Kiran Mazumdar-Shaw",
+    "context": "She argues that India should at least double this spending."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "You've got to have hunger in your belly and you've got to have an idea which you think is exciting.",
+    "speaker": "Kiran Mazumdar-Shaw",
+    "theme": "entrepreneurship"
+   },
+   {
+    "text": "Don't be wedded to a historic business if that business can be monetized and if someone else can make a bigger business of that business.",
+    "speaker": "Kiran Mazumdar-Shaw",
+    "theme": "divestment"
+   },
+   {
+    "text": "Wealth has never been about money. Wealth has been about value creation.",
+    "speaker": "Kiran Mazumdar-Shaw",
+    "theme": "wealth"
+   },
+   {
+    "text": "Today we are followers, we are not innovators.",
+    "speaker": "Kiran Mazumdar-Shaw",
+    "theme": "research"
+   }
+  ],
+  "ideas": [
+   {
+    "text": "Use fermentation platforms developed for enzymes to manufacture biopharmaceuticals, including statins and insulin.",
+    "speaker": "Kiran Mazumdar-Shaw",
+    "type": "playbook"
+   },
+   {
+    "text": "Add research-linked incentives to India's pharmaceutical policy alongside production-linked incentives.",
+    "speaker": "Kiran Mazumdar-Shaw",
+    "type": "investment-thesis"
+   },
+   {
+    "text": "Build biotechnology ventures in genomics, cell and gene therapy, diagnostics, or personalized medicine.",
+    "speaker": "Kiran Mazumdar-Shaw",
+    "type": "business-idea"
+   }
+  ],
+  "stories": [
+   {
+    "text": "In 1978, Les Hawkins tracked Kiran Mazumdar-Shaw down in Baroda before her train to Delhi and persuaded her to start an Indian enzyme venture instead of taking a brewing job in Scotland.",
+    "speaker": "Kiran Mazumdar-Shaw",
+    "lesson": "A credible partner can open an entrepreneurial path when conventional employers refuse one."
+   },
+   {
+    "text": "Kiran Mazumdar-Shaw told Vijay Mallya to downsize Kingfisher Airlines during its crisis, but he continued trying to fund a larger airline as losses and debt grew.",
+    "speaker": "Kiran Mazumdar-Shaw",
+    "lesson": "Act on early signs of failure rather than financing escalating losses."
+   },
+   {
+    "text": "John sold his Chelsea townhouse investment and helped raise two million dollars so he and Kiran could buy Unilever's 30 percent stake in Biocon.",
+    "speaker": "Kiran Mazumdar-Shaw",
+    "lesson": "A contractual preemptive right enabled the founders to regain ownership."
+   }
+  ]
+ },
+ {
+  "video_id": "EP-#8-Bill-Gates-x-Nikhil-Kamath-Part-2-People-by-WTF-Ep.8",
+  "guests": [
+   "Bill Gates"
+  ],
+  "industries": [
+   "ai",
+   "healthcare",
+   "education",
+   "software",
+   "finance"
+  ],
+  "geographies": [
+   "India",
+   "US",
+   "Africa"
+  ],
+  "insights": [
+   {
+    "text": "Gates expects AI and capable robots to remove shortages in services and physical work, forcing societies to rethink how people spend time.",
+    "speaker": "Bill Gates",
+    "industry": "ai",
+    "geography": null
+   },
+   {
+    "text": "AI could supply medical expertise in places where doctors remain scarce, including India and Africa.",
+    "speaker": "Bill Gates",
+    "industry": "healthcare",
+    "geography": "India"
+   },
+   {
+    "text": "Managing early Microsoft engineers as harshly as he managed himself limited Gates's ability to recognize sales and management talent.",
+    "speaker": "Bill Gates",
+    "industry": "software",
+    "geography": "US"
+   },
+   {
+    "text": "The move from Microsoft to the foundation let Gates apply lessons about bringing together scientists, government specialists and field workers.",
+    "speaker": "Bill Gates",
+    "industry": "healthcare",
+    "geography": "Africa"
+   },
+   {
+    "text": "Competition in software categories can be winner-take-all, while philanthropy is less directly competitive.",
+    "speaker": "Bill Gates",
+    "industry": "software",
+    "geography": null
+   },
+   {
+    "text": "The AI transition may change the value of workers' skills within one generation, faster than the earlier decline in US farm employment.",
+    "speaker": "Bill Gates",
+    "industry": "ai",
+    "geography": "US"
+   },
+   {
+    "text": "Personal wealth and intelligence do not ensure satisfying family relationships or happiness.",
+    "speaker": "Bill Gates",
+    "industry": null,
+    "geography": null
+   }
+  ],
+  "data_points": [
+   {
+    "metric": "Gates's suggested horizon for AI changing the economic framework",
+    "value": "20 years",
+    "unit": "years",
+    "speaker": "Bill Gates",
+    "context": "He expects AI to perform both white-collar and physical work by then."
+   },
+   {
+    "metric": "US farm employment before and after its historical decline",
+    "value": "50% farmers to 2% farmers",
+    "unit": "% of workers",
+    "speaker": "Bill Gates",
+    "context": "Gates contrasts this gradual transition with the expected speed of AI."
+   },
+   {
+    "metric": "Period over which the US farming transition occurred",
+    "value": "60-year period",
+    "unit": "years",
+    "speaker": "Bill Gates",
+    "context": "A person could remain a farmer while their children moved to other work."
+   },
+   {
+    "metric": "Time Nikhil spent reading Gates's book Source Code",
+    "value": "14 15 hours",
+    "unit": "hours",
+    "speaker": "Nikhil Kamath",
+    "context": "He read during travel and before bed to prepare for the interview."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "Talent is more varied than I realized.",
+    "speaker": "Bill Gates",
+    "theme": "management"
+   },
+   {
+    "text": "We will have created free intelligence.",
+    "speaker": "Bill Gates",
+    "theme": "ai"
+   },
+   {
+    "text": "Markets are about scarce resources.",
+    "speaker": "Bill Gates",
+    "theme": "economics"
+   },
+   {
+    "text": "Even giving away money can be very egotistical.",
+    "speaker": "Bill Gates",
+    "theme": "philanthropy"
+   }
+  ],
+  "ideas": [
+   {
+    "text": "Consider which roles, such as nursing or psychiatry, society may choose to reserve for humans even if machines can perform them.",
+    "speaker": "Bill Gates",
+    "type": "contrarian-take"
+   },
+   {
+    "text": "Build organizations with people whose skills differ from the founder's, including sales, management, science and field work.",
+    "speaker": "Bill Gates",
+    "type": "playbook"
+   },
+   {
+    "text": "Seek a role with the OpenAI team to learn the business implications of AI from close exposure to the work.",
+    "speaker": "Bill Gates",
+    "type": "playbook"
+   }
+  ],
+  "stories": [
+   {
+    "text": "As a child, Bill Gates worked out that his grandmother won card games by remembering every card played; she made him discover her method himself.",
+    "speaker": "Bill Gates",
+    "lesson": "Patiently staying with confusion helped him understand a difficult pattern."
+   },
+   {
+    "text": "On Microsoft retreats, Gates kept warning other leaders about threats to the company's survival even when they did not share his concern.",
+    "speaker": "Bill Gates",
+    "lesson": "Fear of losing a dominant position can drive intense competitive behavior."
+   }
+  ]
+ },
+ {
+  "video_id": "EP-#8-WTF-is-Going-on-in-the-World-of-Content-w-Nikhil,-Ajay-Bijli,-Vijay-S.-and-Sajith-S",
+  "guests": [
+   "Ajay Bijli",
+   "Vijay Subramaniam",
+   "Sajith Sivanandan"
+  ],
+  "industries": [
+   "content",
+   "gaming",
+   "finance"
+  ],
+  "geographies": [
+   "India",
+   "US",
+   "China",
+   "Southeast Asia"
+  ],
+  "insights": [
+   {
+    "text": "Streaming subscriptions in India reach far fewer people than television, leaving room to grow through regional-language content and wider smartphone access.",
+    "speaker": "Sajith Sivanandan",
+    "industry": "content",
+    "geography": "India"
+   },
+   {
+    "text": "Multiplexes account for most Indian cinema revenue despite being a minority of screens because their ticket prices are higher.",
+    "speaker": "Ajay Bijli",
+    "industry": "content",
+    "geography": "India"
+   },
+   {
+    "text": "India's single-screen cinemas keep closing as their owners find more value in converting the real estate, while multiplex openings only partly offset closures.",
+    "speaker": "Ajay Bijli",
+    "industry": "content",
+    "geography": "India"
+   },
+   {
+    "text": "Theatrical release remains an important first monetization window for expensive films because box office receipts cannot simply be replaced by direct streaming.",
+    "speaker": "Ajay Bijli",
+    "industry": "content",
+    "geography": null
+   },
+   {
+    "text": "Vijay argues that high upfront actor fees persist partly because creators lack transparent budgets, royalty rights and a meaningful share of later revenue.",
+    "speaker": "Vijay Subramaniam",
+    "industry": "content",
+    "geography": "India"
+   },
+   {
+    "text": "A strong story can make an unknown actor viable, whereas a prominent actor cannot rescue a weak story.",
+    "speaker": "Sajith Sivanandan",
+    "industry": "content",
+    "geography": "India"
+   },
+   {
+    "text": "Short video gives independent creators another route to reach audiences and is especially important among younger viewers.",
+    "speaker": "Sajith Sivanandan",
+    "industry": "content",
+    "geography": "India"
+   }
+  ],
+  "data_points": [
+   {
+    "metric": "Indian streaming subscription market",
+    "value": "about 2 billion",
+    "unit": "US dollars",
+    "speaker": "Sajith Sivanandan",
+    "context": "He cites a BCG-Meta report to size the combined streaming business."
+   },
+   {
+    "metric": "Indian cinema screens",
+    "value": "9000",
+    "unit": "screens",
+    "speaker": "Ajay Bijli",
+    "context": "He says closures and new multiplex openings leave the total around this level."
+   },
+   {
+    "metric": "Indian multiplex screens",
+    "value": "about 3500",
+    "unit": "screens",
+    "speaker": "Ajay Bijli",
+    "context": "Multiplexes are a minority of the country's cinema screens."
+   },
+   {
+    "metric": "Share of cinema revenue from multiplexes",
+    "value": "70%",
+    "unit": "%",
+    "speaker": "Ajay Bijli",
+    "context": "He attributes their larger revenue share to higher average ticket prices."
+   },
+   {
+    "metric": "People in India who pay a streaming subscription",
+    "value": "80 to 90 million",
+    "unit": "people",
+    "speaker": "Vijay Subramaniam",
+    "context": "He contrasts paying streaming users with television's much larger reach."
+   },
+   {
+    "metric": "Male share of short-form content consumers in a study",
+    "value": "75 percent",
+    "unit": "%",
+    "speaker": "Sajith Sivanandan",
+    "context": "He links the skew partly to unequal access to smartphones."
+   },
+   {
+    "metric": "Lead actor's share of a big film's production budget",
+    "value": "20 to 50",
+    "unit": "%",
+    "speaker": "Vijay Subramaniam",
+    "context": "He gives this range while discussing film economics and talent fees."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "Creativity and commerce is something that should happen hand in hand.",
+    "speaker": "Ajay Bijli",
+    "theme": "film economics"
+   },
+   {
+    "text": "Why is it wrong for a celebrity to make money?",
+    "speaker": "Vijay Subramaniam",
+    "theme": "talent fees"
+   },
+   {
+    "text": "Everything starts with material.",
+    "speaker": "Vijay Subramaniam",
+    "theme": "writing"
+   },
+   {
+    "text": "We have to work hard to earn that right of time.",
+    "speaker": "Sajith Sivanandan",
+    "theme": "audience attention"
+   }
+  ],
+  "ideas": [
+   {
+    "text": "Create a fund dedicated to writers that buys or develops scripts and gives writers a defined share of future revenue.",
+    "speaker": "Vijay Subramaniam",
+    "type": "business-idea"
+   },
+   {
+    "text": "Build a platform where scriptwriters can submit work, meet peers and connect with producers or streaming services.",
+    "speaker": "Nikhil Kamath",
+    "type": "business-idea"
+   },
+   {
+    "text": "Screen shorter live sports events in cinemas to offer communal viewing between stadium attendance and watching at home.",
+    "speaker": "Ajay Bijli",
+    "type": "business-idea"
+   },
+   {
+    "text": "Make original streaming pitches around a strong script, a fitting director and cast, with genres such as mystery or drama that travel well.",
+    "speaker": "Sajith Sivanandan",
+    "type": "playbook"
+   }
+  ],
+  "stories": [
+   {
+    "text": "Ajay Bijli renovated Priya Cinema after finding that his family's trucking business did not suit him; he then turned underused cinemas into multiplexes and opened his first in 1997.",
+    "speaker": "Ajay Bijli",
+    "lesson": "Existing cinema properties became a path to expansion before malls were available."
+   },
+   {
+    "text": "Sajith Sivanandan's parents mortgaged their 1100-square-foot home for his studies at the Asian Institute of Management in Manila, prompting him to take study seriously.",
+    "speaker": "Sajith Sivanandan",
+    "lesson": "A family's financial commitment changed his sense of responsibility."
+   },
+   {
+    "text": "Vijay Subramaniam began by managing a school band, then interned at Mahesh Bhupathi's Global Sports after it rented space in his family's house.",
+    "speaker": "Vijay Subramaniam",
+    "lesson": "Early entertainment work and a nearby opportunity led him into talent management."
+   }
+  ]
+ },
+ {
+  "video_id": "EP-#9-Nikhil-Kamath-x-YouTube-CEO,-Neal-Mohan-People-by-WTF-Ep.-9",
+  "guests": [
+   "Neal Mohan"
+  ],
+  "industries": [
+   "content",
+   "ai",
+   "education",
+   "gaming"
+  ],
+  "geographies": [
+   "India",
+   "US"
+  ],
+  "insights": [
+   {
+    "text": "YouTube's podcast bets were video viewing, discovery beyond subscriptions and inclusion in creator monetization.",
+    "speaker": "Neal Mohan",
+    "industry": "content",
+    "geography": null
+   },
+   {
+    "text": "Traditional news outlets and independent podcasters can both build large audiences on YouTube; Mohan expects more formats rather than a single winner.",
+    "speaker": "Neal Mohan",
+    "industry": "content",
+    "geography": "US"
+   },
+   {
+    "text": "YouTube builds tools for creators to reach audiences, while creators control what they produce and when they publish it.",
+    "speaker": "Neal Mohan",
+    "industry": "content",
+    "geography": null
+   },
+   {
+    "text": "Creator-led studios are beginning to perform production roles previously associated with large film studios, at different budgets and scales.",
+    "speaker": "Neal Mohan",
+    "industry": "content",
+    "geography": "US"
+   },
+   {
+    "text": "A creator can use a YouTube audience as a base for books, clothing or other businesses in addition to advertising and subscriptions.",
+    "speaker": "Neal Mohan",
+    "industry": "content",
+    "geography": null
+   },
+   {
+    "text": "A durable YouTube channel requires genuine interest in its subject and time for audience expectations and recommendations to develop.",
+    "speaker": "Neal Mohan",
+    "industry": "content",
+    "geography": null
+   },
+   {
+    "text": "AI tools for translation and idea generation may have more practical value to creators than impressive video generation alone.",
+    "speaker": "Neal Mohan",
+    "industry": "ai",
+    "geography": null
+   }
+  ],
+  "data_points": [
+   {
+    "metric": "Creators in India uploading videos to YouTube",
+    "value": "100 million",
+    "unit": "creators",
+    "speaker": "Neal Mohan",
+    "context": "He uses the figure to illustrate the scale of Indian content creation."
+   },
+   {
+    "metric": "Indian YouTube creators above one million subscribers",
+    "value": "15,000",
+    "unit": "creators",
+    "speaker": "Neal Mohan",
+    "context": "He says this had risen from about 11,000 a few months earlier."
+   },
+   {
+    "metric": "Revenue generated by Indian creators on YouTube",
+    "value": "21,000 crores",
+    "unit": "INR crore",
+    "speaker": "Neal Mohan",
+    "context": "He gives this figure for the last 3 years."
+   },
+   {
+    "metric": "Indian-created YouTube watch time consumed outside India",
+    "value": "15%",
+    "unit": "%",
+    "speaker": "Neal Mohan",
+    "context": "He also describes this as about 45 billion hours."
+   },
+   {
+    "metric": "Daily YouTube users",
+    "value": "two billion",
+    "unit": "people",
+    "speaker": "Neal Mohan",
+    "context": "He uses the figure to explain why many news formats can coexist."
+   },
+   {
+    "metric": "Videos uploaded to YouTube",
+    "value": "20 billion",
+    "unit": "videos",
+    "speaker": "Neal Mohan",
+    "context": "He cites the catalog's breadth while explaining niche learning content."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "Build the technology and then frankly get out of the way.",
+    "speaker": "Neal Mohan",
+    "theme": "platform role"
+   },
+   {
+    "text": "Creators are the startups of Hollywood.",
+    "speaker": "Neal Mohan",
+    "theme": "creator economy"
+   },
+   {
+    "text": "Consumers really are in charge. They really vote with their time and their engagement.",
+    "speaker": "Neal Mohan",
+    "theme": "audience choice"
+   },
+   {
+    "text": "By the time a decision comes up to me, it's usually a decision between two bad choices.",
+    "speaker": "Neal Mohan",
+    "theme": "leadership"
+   }
+  ],
+  "ideas": [
+   {
+    "text": "Use AI dubbing and translation to make a creator's video available across languages while preserving voice and tone.",
+    "speaker": "Neal Mohan",
+    "type": "business-idea"
+   },
+   {
+    "text": "Offer AI tools that help a creator plan the next video or rapidly change a video's setting.",
+    "speaker": "Neal Mohan",
+    "type": "business-idea"
+   },
+   {
+    "text": "For niche educational content, consider direct fan funding alongside advertising, subscriptions, shopping and merchandise.",
+    "speaker": "Neal Mohan",
+    "type": "playbook"
+   }
+  ],
+  "stories": [
+   {
+    "text": "Neal Mohan started a small software venture in high school in Lucknow, building software for fellow students and teachers.",
+    "speaker": "Neal Mohan",
+    "lesson": "His interest in technology began before his media career."
+   },
+   {
+    "text": "Mohan saw creator-led studios run by Rhett and Link and Alan Chicken Chow near Disney's Burbank studio, producing YouTube-style shows in 10,000-square-foot facilities.",
+    "speaker": "Neal Mohan",
+    "lesson": "Creators can build their own production infrastructure."
+   }
+  ]
+ },
+ {
+  "video_id": "EP-#9-WTF-is-Venture-Capital-Ft.-Nikhil,-Nithin,-Rajan-A.,-Prashanth-P.-and-Karthik-R",
+  "guests": [
+   "Nithin Kamath",
+   "Rajan Anandan",
+   "Prashanth Prakash",
+   "Karthik Reddy"
+  ],
+  "industries": [
+   "venture-capital",
+   "finance",
+   "healthcare",
+   "climate",
+   "ai",
+   "manufacturing",
+   "consumer-electronics",
+   "edtech",
+   "ev"
+  ],
+  "geographies": [
+   "India",
+   "US",
+   "China",
+   "Southeast Asia",
+   "Sri Lanka"
+  ],
+  "insights": [
+   {
+    "text": "Venture funds seek exceptional winners because a small number of companies produce most portfolio returns.",
+    "speaker": "Karthik Reddy",
+    "industry": "venture-capital",
+    "geography": "India"
+   },
+   {
+    "text": "Angel investing for financial return works best when the investor brings sector expertise and practical value to founders.",
+    "speaker": "Rajan Anandan",
+    "industry": "venture-capital",
+    "geography": "India"
+   },
+   {
+    "text": "Indian consumer brands often test demand online and then add offline distribution to reach larger scale and better economics.",
+    "speaker": "Rajan Anandan",
+    "industry": "consumer-electronics",
+    "geography": "India"
+   },
+   {
+    "text": "For a new marketplace, simply listing sellers is no longer enough; the platform needs a stronger service or other value add.",
+    "speaker": "Prashanth Prakash",
+    "industry": "venture-capital",
+    "geography": "India"
+   },
+   {
+    "text": "Entrepreneurs should choose problems they know and can commit to for years rather than chase the sectors attracting the most funding this year.",
+    "speaker": "Karthik Reddy",
+    "industry": "venture-capital",
+    "geography": null
+   },
+   {
+    "text": "Early-stage founders need resilience through near-death moments and the ability to change strategy while retaining core values.",
+    "speaker": "Rajan Anandan",
+    "industry": "venture-capital",
+    "geography": null
+   },
+   {
+    "text": "Karthik argues that IPOs dominated by sales from existing holders, after expensive private rounds, can pass valuation risk to public buyers.",
+    "speaker": "Karthik Reddy",
+    "industry": "finance",
+    "geography": "India"
+   }
+  ],
+  "data_points": [
+   {
+    "metric": "Peak XV active companies",
+    "value": "400 plus",
+    "unit": "companies",
+    "speaker": "Rajan Anandan",
+    "context": "He describes the scale of Peak XV's portfolio."
+   },
+   {
+    "metric": "Peak XV uninvested committed capital",
+    "value": "2.5 billion",
+    "unit": "US dollars",
+    "speaker": "Rajan Anandan",
+    "context": "He calls this dry powder available to invest over several years."
+   },
+   {
+    "metric": "Typical annual venture fund management fee",
+    "value": "two percent",
+    "unit": "% per year",
+    "speaker": "Rajan Anandan",
+    "context": "The fee pays a fund's team and operations."
+   },
+   {
+    "metric": "Typical venture fund carry",
+    "value": "20",
+    "unit": "% of gains",
+    "speaker": "Rajan Anandan",
+    "context": "Fund managers receive this share after distributions meet the fund's terms."
+   },
+   {
+    "metric": "Funding into Indian startups in 2021",
+    "value": "over 40 billion dollars",
+    "unit": "US dollars",
+    "speaker": "Rajan Anandan",
+    "context": "He contrasts it with 10 billion in 2020."
+   },
+   {
+    "metric": "Seed-funded Indian startups built for global markets from day zero",
+    "value": "40 percent",
+    "unit": "%",
+    "speaker": "Rajan Anandan",
+    "context": "He defines the group as companies raising roughly five to 40 crore in 2022."
+   },
+   {
+    "metric": "Online revenue at which new consumer brands may add offline distribution",
+    "value": "50 to 100 crores",
+    "unit": "INR crore",
+    "speaker": "Rajan Anandan",
+    "context": "He says this threshold fell as online customer acquisition became more expensive."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "You can't teach hunger.",
+    "speaker": "Rajan Anandan",
+    "theme": "founders"
+   },
+   {
+    "text": "Write your values in ink and your strategy you should change.",
+    "speaker": "Rajan Anandan",
+    "theme": "adaptability"
+   },
+   {
+    "text": "If your objective is to make returns, you should not be an angel investor.",
+    "speaker": "Karthik Reddy",
+    "theme": "angel investing"
+   },
+   {
+    "text": "We can't get seduced by ideas and trends.",
+    "speaker": "Karthik Reddy",
+    "theme": "venture selection"
+   }
+  ],
+  "ideas": [
+   {
+    "text": "Build preventive health services that detect disease risk well before a condition appears.",
+    "speaker": "Prashanth Prakash",
+    "type": "business-idea"
+   },
+   {
+    "text": "Create AI infrastructure that makes models faster, cheaper, more reliable or less prone to hallucination, or build vertical AI applications.",
+    "speaker": "Rajan Anandan",
+    "type": "investment-thesis"
+   },
+   {
+    "text": "Train underserved healthcare workers through approved local courses with practical hospital placements and a path to employment.",
+    "speaker": "Karthik Reddy",
+    "type": "business-idea"
+   },
+   {
+    "text": "Develop sustainable materials from resources such as bamboo and hemp for global markets.",
+    "speaker": "Prashanth Prakash",
+    "type": "investment-thesis"
+   }
+  ],
+  "stories": [
+   {
+    "text": "Rajan Anandan said he and his younger brother survived violence in Sri Lanka because they could speak both Sinhala and Tamil when people were being pulled from cars nearby.",
+    "speaker": "Rajan Anandan",
+    "lesson": "He says the experience made him grateful and changed how he handles business setbacks."
+   },
+   {
+    "text": "Karthik Reddy used his savings for several angel checks, then invested for a businessman whose company he had helped sell before helping found Blume Ventures.",
+    "speaker": "Karthik Reddy",
+    "lesson": "Small personal investments and an operating relationship led into full-time venture work."
+   },
+   {
+    "text": "Prashanth Prakash recalled his father leaving HMT to start a small supplier for ITI and struggling to raise his first five or ten lakh rupees.",
+    "speaker": "Prashanth Prakash",
+    "lesson": "Seeing a parent start a factory gave him an early view of entrepreneurship."
+   }
+  ]
+ }
 ]

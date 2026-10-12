@@ -1,0 +1,735 @@
+[
+  {
+    "video_id": "EP-#1-India-vs.-China-vs.-US-Who-Wins-the-Next-Decade-WTF-is-Finance-Ep-1-ft.-Ruchir-Sharma",
+    "guests": ["Ruchir Sharma"],
+    "industries": ["finance", "crypto", "manufacturing", "real-estate"],
+    "geographies": ["India", "China", "US", "Singapore", "East Asia", "Latin America", "Russia"],
+    "insights": [
+      {
+        "text": "Ruchir argues that China and Singapore gave people more economic freedom than India, even while offering less political freedom.",
+        "speaker": "Ruchir Sharma",
+        "industry": "finance",
+        "geography": "India"
+      },
+      {
+        "text": "Ruchir attributes East Asia's rapid growth partly to spending public money on infrastructure before building a welfare state.",
+        "speaker": "Ruchir Sharma",
+        "industry": "manufacturing",
+        "geography": "East Asia"
+      },
+      {
+        "text": "India's democratic politics make sustained growth at China's former pace unlikely, in Ruchir's view.",
+        "speaker": "Ruchir Sharma",
+        "industry": "finance",
+        "geography": "India"
+      },
+      {
+        "text": "Ruchir says regulation usually favors established companies because they can absorb compliance costs and influence the rules.",
+        "speaker": "Ruchir Sharma",
+        "industry": null,
+        "geography": "India"
+      },
+      {
+        "text": "Ruchir sees competition among Indian states for factories and investment as a significant source of future growth.",
+        "speaker": "Ruchir Sharma",
+        "industry": "manufacturing",
+        "geography": "India"
+      },
+      {
+        "text": "Ruchir considers Bitcoin an established asset class, while acknowledging that its use for everyday transactions remains limited.",
+        "speaker": "Ruchir Sharma",
+        "industry": "crypto",
+        "geography": null
+      },
+      {
+        "text": "Ruchir says restrictions on new housing supply are a leading cause of unaffordable homes in the West.",
+        "speaker": "Ruchir Sharma",
+        "industry": "real-estate",
+        "geography": "US"
+      }
+    ],
+    "data_points": [
+      {
+        "metric": "Workers China dismissed from state-owned enterprises",
+        "value": "90 million",
+        "unit": "people",
+        "speaker": "Ruchir Sharma",
+        "context": "Ruchir uses the 1990s dismissals to illustrate China's willingness to shift labor into other jobs."
+      },
+      {
+        "metric": "Growth rate Ruchir considers sustainable for India",
+        "value": "6%",
+        "unit": "%",
+        "speaker": "Ruchir Sharma",
+        "context": "He contrasts this with the faster sustained growth achieved in East Asia."
+      },
+      {
+        "metric": "Americans who feel they can have a better life than their parents today",
+        "value": "30 to 40%",
+        "unit": "%",
+        "speaker": "Ruchir Sharma",
+        "context": "Ruchir cites this as evidence of declining expectations of mobility."
+      },
+      {
+        "metric": "Americans who felt they could have a better life than their parents in the 1950s and 1960s",
+        "value": "70 to 80%",
+        "unit": "%",
+        "speaker": "Ruchir Sharma",
+        "context": "He contrasts this with today's lower expectations."
+      },
+      {
+        "metric": "Estimated reduction in US borrowing costs from the dollar's reserve-currency role",
+        "value": "50 to 100",
+        "unit": "basis points",
+        "speaker": "Ruchir Sharma",
+        "context": "He says foreign demand for dollars and US debt lowers borrowing costs."
+      },
+      {
+        "metric": "US share of the global economy",
+        "value": "26%",
+        "unit": "%",
+        "speaker": "Ruchir Sharma",
+        "context": "Ruchir cites the size of the US economy as one reason capital continues to flow there."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "For me, capitalism is about giving people as much economic freedom as possible.",
+        "speaker": "Ruchir Sharma",
+        "theme": "capitalism"
+      },
+      {
+        "text": "Creating a welfare state prematurely can be one of the biggest mistakes any developing country can make.",
+        "speaker": "Ruchir Sharma",
+        "theme": "development"
+      },
+      {
+        "text": "My definition of a bubble is a good idea gone too far.",
+        "speaker": "Ruchir Sharma",
+        "theme": "investing"
+      },
+      {
+        "text": "One of the biggest mistakes we often make is we don't put our money where our mouth is.",
+        "speaker": "Ruchir Sharma",
+        "theme": "investing"
+      }
+    ],
+    "ideas": [
+      {
+        "text": "Simplify India's business rules through a focused deregulation effort.",
+        "speaker": "Ruchir Sharma",
+        "type": "playbook"
+      },
+      {
+        "text": "Give Indian states and local governments more room to compete for investment.",
+        "speaker": "Ruchir Sharma",
+        "type": "playbook"
+      },
+      {
+        "text": "Treat Bitcoin as a lasting asset class while distinguishing that role from its limited transaction use.",
+        "speaker": "Ruchir Sharma",
+        "type": "investment-thesis"
+      }
+    ],
+    "stories": [
+      {
+        "text": "Ruchir recalls living in Singapore during school and noticing the contrast between its economic opening and India's socialism.",
+        "speaker": "Ruchir Sharma",
+        "lesson": "Early exposure to different economic systems shaped his view of growth."
+      },
+      {
+        "text": "At a Moscow conference, Ruchir gave a frank presentation about Russia's weak small-business sector while Vladimir Putin was present. Russian press then attacked him, his Morgan Stanley boss urged him to leave, and he left the country.",
+        "speaker": "Ruchir Sharma",
+        "lesson": "An invitation to give candid advice does not guarantee it will be welcomed."
+      }
+    ]
+  },
+  {
+    "video_id": "EP-#1-Nikhil-Kamath-ft.-Perplexity-CEO,-Aravind-Srinivas-WTF-Online-Ep-1.-(Trailer)",
+    "guests": ["Aravind Srinivas"],
+    "industries": ["ai", "finance", "content"],
+    "geographies": ["India", "US"],
+    "insights": [
+      {
+        "text": "Aravind says simple AI methods, scaled with substantial compute and high-quality data, have outperformed more complicated ideas.",
+        "speaker": "Aravind Srinivas",
+        "industry": "ai",
+        "geography": null
+      },
+      {
+        "text": "Aravind expects answering questions to become a commodity; assistants will stand out by completing tasks across services using personal context.",
+        "speaker": "Aravind Srinivas",
+        "industry": "ai",
+        "geography": null
+      },
+      {
+        "text": "Aravind says AI product quality increasingly depends on integrations, interface details and access to a user's context, alongside model quality.",
+        "speaker": "Aravind Srinivas",
+        "industry": "ai",
+        "geography": null
+      },
+      {
+        "text": "Aravind argues that AI research tools need to support purchases directly, because Google can still earn from a transaction after research happens elsewhere.",
+        "speaker": "Aravind Srinivas",
+        "industry": "ai",
+        "geography": null
+      },
+      {
+        "text": "Aravind sees Indian-language speech recognition and synthesis as an opportunity because Western AI labs give Indian accents and dialects less priority.",
+        "speaker": "Aravind Srinivas",
+        "industry": "ai",
+        "geography": "India"
+      },
+      {
+        "text": "Aravind expects standalone data-center margins to face pressure as more providers enter, unless the operator adds useful software.",
+        "speaker": "Aravind Srinivas",
+        "industry": "ai",
+        "geography": "India"
+      },
+      {
+        "text": "Aravind expects AI to make custom software practical for individuals and small groups, provided someone simplifies deployment and data management.",
+        "speaker": "Aravind Srinivas",
+        "industry": "ai",
+        "geography": null
+      }
+    ],
+    "data_points": [
+      {
+        "metric": "Length of Aravind's planned startup internship",
+        "value": "2 and a half",
+        "unit": "months",
+        "speaker": "Aravind Srinivas",
+        "context": "He says he finished the assigned recommender-system work much sooner."
+      },
+      {
+        "metric": "Time Aravind took to finish the internship assignment",
+        "value": "3",
+        "unit": "weeks",
+        "speaker": "Aravind Srinivas",
+        "context": "The startup submitted his work to its client, leaving him time to study machine learning."
+      },
+      {
+        "metric": "Training time Aravind describes for a large language model",
+        "value": "3 or 4",
+        "unit": "months",
+        "speaker": "Aravind Srinivas",
+        "context": "He uses it to explain the scale of model pre-training."
+      },
+      {
+        "metric": "Monthly price Aravind states for Perplexity deep research",
+        "value": "$20",
+        "unit": "$ per month",
+        "speaker": "Aravind Srinivas",
+        "context": "He says deep research is relatively expensive for Perplexity to serve."
+      },
+      {
+        "metric": "Monthly price Aravind states for OpenAI's comparable offering",
+        "value": "$200",
+        "unit": "$ per month",
+        "speaker": "Aravind Srinivas",
+        "context": "He contrasts its price with Perplexity's offering."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The simplest ideas typically outshine the complicated ones.",
+        "speaker": "Aravind Srinivas",
+        "theme": "AI research"
+      },
+      {
+        "text": "What matters in reality is making things work.",
+        "speaker": "Aravind Srinivas",
+        "theme": "execution"
+      },
+      {
+        "text": "Answering questions will be seen as a commodity.",
+        "speaker": "Aravind Srinivas",
+        "theme": "AI products"
+      },
+      {
+        "text": "You got to have AIs that not just help you do research, but help you make transactions natively.",
+        "speaker": "Aravind Srinivas",
+        "theme": "commerce"
+      }
+    ],
+    "ideas": [
+      {
+        "text": "Build real-time voice AI that handles Indian languages, accents and dialects well.",
+        "speaker": "Aravind Srinivas",
+        "type": "business-idea"
+      },
+      {
+        "text": "Build a platform where people can create, deploy and share software tailored to their own needs without managing its infrastructure.",
+        "speaker": "Aravind Srinivas",
+        "type": "business-idea"
+      },
+      {
+        "text": "Aggregate Indian podcasts with live interaction, translation and AI-generated edits tailored to a listener's topic of interest.",
+        "speaker": "Aravind Srinivas",
+        "type": "business-idea"
+      },
+      {
+        "text": "Start with a useful AI product and users, then use open-source models for post-training before attempting original models and data-center investment.",
+        "speaker": "Aravind Srinivas",
+        "type": "playbook"
+      }
+    ],
+    "stories": [
+      {
+        "text": "At IIT, Aravind learned about machine learning through a Kaggle contest, tried several algorithms and won it. He then pursued machine-learning research.",
+        "speaker": "Aravind Srinivas",
+        "lesson": "A practical problem can provide an entry into a new field."
+      },
+      {
+        "text": "During his OpenAI internship, Aravind presented research ideas to Ilya Sutskever, who told him they were too complicated and described a simpler route centered on generative AI, reinforcement learning and compute.",
+        "speaker": "Aravind Srinivas",
+        "lesson": "Aravind came to value methods that work at scale over ideas that merely seem sophisticated."
+      }
+    ]
+  },
+  {
+    "video_id": "EP-#1-Nikhil-Kamath-x-Bill-Gates-People-by-WTF-Ep.-#1",
+    "guests": ["Bill Gates"],
+    "industries": ["ai", "healthcare", "biotech", "climate", "agriculture", "education", "finance"],
+    "geographies": ["India", "US"],
+    "insights": [
+      {
+        "text": "Bill says philanthropy is suited to risky pilots that governments or markets are unlikely to fund, while dependable safety nets belong with governments.",
+        "speaker": "Bill Gates",
+        "industry": null,
+        "geography": null
+      },
+      {
+        "text": "Bill describes vaccines and HIV prevention as major areas of the Gates Foundation's work in India.",
+        "speaker": "Bill Gates",
+        "industry": "healthcare",
+        "geography": "India"
+      },
+      {
+        "text": "Bill says most Indian AI opportunities sit above foundation models, where founders can add specialized data, interfaces and knowledge of local needs.",
+        "speaker": "Bill Gates",
+        "industry": "ai",
+        "geography": "India"
+      },
+      {
+        "text": "Bill sees potential for AI to improve medical advice, farm guidance and legal work in India, subject to the quality needed for each use.",
+        "speaker": "Bill Gates",
+        "industry": "ai",
+        "geography": "India"
+      },
+      {
+        "text": "Bill expects climate breakthroughs across many areas, including power generation, agriculture and industrial processes, with startups contributing much of the innovation.",
+        "speaker": "Bill Gates",
+        "industry": "climate",
+        "geography": null
+      },
+      {
+        "text": "Bill says AI can already reason across document collections too large for a person to read, even though other capabilities remain limited.",
+        "speaker": "Bill Gates",
+        "industry": "ai",
+        "geography": null
+      }
+    ],
+    "data_points": [
+      {
+        "metric": "Size of Microsoft's India development operation described by Bill",
+        "value": "25,000",
+        "unit": "people",
+        "speaker": "Bill Gates",
+        "context": "Bill says the operation grew after Microsoft hired engineers from India."
+      },
+      {
+        "metric": "Gates Foundation spending connected to India",
+        "value": "close to a billion",
+        "unit": "$ per year",
+        "speaker": "Bill Gates",
+        "context": "Bill includes direct and indirect spending."
+      },
+      {
+        "metric": "Gates Foundation annual spending",
+        "value": "9 billion",
+        "unit": "$ per year",
+        "speaker": "Bill Gates",
+        "context": "Bill gives this figure while describing the foundation's priorities."
+      },
+      {
+        "metric": "Capital Bill says a foundation-model startup may need to raise",
+        "value": "two three billion dollars",
+        "unit": "$",
+        "speaker": "Bill Gates",
+        "context": "He contrasts foundation-model development with building applications on existing models."
+      },
+      {
+        "metric": "Time horizon within which Bill does not personally expect AI-driven abundance",
+        "value": "20",
+        "unit": "years",
+        "speaker": "Bill Gates",
+        "context": "He says he cannot guarantee the timing."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "There are some things that only philanthropy can do because they require taking risks.",
+        "speaker": "Bill Gates",
+        "theme": "philanthropy"
+      },
+      {
+        "text": "The discovery process and the price comparison that takes place ... is the fundamental way things should be done.",
+        "speaker": "Bill Gates",
+        "theme": "markets"
+      },
+      {
+        "text": "Most of the opportunity is at the level above.",
+        "speaker": "Bill Gates",
+        "theme": "AI applications"
+      },
+      {
+        "text": "I'd probably pick some AI thing and just use the Google Microsoft platforms and go on top of that.",
+        "speaker": "Bill Gates",
+        "theme": "entrepreneurship"
+      }
+    ],
+    "ideas": [
+      {
+        "text": "Build an AI application for the Indian legal system that helps address its backlog.",
+        "speaker": "Bill Gates",
+        "type": "business-idea"
+      },
+      {
+        "text": "Start an AI medical adviser with a defined need, such as pregnancy or diabetes, so its answers can be checked against a manageable quality bar.",
+        "speaker": "Bill Gates",
+        "type": "business-idea"
+      },
+      {
+        "text": "Develop climate technology in areas such as better solar cells, cheaper offshore wind, lower-emission rice or electric steelmaking.",
+        "speaker": "Bill Gates",
+        "type": "business-idea"
+      }
+    ],
+    "stories": [
+      {
+        "text": "Bill says Microsoft hired engineers from India, brought some to Seattle, and later developed an India operation that grew to four locations and 25,000 people.",
+        "speaker": "Bill Gates",
+        "lesson": "The company's early hiring created a lasting connection with India's engineering talent."
+      },
+      {
+        "text": "Bill describes the Gates Foundation's Avahan program as a partnership in India intended to prevent a large HIV epidemic by supporting condom use among sex workers.",
+        "speaker": "Bill Gates",
+        "lesson": "A targeted prevention program can address an epidemic before it expands."
+      }
+    ]
+  },
+  {
+    "video_id": "EP-#1-The-$11B-Bet-That-Voice-Will-Replace-Everything-Mati-Staniszewski-x-Nikhil-Kamath-WTF-Online",
+    "guests": ["Mati Staniszewski"],
+    "industries": ["ai", "content", "healthcare", "education", "consumer-electronics", "ecommerce", "finance"],
+    "geographies": ["India", "UK", "Poland", "Ukraine", "China", "Russia", "US"],
+    "insights": [
+      {
+        "text": "Mati says widespread voice interaction depends on natural, responsive speech, access to relevant knowledge and memory, and a convenient device.",
+        "speaker": "Mati Staniszewski",
+        "industry": "ai",
+        "geography": null
+      },
+      {
+        "text": "Mati expects voice interfaces to span customer support, education and devices, with different people choosing different hardware.",
+        "speaker": "Mati Staniszewski",
+        "industry": "ai",
+        "geography": null
+      },
+      {
+        "text": "Mati argues that voice-AI companies need both strong audio models and products that solve customer problems.",
+        "speaker": "Mati Staniszewski",
+        "industry": "ai",
+        "geography": null
+      },
+      {
+        "text": "Mati says localization is more useful when dubbing preserves a speaker's voice, intonation and emotion as well as the words.",
+        "speaker": "Mati Staniszewski",
+        "industry": "content",
+        "geography": null
+      },
+      {
+        "text": "Mati recommends combining voice models with deep knowledge of a traditional industry, then adapting the resulting product for similar customers.",
+        "speaker": "Mati Staniszewski",
+        "industry": "ai",
+        "geography": null
+      },
+      {
+        "text": "Mati sees network effects and trust in a platform's community as difficult for a new service to reproduce.",
+        "speaker": "Mati Staniszewski",
+        "industry": "content",
+        "geography": null
+      }
+    ],
+    "data_points": [
+      {
+        "metric": "ElevenLabs staff in India",
+        "value": "14",
+        "unit": "people",
+        "speaker": "Mati Staniszewski",
+        "context": "Mati gives this as his approximate current count."
+      },
+      {
+        "metric": "ElevenLabs business attributed to creators",
+        "value": "15%",
+        "unit": "%",
+        "speaker": "Nikhil Kamath",
+        "context": "Nikhil states this split and Mati agrees."
+      },
+      {
+        "metric": "ElevenLabs business attributed to enterprise customers",
+        "value": "50%",
+        "unit": "%",
+        "speaker": "Nikhil Kamath",
+        "context": "Nikhil states this split and Mati agrees."
+      },
+      {
+        "metric": "Companies building voice-agent variations with ElevenLabs in India",
+        "value": "500",
+        "unit": "companies",
+        "speaker": "Mati Staniszewski",
+        "context": "Mati cites this while discussing ways to deploy voice agents."
+      },
+      {
+        "metric": "Customer calls Mati describes for Meesho",
+        "value": "60,000",
+        "unit": "calls",
+        "speaker": "Mati Staniszewski",
+        "context": "He discusses using a voice agent for Meesho's product, shipping and refund questions."
+      },
+      {
+        "metric": "Voices created in ElevenLabs' voice marketplace",
+        "value": "10,000",
+        "unit": "voices",
+        "speaker": "Mati Staniszewski",
+        "context": "Creators can share authenticated voices and earn when they are used."
+      },
+      {
+        "metric": "Payments to ElevenLabs' voice marketplace community",
+        "value": "over $11 million",
+        "unit": "$",
+        "speaker": "Mati Staniszewski",
+        "context": "Mati says the company has paid this amount back to the community."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The phone goes back into the pocket and you kind of immerse yourself in the world around you.",
+        "speaker": "Mati Staniszewski",
+        "theme": "voice interfaces"
+      },
+      {
+        "text": "The more traditional domain, the likely more lagging it is with the innovation.",
+        "speaker": "Mati Staniszewski",
+        "theme": "business opportunities"
+      },
+      {
+        "text": "If you know domain extremely well, then the AI model gives you a good starting point.",
+        "speaker": "Mati Staniszewski",
+        "theme": "AI products"
+      },
+      {
+        "text": "You want to avoid the algorithm just rewarding what gives the highest knee-jerk reaction.",
+        "speaker": "Mati Staniszewski",
+        "theme": "social media"
+      }
+    ],
+    "ideas": [
+      {
+        "text": "Build an automotive voice product that starts with customer support and can later extend to an interactive in-car experience.",
+        "speaker": "Mati Staniszewski",
+        "type": "business-idea"
+      },
+      {
+        "text": "Offer a voice agent that qualifies sales leads by answering product questions and gathering details before a human sales conversation.",
+        "speaker": "Mati Staniszewski",
+        "type": "business-idea"
+      },
+      {
+        "text": "Create a voice-led social platform with an assistant that summarizes relevant activity and lets users explore and respond across languages.",
+        "speaker": "Mati Staniszewski",
+        "type": "business-idea"
+      },
+      {
+        "text": "Build an Indian social platform centered on verified people and discussion without an algorithm that rewards hostile reactions.",
+        "speaker": "Nikhil Kamath",
+        "type": "business-idea"
+      }
+    ],
+    "stories": [
+      {
+        "text": "Mati says ElevenLabs worked with Lex Fridman's team to dub Fridman's conversation with Narendra Modi, using people to check translations because the wording mattered.",
+        "speaker": "Mati Staniszewski",
+        "lesson": "Important localization work may still need human review."
+      },
+      {
+        "text": "Mati says ElevenLabs added a voice-agent lead flow to its own site and used a similar flow with India's TVS Motor; he reports better lead qualification and customer satisfaction for TVS Motor.",
+        "speaker": "Mati Staniszewski",
+        "lesson": "A voice agent can prepare customers for a later sales conversation."
+      },
+      {
+        "text": "Mati describes Ukraine's Diia app as bringing services from different ministries into one citizen app, with ElevenLabs helping add voice interaction.",
+        "speaker": "Mati Staniszewski",
+        "lesson": "A shared app can make services from separate departments easier to access."
+      }
+    ]
+  },
+  {
+    "video_id": "EP-#1-WTF-is-Metaverse-WTF-is-with-Nikhil-Kamath-ft.-Tanmay-Bhat,-Umang-Bedi-and-Aprameya-Radhakrishna",
+    "guests": ["Tanmay Bhat", "Umang Bedi", "Aprameya Radhakrishna"],
+    "industries": ["gaming", "content", "fashion", "crypto", "consumer-electronics", "ai"],
+    "geographies": ["India", "Brazil", "US", "China", "South Korea"],
+    "insights": [
+      {
+        "text": "Aprameya says Koo's focus on languages and creator tools differs from Twitter's approach.",
+        "speaker": "Aprameya Radhakrishna",
+        "industry": "content",
+        "geography": "India"
+      },
+      {
+        "text": "Umang expects newspapers to rely more on digital distribution and paid premium content as print readership declines.",
+        "speaker": "Umang Bedi",
+        "industry": "content",
+        "geography": null
+      },
+      {
+        "text": "Tanmay argues that streaming platforms can secure distribution by commissioning creators who already have audiences.",
+        "speaker": "Tanmay Bhat",
+        "industry": "content",
+        "geography": "India"
+      },
+      {
+        "text": "Umang describes existing phone apps as separate digital worlds and expects more immersive technology to build on behavior people already have.",
+        "speaker": "Umang Bedi",
+        "industry": "consumer-electronics",
+        "geography": null
+      },
+      {
+        "text": "A remote guest argues that game-engine capability gives companies an advantage in building stable, interactive virtual worlds.",
+        "speaker": "Prashant",
+        "industry": "gaming",
+        "geography": null
+      },
+      {
+        "text": "Umang says a metaverse provider that wins a frequent use case could then expand into less frequent uses.",
+        "speaker": "Umang Bedi",
+        "industry": "gaming",
+        "geography": null
+      },
+      {
+        "text": "Himanshu says a virtual influencer can attract an audience through character and story even when viewers know the person is fictional.",
+        "speaker": "Himanshu",
+        "industry": "content",
+        "geography": "India"
+      }
+    ],
+    "data_points": [
+      {
+        "metric": "Languages supported by Dailyhunt",
+        "value": "16",
+        "unit": "languages",
+        "speaker": "Umang Bedi",
+        "context": "Umang describes the reach of the news-aggregation app."
+      },
+      {
+        "metric": "Employees at Umang's company",
+        "value": "2700",
+        "unit": "employees",
+        "speaker": "Umang Bedi",
+        "context": "He gives the workforce size while describing its apps."
+      },
+      {
+        "metric": "Creators in the Dailyhunt ecosystem",
+        "value": "about 150 000",
+        "unit": "people",
+        "speaker": "Umang Bedi",
+        "context": "He contrasts the creator ecosystem with the employee count."
+      },
+      {
+        "metric": "Stable concurrent users in a VRChat room, as described by the guest",
+        "value": "30 to 40",
+        "unit": "users",
+        "speaker": "Prashant",
+        "context": "He cites room capacity as a technical limit on shared virtual experiences."
+      },
+      {
+        "metric": "Kaira's Instagram following",
+        "value": "200k",
+        "unit": "followers",
+        "speaker": "Himanshu",
+        "context": "Himanshu gives the virtual influencer's audience size."
+      },
+      {
+        "metric": "Initial gender split of Kaira's audience",
+        "value": "90 male audience 10 female",
+        "unit": "%",
+        "speaker": "Himanshu",
+        "context": "He says marketing later changed the audience mix."
+      },
+      {
+        "metric": "Later gender split of Kaira's audience",
+        "value": "70 30",
+        "unit": "%",
+        "speaker": "Himanshu",
+        "context": "He reports this split after marketing through meme pages."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "If you don't transform yourself every five to seven years, you're gonna die.",
+        "speaker": "Umang Bedi",
+        "theme": "media change"
+      },
+      {
+        "text": "The barrier to become a rock star kept getting lower and lower.",
+        "speaker": "Tanmay Bhat",
+        "theme": "creators"
+      },
+      {
+        "text": "The guy who cracks the highest frequency use case in the metaverse gets the opportunity to own all the low frequency use cases.",
+        "speaker": "Umang Bedi",
+        "theme": "platform strategy"
+      },
+      {
+        "text": "Everything does not need to be on the metaverse.",
+        "speaker": "Himanshu",
+        "theme": "product design"
+      }
+    ],
+    "ideas": [
+      {
+        "text": "Commission low-budget digital shows from creators who can bring their own audiences to a streaming platform.",
+        "speaker": "Tanmay Bhat",
+        "type": "playbook"
+      },
+      {
+        "text": "Use Koo's language support and creator-monetization tools to compete in countries seeking an alternative microblogging platform.",
+        "speaker": "Aprameya Radhakrishna",
+        "type": "business-idea"
+      },
+      {
+        "text": "Build shared virtual attendance for major sports events such as the IPL or FIFA World Cup.",
+        "speaker": "Prashant",
+        "type": "business-idea"
+      },
+      {
+        "text": "Develop virtual influencers around recurring characters and stories, with appearances across social platforms and virtual worlds.",
+        "speaker": "Himanshu",
+        "type": "business-idea"
+      }
+    ],
+    "stories": [
+      {
+        "text": "Aprameya says Koo promoted articles about itself to journalists abroad. A Brazilian journalist picked it up, and the Portuguese meaning of its name helped discussion of the app spread in Brazil.",
+        "speaker": "Aprameya Radhakrishna",
+        "lesson": "Local attention and language can unexpectedly shape a product's distribution."
+      },
+      {
+        "text": "Himanshu says his team marketed the virtual influencer Kaira through Instagram meme pages and changed her audience from a 90-to-10 male-female split to 70-to-30.",
+        "speaker": "Himanshu",
+        "lesson": "Distribution choices can change who follows a fictional character."
+      }
+    ]
+  }
+]

@@ -1,216 +1,956 @@
 [
-  {
-    "video_id": "EP-#20-Rishi-Sunak-and-Akshata-Murty-Power,-Identity-and-Why-Patience-Beats-Ambition-Nikhil-People-by-WTF",
-    "guests": ["Rishi Sunak", "Akshata Murty"],
-    "industries": ["politics", "education", "ai", "consumer", "venture-capital", "fashion", "healthcare"],
-    "geographies": ["India", "UK", "US", "Netherlands"],
-    "insights": [
-      {"text": "Patience can be a competitive advantage because reaching a senior role before developing the judgment to use it can be costly.", "speaker": "Rishi Sunak", "industry": "politics", "geography": "UK"},
-      {"text": "Political change usually comes through sustained participation in institutions and coalitions rather than a single speech or protest.", "speaker": "Rishi Sunak", "industry": "politics", "geography": "UK"},
-      {"text": "Building a business before entering politics can give a prospective politician practical skills, financial independence, and resilience.", "speaker": "Rishi Sunak", "industry": "politics", "geography": "India"},
-      {"text": "AI widens access to subject knowledge, so education also needs to develop communication, negotiation, and critical reasoning.", "speaker": "Rishi Sunak", "industry": "education", "geography": null},
-      {"text": "Deep knowledge and passion for a market remain important for founders even when AI makes general information easier to obtain.", "speaker": "Rishi Sunak", "industry": "consumer", "geography": "India"},
-      {"text": "A country's technology sovereignty depends on a critical supply-chain capability, diversified providers, and trusted international partners.", "speaker": "Rishi Sunak", "industry": "ai", "geography": "UK"},
-      {"text": "India's digital identity, payments, and health infrastructure offers a way to deploy AI applications at population scale.", "speaker": "Rishi Sunak", "industry": "ai", "geography": "India"},
-      {"text": "Treating success and failure with similar composure helps keep major public achievements from defining one's identity.", "speaker": "Akshata Murty", "industry": null, "geography": null}
-    ],
-    "data_points": [
-      {"metric": "Foundry cohort size", "value": "20 to 30", "unit": "people", "speaker": "Nikhil Kamath", "context": "The residential entrepreneurship program selects a small group for each cohort."},
-      {"metric": "Initial funding per Foundry company", "value": "half a million dollars", "unit": "USD", "speaker": "Nikhil Kamath", "context": "The selected consumer businesses receive starting capital during the program."},
-      {"metric": "Foundry program duration", "value": "3 months", "unit": "months", "speaker": "Nikhil Kamath", "context": "Founders live together while taking their products to market."},
-      {"metric": "Indian GDP growth", "value": "6 to 7%", "unit": "%", "speaker": "Nikhil Kamath", "context": "Used as a comparison with faster growth in Indian consumption."},
-      {"metric": "Indian consumer growth", "value": "12, 13%", "unit": "%", "speaker": "Nikhil Kamath", "context": "Nikhil linked consumer growth to younger people saving less and spending more."},
-      {"metric": "Time to pass William Wilberforce's slave-trade bill", "value": "20 years", "unit": "years", "speaker": "Rishi Sunak", "context": "Rishi used the long campaign to illustrate patience in politics."}
-    ],
-    "quotes": [
-      {"text": "Patience is almost a bigger competitive advantage.", "speaker": "Rishi Sunak", "theme": "patience"},
-      {"text": "Sometimes it's worse to arrive too early than it is to arrive too late to something.", "speaker": "Rishi Sunak", "theme": "career timing"},
-      {"text": "I wasn't going to change who I was to make that work.", "speaker": "Rishi Sunak", "theme": "identity"},
-      {"text": "Change is less about a moment and a move, it's more about a movement.", "speaker": "Rishi Sunak", "theme": "political change"},
-      {"text": "We want to make them heroes before the product hits the market, so people buy the product.", "speaker": "Nikhil Kamath", "theme": "founder-led marketing"}
-    ],
-    "ideas": [
-      {"text": "Run a residential accelerator for Indian consumer brands that combines seed capital, manufacturing, distribution, packaging, and a show about the founders.", "speaker": "Nikhil Kamath", "type": "business-idea"},
-      {"text": "For national AI capability, control one critical technology component, avoid single-vendor dependence, and maintain trusted foreign partnerships.", "speaker": "Rishi Sunak", "type": "playbook"},
-      {"text": "Entrepreneurs seeking public impact can first build a business and then enter politics with operating experience and financial independence.", "speaker": "Rishi Sunak", "type": "playbook"}
-    ],
-    "stories": [
-      {"text": "Rishi Sunak said his appointment as UK prime minister fell on Diwali and his daughter's birthday; the Downing Street Diwali reception days later was when the significance of being the first British Asian and Hindu prime minister hit him.", "speaker": "Rishi Sunak", "lesson": "A public milestone can carry a special responsibility to the community it represents."},
-      {"text": "Rishi Sunak described William Wilberforce campaigning as a backbench MP for about 20 years before Parliament passed a slave-trade bill, then about 20 more years before slavery was declared illegal.", "speaker": "Rishi Sunak", "lesson": "Long institutional campaigns can deliver major change without the top office."},
-      {"text": "Akshata Murty said that, at 23, she wrote her Stanford application essay about Mumbai's monsoon and how unequal shelter shaped her interest in equality of opportunity.", "speaker": "Akshata Murty", "lesson": "A concrete experience can clarify a lasting social aim."}
-    ]
-  },
-  {
-    "video_id": "EP-#20-WTF-are-Indian-Real-Estate-Giants-Up-To-Nikhil-ft.-Irfan,-Nirupa,-and-Karan",
-    "guests": ["Irfan", "Nirupa", "Karan"],
-    "industries": ["real-estate", "construction", "coworking", "retail", "hospitality", "finance", "climate"],
-    "geographies": ["India", "US", "Europe"],
-    "insights": [
-      {"text": "A developer's land valuation depends on permissible floor space, finished-product selling price, and construction cost.", "speaker": "Irfan", "industry": "real-estate", "geography": "India"},
-      {"text": "Keeping agreed terms even when it hurts in the short run builds goodwill with landowners and supports future development deals.", "speaker": "Irfan", "industry": "real-estate", "geography": "India"},
-      {"text": "India's urban migration is expected to support housing demand for decades, while approvals and construction make supply slow to respond.", "speaker": "Nirupa", "industry": "real-estate", "geography": "India"},
-      {"text": "Real-estate regulation has raised the importance of securing land and approvals before preselling and has reduced the number of developers.", "speaker": "Irfan", "industry": "real-estate", "geography": "India"},
-      {"text": "A first-time developer can limit upfront land cost through a small joint development agreement, then build a record by completing one compliant project.", "speaker": "Irfan", "industry": "real-estate", "geography": "India"},
-      {"text": "Listed Indian developers' profit margins reflect procurement efficiency, construction cost, and joint-development sharing terms.", "speaker": "Nirupa", "industry": "real-estate", "geography": "India"},
-      {"text": "Short-stay homes can yield more than long residential leases, but occupancy and operating costs determine the actual return.", "speaker": "Unattributed", "industry": "real-estate", "geography": "India"},
-      {"text": "A coworking operator can earn more per square foot than a plain office landlord by bundling fit-out, services, and flexible occupancy.", "speaker": "Karan", "industry": "coworking", "geography": "India"}
-    ],
-    "data_points": [
-      {"metric": "Population living in Indian cities", "value": "35%", "unit": "%", "speaker": "Nirupa", "context": "Used to explain the scale of future housing demand."},
-      {"metric": "Projected Indian urban population share", "value": "40%", "unit": "%", "speaker": "Nirupa", "context": "Nirupa expected urbanization to rise around 2030."},
-      {"metric": "Housing units supplied in India's top eight cities", "value": "450,000 to 500,000", "unit": "units", "speaker": "Nirupa", "context": "Compared with the number of people expected to move into cities."},
-      {"metric": "Listed real-estate developers' profit-after-tax margin", "value": "11 12%", "unit": "%", "speaker": "Nirupa", "context": "Described as a good-year margin despite developers' risks."},
-      {"metric": "Long-term residential rental yield", "value": "3 to 4%", "unit": "%", "speaker": "Unattributed", "context": "Contrasted with higher possible short-stay yields."},
-      {"metric": "Short-stay rental yield", "value": "8 to 9%", "unit": "%", "speaker": "Unattributed", "context": "Estimated at 65 to 70% occupancy, depending on market."},
-      {"metric": "Coworking footprint", "value": "8 million square foot", "unit": "square feet", "speaker": "Karan", "context": "Karan described the scale of the coworking business after opening its 60th location."},
-      {"metric": "Indian office space transacted in the first half", "value": "34 million s ft", "unit": "square feet", "speaker": "Nirupa", "context": "Cited as evidence of a strong office leasing year."}
-    ],
-    "quotes": [
-      {"text": "If you keep up to your word even if it hurts you, long term it's a benefit.", "speaker": "Irfan", "theme": "trust"},
-      {"text": "You have to learn to start small. You have to learn to take the baby steps first.", "speaker": "Irfan", "theme": "development playbook"},
-      {"text": "The first one is always the hardest because you don't have an established brand.", "speaker": "Nirupa", "theme": "first project"},
-      {"text": "The macroeconomics are so favorable to real estate.", "speaker": "Nirupa", "theme": "urbanization"},
-      {"text": "In the end we are the principal employer.", "speaker": "Irfan", "theme": "developer responsibility"}
-    ],
-    "ideas": [
-      {"text": "Start a development company with a small joint development agreement, get approvals, build one project to specification, and reinvest the proceeds.", "speaker": "Irfan", "type": "playbook"},
-      {"text": "Use a modest amount of capital for a coworking operation instead of buying land for a full office development.", "speaker": "Nirupa", "type": "business-idea"},
-      {"text": "Build an operating business that improves energy use in real estate rather than competing immediately as a property developer.", "speaker": "Karan", "type": "business-idea"},
-      {"text": "For commercial property exposure, use a REIT that distributes rental income and avoids the friction of owning individual office units.", "speaker": "Irfan", "type": "investment-thesis"}
-    ],
-    "stories": [
-      {"text": "Irfan said his family put him in charge of selling their Infantry Cross Road property around 1980; reinvesting the proceeds and flipping plots led him into real estate.", "speaker": "Irfan", "lesson": "Handling a real transaction taught him the business before he became a developer."},
-      {"text": "Irfan said his first Bangalore mall opened in February 2004, shortly after his father died, and drew daily crowds that reached tens of thousands because organized retail was new to visitors.", "speaker": "Irfan", "lesson": "A new retail format can create demand beyond initial forecasts."},
-      {"text": "Karan said his coworking team initially spent more to copy spaces from abroad, then localized its supply chain and lowered its fit-out spending per square foot.", "speaker": "Karan", "lesson": "Localizing procurement can improve unit economics without giving up the product."}
-    ]
-  },
-  {
-    "video_id": "EP-#21-The-World-Bank-President-On-Why-Jobs-Fix-Everything-Ajay-Banga-x-Nikhil-Kamath-People-by-WTF",
-    "guests": ["Ajay Banga"],
-    "industries": ["finance", "venture-capital", "agriculture", "healthcare", "tourism", "manufacturing", "energy", "ai", "infrastructure"],
-    "geographies": ["India", "Africa", "Egypt", "US", "China"],
-    "insights": [
-      {"text": "Jobs reduce poverty by supplying income and giving people hope and a productive role in society.", "speaker": "Ajay Banga", "industry": "finance", "geography": null},
-      {"text": "Entrepreneurs and private enterprises create most jobs; governments enable them through infrastructure, human capital, rules, and governance.", "speaker": "Ajay Banga", "industry": "finance", "geography": null},
-      {"text": "Investment guarantees, risk reduction, and dispute settlement can make emerging-market projects attractive to private capital seeking returns.", "speaker": "Ajay Banga", "industry": "finance", "geography": null},
-      {"text": "Productive electricity access supports businesses such as barber shops and hatcheries more directly than a household light and fan alone.", "speaker": "Ajay Banga", "industry": "energy", "geography": "Africa"},
-      {"text": "Primary healthcare can improve outcomes, avoid later disease costs, and create jobs across a range of medical skills.", "speaker": "Ajay Banga", "industry": "healthcare", "geography": "India"},
-      {"text": "Processing local raw materials and agricultural products locally creates better jobs than exporting them for processing elsewhere.", "speaker": "Ajay Banga", "industry": "manufacturing", "geography": "India"},
-      {"text": "Emerging markets may gain more immediately from small, local AI applications in healthcare and farming than from large language models requiring substantial compute, power, data, and skills.", "speaker": "Ajay Banga", "industry": "ai", "geography": null},
-      {"text": "Cooperatives such as Amul give small farmers scale and can help them remain productive on their land.", "speaker": "Ajay Banga", "industry": "agriculture", "geography": "India"}
-    ],
-    "data_points": [
-      {"metric": "World Bank Group annual financing", "value": "120 odd billion dollars", "unit": "USD", "speaker": "Ajay Banga", "context": "The amount he said the group puts into the marketplace each year."},
-      {"metric": "Private capital mobilized in the previous year", "value": "70 billion", "unit": "USD", "speaker": "Ajay Banga", "context": "He contrasted it with roughly 40 billion two to three years earlier."},
-      {"metric": "Jobs created by private-sector or private-sector-oriented enterprises", "value": "85 to 90%", "unit": "%", "speaker": "Ajay Banga", "context": "Used to support the importance of private enterprise in employment."},
-      {"metric": "People targeted for electricity connection with the African Development Bank", "value": "300 million", "unit": "people", "speaker": "Ajay Banga", "context": "The stated goal is to connect them by 2030."},
-      {"metric": "People targeted for better primary healthcare", "value": "1.5 billion", "unit": "people", "speaker": "Ajay Banga", "context": "The stated goal is for access by 2030."},
-      {"metric": "Projected jobs created in those emerging markets", "value": "400 million", "unit": "jobs", "speaker": "Ajay Banga", "context": "He used it to illustrate a large gap against the youth cohort entering adulthood."},
-      {"metric": "Annual tourists to India", "value": "under 20 million", "unit": "people", "speaker": "Ajay Banga", "context": "He identified tourism as an underused source of jobs."}
-    ],
-    "quotes": [
-      {"text": "The best way to put a nail in the coffin of poverty is to give somebody a job.", "speaker": "Ajay Banga", "theme": "jobs and poverty"},
-      {"text": "You don't build a pyramid from the tip. You build a pyramid from the foundation.", "speaker": "Ajay Banga", "theme": "primary healthcare"},
-      {"text": "You create local value because that's where the jobs and the better jobs will come from.", "speaker": "Ajay Banga", "theme": "manufacturing"},
-      {"text": "Life is 50% luck. The other 50 is what you do with the luck.", "speaker": "Ajay Banga", "theme": "career"},
-      {"text": "What you do control, you better do something about.", "speaker": "Ajay Banga", "theme": "agency"}
-    ],
-    "ideas": [
-      {"text": "Pair a World Bank contribution with Egyptian government money in a professionally managed seed fund for entrepreneurs emerging from local centers.", "speaker": "Ajay Banga", "type": "business-idea"},
-      {"text": "Build phone-accessible, locally delivered AI tools for primary-care diagnosis and smallholder crop problems.", "speaker": "Ajay Banga", "type": "business-idea"},
-      {"text": "Focus job creation on infrastructure, smallholder agriculture, primary healthcare, tourism, and local value-added manufacturing.", "speaker": "Ajay Banga", "type": "investment-thesis"}
-    ],
-    "stories": [
-      {"text": "Ajay Banga said HDFC began with an IFC investment and went on to become a major private bank and a force in India's mortgage market.", "speaker": "Ajay Banga", "lesson": "Early development finance can help create an enduring private financial institution."},
-      {"text": "Ajay Banga described visiting farmers' cooperatives in Uttar Pradesh using a Google open platform to identify a diseased leaf and find a low-cost insecticide through their cooperative.", "speaker": "Ajay Banga", "lesson": "Simple digital tools can turn agricultural information into a practical decision."},
-      {"text": "Ajay Banga said he left candidacy for Citi's chief executive job to lead the much smaller Mastercard, a risk he cited while discussing how to act on luck.", "speaker": "Ajay Banga", "lesson": "A smaller organization can be the better career opportunity when its trajectory is stronger."}
-    ]
-  },
-  {
-    "video_id": "EP-#21-WTF-is-Longevity-Nikhil-ft.-Nithin-Kamath,-Bryan-Johnson,-Prashanth,-Jitendra-and-Seema",
-    "guests": ["Nithin Kamath", "Bryan Johnson", "Prashant Prakash", "Jitendra", "Seema"],
-    "industries": ["longevity", "healthcare", "biotech", "skincare", "nutrition", "ai", "finance"],
-    "geographies": ["India", "US", "Japan", "Morocco"],
-    "insights": [
-      {"text": "Air quality is a major health consideration because fine particles can affect the lungs and other body tissues.", "speaker": "Bryan Johnson", "industry": "healthcare", "geography": "India"},
-      {"text": "Claims about special longevity 'blue zones' deserve scrutiny because the selection of comparison populations is contested.", "speaker": "Unattributed", "industry": "longevity", "geography": "Japan"},
-      {"text": "Preventive care can become more precise by following people over time and combining systemic and cellular measures with blood chemistry.", "speaker": "Prashant Prakash", "industry": "healthcare", "geography": "India"},
-      {"text": "Even extensive exercise and health monitoring cannot eliminate unexpected events; Nithin reported a stroke after completing an Ironman.", "speaker": "Nithin Kamath", "industry": "healthcare", "geography": "India"},
-      {"text": "A supplement should have a measurable endpoint rather than be taken simply because it is assumed harmless.", "speaker": "Bryan Johnson", "industry": "longevity", "geography": null},
-      {"text": "Personalized clinical care is hard to scale because each patient's health issues create extensive follow-up work and low margins.", "speaker": "Bryan Johnson", "industry": "healthcare", "geography": null},
-      {"text": "Financial incentives behind health-influencer recommendations can reduce trust when they are not disclosed.", "speaker": "Bryan Johnson", "industry": "nutrition", "geography": "US"},
-      {"text": "Cancer care needs better support for choosing specialists and addressing a patient's mental health, not just arranging treatment.", "speaker": "Seema", "industry": "healthcare", "geography": "India"}
-    ],
-    "data_points": [
-      {"metric": "Mumbai PM2.5 reading discussed at the start", "value": "130 140", "unit": "PM2.5 reading", "speaker": "Bryan Johnson", "context": "Bryan said the level was over ten times what he considered reasonable."},
-      {"metric": "Particle reduction from Bryan's mask", "value": "95%", "unit": "%", "speaker": "Bryan Johnson", "context": "His stated estimate of how much PM2.5 the mask would remove."},
-      {"metric": "Bryan's current supplement count in pill form", "value": "40", "unit": "supplements", "speaker": "Bryan Johnson", "context": "He said many of the former pills were moved into a drink."},
-      {"metric": "Supplement ingredients retained across pills and drink", "value": "basically 100 pills a day", "unit": "pill equivalents per day", "speaker": "Bryan Johnson", "context": "He clarified that a lower capsule count did not mean eliminating most ingredients."},
-      {"metric": "AG1 one-time selling price", "value": "$99", "unit": "USD", "speaker": "Bryan Johnson", "context": "Used in his criticism of the product's ingredient cost and influencer commissions."},
-      {"metric": "AG1 subscription selling price", "value": "$79", "unit": "USD", "speaker": "Bryan Johnson", "context": "Compared with his estimate of the ingredient sourcing cost."},
-      {"metric": "Reported influencer commission on AG1", "value": "20%", "unit": "%", "speaker": "Bryan Johnson", "context": "He argued that recurring payments can distort health endorsements."}
-    ],
-    "quotes": [
-      {"text": "You can filter almost any water and get it to be pure. With food you can grow your own food, but with air you have no control.", "speaker": "Bryan Johnson", "theme": "air quality"},
-      {"text": "The process predetermines what foods you eat.", "speaker": "Bryan Johnson", "theme": "measurement-led health"},
-      {"text": "I wouldn't take anything unless you can measure it.", "speaker": "Unattributed", "theme": "supplements"},
-      {"text": "Food is like the most basic boring business that no one built.", "speaker": "Bryan Johnson", "theme": "health business"},
-      {"text": "I just don't see many people succeeding with their objectives on marijuana.", "speaker": "Bryan Johnson", "theme": "drug use"}
-    ],
-    "ideas": [
-      {"text": "Use a science institution to anchor longitudinal precision-medicine research, then build a service that applies it to preventive care in India.", "speaker": "Prashant Prakash", "type": "business-idea"},
-      {"text": "Build reliable food products around measured health outcomes, a basic category Bryan said remains underbuilt.", "speaker": "Bryan Johnson", "type": "business-idea"},
-      {"text": "Create a broader training course covering nutrition, exercise, clinical nutrition, and biochemistry for health coaches.", "speaker": "Jitendra", "type": "business-idea"},
-      {"text": "Make expert referrals and guidance easier to access for patients who need specialists across India.", "speaker": "Prashant Prakash", "type": "business-idea"}
-    ],
-    "stories": [
-      {"text": "Nithin Kamath said he completed an Ironman in October or November while feeling at his fittest, then suffered a stroke in January.", "speaker": "Nithin Kamath", "lesson": "Fitness efforts and monitoring do not remove all health uncertainty."},
-      {"text": "Bryan Johnson said he took an air purifier into a Mumbai hotel gym, measured poor air there, and decided that exercising hard in that room would increase exposure to pollutants.", "speaker": "Bryan Johnson", "lesson": "Indoor exercise space can have harmful air even when it looks clean."},
-      {"text": "Seema described getting a breast-cancer diagnosis, searching across hospitals for the right oncologist, undergoing surgery, and finding that her mental state received little attention.", "speaker": "Seema", "lesson": "Cancer navigation should include specialist choice and emotional support."}
-    ]
-  },
-  {
-    "video_id": "EP-#22-Martin-Escobari-Trauma,-Chaos-and-Three-Industries-Worth-$100B-Nikhil-Kamath-People-by-WTF",
-    "guests": ["Martin Escobari", "Arian"],
-    "industries": ["venture-capital", "ai", "healthcare", "consumer", "climate", "energy", "ecommerce", "education"],
-    "geographies": ["India", "Brazil", "Bolivia", "US", "China", "Indonesia", "Mexico", "Argentina", "Portugal", "Spain"],
-    "insights": [
-      {"text": "As income per person moves from roughly $3,000 to $5,000, consumption expands; from roughly $5,000 to $10,000, private healthcare and education gain demand.", "speaker": "Martin Escobari", "industry": "consumer", "geography": "India"},
-      {"text": "Companies that thrive through turbulence combine sound finances and agile teams with the willingness to make a large move during a crisis.", "speaker": "Martin Escobari", "industry": "venture-capital", "geography": "Brazil"},
-      {"text": "A large domestic market can make international expansion less urgent even for a successful Indian company.", "speaker": "Martin Escobari", "industry": "consumer", "geography": "India"},
-      {"text": "Digitalization, healthcare change, energy transition, and rising consumers in the global south are long-running sources of entrepreneurial opportunity.", "speaker": "Martin Escobari", "industry": "venture-capital", "geography": null},
-      {"text": "Lower launch and distribution costs improve the odds that local consumer brands can beat imported brands.", "speaker": "Martin Escobari", "industry": "consumer", "geography": null},
-      {"text": "For AI investment, demonstrate useful applications and viable unit economics before committing heavily at exuberant valuations.", "speaker": "Martin Escobari", "industry": "ai", "geography": null},
-      {"text": "An Indian company's first global success can create a role-model effect that makes other founders more willing to build internationally.", "speaker": "Martin Escobari", "industry": "venture-capital", "geography": "India"},
-      {"text": "Persistent cold outreach backed by examples of work can open conversations with people who initially cannot meet.", "speaker": "Arian", "industry": "ai", "geography": "US"}
-    ],
-    "data_points": [
-      {"metric": "Bolivian inflation during Martin's childhood", "value": "35,000%", "unit": "%", "speaker": "Martin Escobari", "context": "One sign of the economic chaos he described in 1980s Bolivia."},
-      {"metric": "Bolivian presidents during a ten-year period", "value": "11", "unit": "presidents", "speaker": "Martin Escobari", "context": "He cited the turnover alongside coups and inflation."},
-      {"metric": "Value gain of winning companies in Martin's paired study", "value": "five to 10 times", "unit": "x", "speaker": "Martin Escobari", "context": "The study compared ten winners with similar competing firms in 1990s Brazil."},
-      {"metric": "Valuation of Martin's ecommerce company before its failed IPO", "value": "500 million", "unit": "USD", "speaker": "Martin Escobari", "context": "Six months later, a competitor nearly acquired it for far less."},
-      {"metric": "Near-acquisition offer after the market crash", "value": "$25 million", "unit": "USD", "speaker": "Martin Escobari", "context": "The offer followed the collapse of financing before the IPO."},
-      {"metric": "Capital Martin said his firm allocated to India", "value": "north of $5 billion", "unit": "USD", "speaker": "Martin Escobari", "context": "He cited the amount while affirming continued belief in the Indian market."},
-      {"metric": "Share of firm capital in AI", "value": "15%", "unit": "%", "speaker": "Martin Escobari", "context": "His approximate current allocation after first saying about ten percent."},
-      {"metric": "AI productivity gains in selected portfolio uses", "value": "30 50 70%", "unit": "%", "speaker": "Martin Escobari", "context": "He described gains in coding, marketing, customer service, and rule-based work."}
-    ],
-    "quotes": [
-      {"text": "I take my work very seriously, take my family life very serious, but I don't take myself very seriously.", "speaker": "Martin Escobari", "theme": "perspective"},
-      {"text": "Volatility has one advantage. It's a storm that shakes everything.", "speaker": "Martin Escobari", "theme": "crisis investing"},
-      {"text": "Small countries and big countries are equally hard. Every country is hard. Let's go big.", "speaker": "Martin Escobari", "theme": "international expansion"},
-      {"text": "The cost of launching a new brand has never been lower. The cost of distributing a new brand has never been lower.", "speaker": "Martin Escobari", "theme": "local brands"},
-      {"text": "You need the courage to do what has never done before.", "speaker": "Martin Escobari", "theme": "global ambition"}
-    ],
-    "ideas": [
-      {"text": "Invest in financially strong, agile companies that can deploy capital decisively when volatility creates rare acquisitions or expansion opportunities.", "speaker": "Martin Escobari", "type": "investment-thesis"},
-      {"text": "Build local consumer brands for rising middle-income buyers in emerging markets, where launch and distribution costs have fallen.", "speaker": "Martin Escobari", "type": "investment-thesis"},
-      {"text": "Use AI first to raise productivity in existing businesses, then invest more heavily in AI companies when leadership and unit economics become clearer.", "speaker": "Martin Escobari", "type": "playbook"},
-      {"text": "Explore AI-assisted drug discovery linked to laboratories that can test model-generated candidates.", "speaker": "Arian", "type": "investment-thesis"}
-    ],
-    "stories": [
-      {"text": "Martin Escobari said his father fled a Bolivian farm during the 1952 revolution after the house was burned and thousands of sheep were slaughtered; he then worked as a public-service doctor in rural Bolivia.", "speaker": "Martin Escobari", "lesson": "Family experience of upheaval shaped Martin's view of fragility and resilience."},
-      {"text": "Martin Escobari said his Brazilian ecommerce company had filed for an IPO, but the market crashed three weeks before it; after layoffs and a failed $25 million sale, the company cut growth to reach profitability and later went public.", "speaker": "Martin Escobari", "lesson": "Financial discipline can keep a company alive when capital markets close."},
-      {"text": "Arian said he emailed Sam Altman as a teenager with examples of projects he had built; Altman first replied that he was busy, and Arian's later follow-ups led to a meeting in San Francisco.", "speaker": "Arian", "lesson": "Specific work samples and persistence can make cold outreach effective."}
-    ]
-  }
+ {
+  "video_id": "EP-#20-Rishi-Sunak-and-Akshata-Murty-Power,-Identity-and-Why-Patience-Beats-Ambition-Nikhil-People-by-WTF",
+  "guests": [
+   "Rishi Sunak",
+   "Akshata Murty"
+  ],
+  "industries": [
+   "politics",
+   "education",
+   "ai",
+   "consumer",
+   "venture-capital",
+   "fashion",
+   "healthcare"
+  ],
+  "geographies": [
+   "India",
+   "UK",
+   "US",
+   "Netherlands"
+  ],
+  "insights": [
+   {
+    "text": "Patience can be a competitive advantage because reaching a senior role before developing the judgment to use it can be costly.",
+    "speaker": "Rishi Sunak",
+    "industry": "politics",
+    "geography": "UK"
+   },
+   {
+    "text": "Political change usually comes through sustained participation in institutions and coalitions rather than a single speech or protest.",
+    "speaker": "Rishi Sunak",
+    "industry": "politics",
+    "geography": "UK"
+   },
+   {
+    "text": "Building a business before entering politics can give a prospective politician practical skills, financial independence, and resilience.",
+    "speaker": "Rishi Sunak",
+    "industry": "politics",
+    "geography": "India"
+   },
+   {
+    "text": "AI widens access to subject knowledge, so education also needs to develop communication, negotiation, and critical reasoning.",
+    "speaker": "Rishi Sunak",
+    "industry": "education",
+    "geography": null
+   },
+   {
+    "text": "Deep knowledge and passion for a market remain important for founders even when AI makes general information easier to obtain.",
+    "speaker": "Rishi Sunak",
+    "industry": "consumer",
+    "geography": "India"
+   },
+   {
+    "text": "A country's technology sovereignty depends on a critical supply-chain capability, diversified providers, and trusted international partners.",
+    "speaker": "Rishi Sunak",
+    "industry": "ai",
+    "geography": "UK"
+   },
+   {
+    "text": "India's digital identity, payments, and health infrastructure offers a way to deploy AI applications at population scale.",
+    "speaker": "Rishi Sunak",
+    "industry": "ai",
+    "geography": "India"
+   },
+   {
+    "text": "Treating success and failure with similar composure helps keep major public achievements from defining one's identity.",
+    "speaker": "Akshata Murty",
+    "industry": null,
+    "geography": null
+   }
+  ],
+  "data_points": [
+   {
+    "metric": "Foundry cohort size",
+    "value": "20 to 30",
+    "unit": "people",
+    "speaker": "Nikhil Kamath",
+    "context": "The residential entrepreneurship program selects a small group for each cohort."
+   },
+   {
+    "metric": "Initial funding per Foundry company",
+    "value": "half a million dollars",
+    "unit": "USD",
+    "speaker": "Nikhil Kamath",
+    "context": "The selected consumer businesses receive starting capital during the program."
+   },
+   {
+    "metric": "Foundry program duration",
+    "value": "3 months",
+    "unit": "months",
+    "speaker": "Nikhil Kamath",
+    "context": "Founders live together while taking their products to market."
+   },
+   {
+    "metric": "Indian GDP growth",
+    "value": "6 to 7%",
+    "unit": "%",
+    "speaker": "Nikhil Kamath",
+    "context": "Used as a comparison with faster growth in Indian consumption."
+   },
+   {
+    "metric": "Indian consumer growth",
+    "value": "12, 13%",
+    "unit": "%",
+    "speaker": "Nikhil Kamath",
+    "context": "Nikhil linked consumer growth to younger people saving less and spending more."
+   },
+   {
+    "metric": "Time to pass William Wilberforce's slave-trade bill",
+    "value": "20 years",
+    "unit": "years",
+    "speaker": "Rishi Sunak",
+    "context": "Rishi used the long campaign to illustrate patience in politics."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "Patience is almost a bigger competitive advantage.",
+    "speaker": "Rishi Sunak",
+    "theme": "patience"
+   },
+   {
+    "text": "Sometimes it's worse to arrive too early than it is to arrive too late to something.",
+    "speaker": "Rishi Sunak",
+    "theme": "career timing"
+   },
+   {
+    "text": "I wasn't going to change who I was to make that work.",
+    "speaker": "Rishi Sunak",
+    "theme": "identity"
+   },
+   {
+    "text": "Change is less about a moment and a move, it's more about a movement.",
+    "speaker": "Rishi Sunak",
+    "theme": "political change"
+   },
+   {
+    "text": "We want to make them heroes before the product hits the market, so people buy the product.",
+    "speaker": "Nikhil Kamath",
+    "theme": "founder-led marketing"
+   }
+  ],
+  "ideas": [
+   {
+    "text": "Run a residential accelerator for Indian consumer brands that combines seed capital, manufacturing, distribution, packaging, and a show about the founders.",
+    "speaker": "Nikhil Kamath",
+    "type": "business-idea"
+   },
+   {
+    "text": "For national AI capability, control one critical technology component, avoid single-vendor dependence, and maintain trusted foreign partnerships.",
+    "speaker": "Rishi Sunak",
+    "type": "playbook"
+   },
+   {
+    "text": "Entrepreneurs seeking public impact can first build a business and then enter politics with operating experience and financial independence.",
+    "speaker": "Rishi Sunak",
+    "type": "playbook"
+   }
+  ],
+  "stories": [
+   {
+    "text": "Rishi Sunak said his appointment as UK prime minister fell on Diwali and his daughter's birthday; the Downing Street Diwali reception days later was when the significance of being the first British Asian and Hindu prime minister hit him.",
+    "speaker": "Rishi Sunak",
+    "lesson": "A public milestone can carry a special responsibility to the community it represents."
+   },
+   {
+    "text": "Rishi Sunak described William Wilberforce campaigning as a backbench MP for about 20 years before Parliament passed a slave-trade bill, then about 20 more years before slavery was declared illegal.",
+    "speaker": "Rishi Sunak",
+    "lesson": "Long institutional campaigns can deliver major change without the top office."
+   },
+   {
+    "text": "Akshata Murty said that, at 23, she wrote her Stanford application essay about Mumbai's monsoon and how unequal shelter shaped her interest in equality of opportunity.",
+    "speaker": "Akshata Murty",
+    "lesson": "A concrete experience can clarify a lasting social aim."
+   }
+  ]
+ },
+ {
+  "video_id": "EP-#20-WTF-are-Indian-Real-Estate-Giants-Up-To-Nikhil-ft.-Irfan,-Nirupa,-and-Karan",
+  "guests": [
+   "Irfan",
+   "Nirupa",
+   "Karan"
+  ],
+  "industries": [
+   "real-estate",
+   "construction",
+   "coworking",
+   "retail",
+   "hospitality",
+   "finance",
+   "climate"
+  ],
+  "geographies": [
+   "India",
+   "US",
+   "Europe"
+  ],
+  "insights": [
+   {
+    "text": "A developer's land valuation depends on permissible floor space, finished-product selling price, and construction cost.",
+    "speaker": "Irfan",
+    "industry": "real-estate",
+    "geography": "India"
+   },
+   {
+    "text": "Keeping agreed terms even when it hurts in the short run builds goodwill with landowners and supports future development deals.",
+    "speaker": "Irfan",
+    "industry": "real-estate",
+    "geography": "India"
+   },
+   {
+    "text": "India's urban migration is expected to support housing demand for decades, while approvals and construction make supply slow to respond.",
+    "speaker": "Nirupa",
+    "industry": "real-estate",
+    "geography": "India"
+   },
+   {
+    "text": "Real-estate regulation has raised the importance of securing land and approvals before preselling and has reduced the number of developers.",
+    "speaker": "Irfan",
+    "industry": "real-estate",
+    "geography": "India"
+   },
+   {
+    "text": "A first-time developer can limit upfront land cost through a small joint development agreement, then build a record by completing one compliant project.",
+    "speaker": "Irfan",
+    "industry": "real-estate",
+    "geography": "India"
+   },
+   {
+    "text": "Listed Indian developers' profit margins reflect procurement efficiency, construction cost, and joint-development sharing terms.",
+    "speaker": "Nirupa",
+    "industry": "real-estate",
+    "geography": "India"
+   },
+   {
+    "text": "Short-stay homes can yield more than long residential leases, but occupancy and operating costs determine the actual return.",
+    "speaker": "Unattributed",
+    "industry": "real-estate",
+    "geography": "India"
+   },
+   {
+    "text": "A coworking operator can earn more per square foot than a plain office landlord by bundling fit-out, services, and flexible occupancy.",
+    "speaker": "Karan",
+    "industry": "coworking",
+    "geography": "India"
+   }
+  ],
+  "data_points": [
+   {
+    "metric": "Population living in Indian cities",
+    "value": "35%",
+    "unit": "%",
+    "speaker": "Nirupa",
+    "context": "Used to explain the scale of future housing demand."
+   },
+   {
+    "metric": "Projected Indian urban population share",
+    "value": "40%",
+    "unit": "%",
+    "speaker": "Nirupa",
+    "context": "Nirupa expected urbanization to rise around 2030."
+   },
+   {
+    "metric": "Housing units supplied in India's top eight cities",
+    "value": "450,000 to 500,000",
+    "unit": "units",
+    "speaker": "Nirupa",
+    "context": "Compared with the number of people expected to move into cities."
+   },
+   {
+    "metric": "Listed real-estate developers' profit-after-tax margin",
+    "value": "11 12%",
+    "unit": "%",
+    "speaker": "Nirupa",
+    "context": "Described as a good-year margin despite developers' risks."
+   },
+   {
+    "metric": "Long-term residential rental yield",
+    "value": "3 to 4%",
+    "unit": "%",
+    "speaker": "Unattributed",
+    "context": "Contrasted with higher possible short-stay yields."
+   },
+   {
+    "metric": "Short-stay rental yield",
+    "value": "8 to 9%",
+    "unit": "%",
+    "speaker": "Unattributed",
+    "context": "Estimated at 65 to 70% occupancy, depending on market."
+   },
+   {
+    "metric": "Coworking footprint",
+    "value": "8 million square foot",
+    "unit": "square feet",
+    "speaker": "Karan",
+    "context": "Karan described the scale of the coworking business after opening its 60th location."
+   },
+   {
+    "metric": "Indian office space transacted in the first half",
+    "value": "34 million s ft",
+    "unit": "square feet",
+    "speaker": "Nirupa",
+    "context": "Cited as evidence of a strong office leasing year."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "If you keep up to your word even if it hurts you, long term it's a benefit.",
+    "speaker": "Irfan",
+    "theme": "trust"
+   },
+   {
+    "text": "You have to learn to start small. You have to learn to take the baby steps first.",
+    "speaker": "Irfan",
+    "theme": "development playbook"
+   },
+   {
+    "text": "The first one is always the hardest because you don't have an established brand.",
+    "speaker": "Nirupa",
+    "theme": "first project"
+   },
+   {
+    "text": "The macroeconomics are so favorable to real estate.",
+    "speaker": "Nirupa",
+    "theme": "urbanization"
+   },
+   {
+    "text": "In the end we are the principal employer.",
+    "speaker": "Irfan",
+    "theme": "developer responsibility"
+   }
+  ],
+  "ideas": [
+   {
+    "text": "Start a development company with a small joint development agreement, get approvals, build one project to specification, and reinvest the proceeds.",
+    "speaker": "Irfan",
+    "type": "playbook"
+   },
+   {
+    "text": "Use a modest amount of capital for a coworking operation instead of buying land for a full office development.",
+    "speaker": "Nirupa",
+    "type": "business-idea"
+   },
+   {
+    "text": "Build an operating business that improves energy use in real estate rather than competing immediately as a property developer.",
+    "speaker": "Karan",
+    "type": "business-idea"
+   },
+   {
+    "text": "For commercial property exposure, use a REIT that distributes rental income and avoids the friction of owning individual office units.",
+    "speaker": "Irfan",
+    "type": "investment-thesis"
+   }
+  ],
+  "stories": [
+   {
+    "text": "Irfan said his family put him in charge of selling their Infantry Cross Road property around 1980; reinvesting the proceeds and flipping plots led him into real estate.",
+    "speaker": "Irfan",
+    "lesson": "Handling a real transaction taught him the business before he became a developer."
+   },
+   {
+    "text": "Irfan said his first Bangalore mall opened in February 2004, shortly after his father died, and drew daily crowds that reached tens of thousands because organized retail was new to visitors.",
+    "speaker": "Irfan",
+    "lesson": "A new retail format can create demand beyond initial forecasts."
+   },
+   {
+    "text": "Karan said his coworking team initially spent more to copy spaces from abroad, then localized its supply chain and lowered its fit-out spending per square foot.",
+    "speaker": "Karan",
+    "lesson": "Localizing procurement can improve unit economics without giving up the product."
+   }
+  ]
+ },
+ {
+  "video_id": "EP-#21-The-World-Bank-President-On-Why-Jobs-Fix-Everything-Ajay-Banga-x-Nikhil-Kamath-People-by-WTF",
+  "guests": [
+   "Ajay Banga"
+  ],
+  "industries": [
+   "finance",
+   "venture-capital",
+   "agriculture",
+   "healthcare",
+   "tourism",
+   "manufacturing",
+   "energy",
+   "ai",
+   "infrastructure"
+  ],
+  "geographies": [
+   "India",
+   "Africa",
+   "Egypt",
+   "US",
+   "China"
+  ],
+  "insights": [
+   {
+    "text": "Jobs reduce poverty by supplying income and giving people hope and a productive role in society.",
+    "speaker": "Ajay Banga",
+    "industry": "finance",
+    "geography": null
+   },
+   {
+    "text": "Entrepreneurs and private enterprises create most jobs; governments enable them through infrastructure, human capital, rules, and governance.",
+    "speaker": "Ajay Banga",
+    "industry": "finance",
+    "geography": null
+   },
+   {
+    "text": "Investment guarantees, risk reduction, and dispute settlement can make emerging-market projects attractive to private capital seeking returns.",
+    "speaker": "Ajay Banga",
+    "industry": "finance",
+    "geography": null
+   },
+   {
+    "text": "Productive electricity access supports businesses such as barber shops and hatcheries more directly than a household light and fan alone.",
+    "speaker": "Ajay Banga",
+    "industry": "energy",
+    "geography": "Africa"
+   },
+   {
+    "text": "Primary healthcare can improve outcomes, avoid later disease costs, and create jobs across a range of medical skills.",
+    "speaker": "Ajay Banga",
+    "industry": "healthcare",
+    "geography": "India"
+   },
+   {
+    "text": "Processing local raw materials and agricultural products locally creates better jobs than exporting them for processing elsewhere.",
+    "speaker": "Ajay Banga",
+    "industry": "manufacturing",
+    "geography": "India"
+   },
+   {
+    "text": "Emerging markets may gain more immediately from small, local AI applications in healthcare and farming than from large language models requiring substantial compute, power, data, and skills.",
+    "speaker": "Ajay Banga",
+    "industry": "ai",
+    "geography": null
+   },
+   {
+    "text": "Cooperatives such as Amul give small farmers scale and can help them remain productive on their land.",
+    "speaker": "Ajay Banga",
+    "industry": "agriculture",
+    "geography": "India"
+   }
+  ],
+  "data_points": [
+   {
+    "metric": "World Bank Group annual financing",
+    "value": "120 odd billion dollars",
+    "unit": "USD",
+    "speaker": "Ajay Banga",
+    "context": "The amount he said the group puts into the marketplace each year."
+   },
+   {
+    "metric": "Private capital mobilized in the previous year",
+    "value": "70 billion",
+    "unit": "USD",
+    "speaker": "Ajay Banga",
+    "context": "He contrasted it with roughly 40 billion two to three years earlier."
+   },
+   {
+    "metric": "Jobs created by private-sector or private-sector-oriented enterprises",
+    "value": "85 to 90%",
+    "unit": "%",
+    "speaker": "Ajay Banga",
+    "context": "Used to support the importance of private enterprise in employment."
+   },
+   {
+    "metric": "People targeted for electricity connection with the African Development Bank",
+    "value": "300 million",
+    "unit": "people",
+    "speaker": "Ajay Banga",
+    "context": "The stated goal is to connect them by 2030."
+   },
+   {
+    "metric": "People targeted for better primary healthcare",
+    "value": "1.5 billion",
+    "unit": "people",
+    "speaker": "Ajay Banga",
+    "context": "The stated goal is for access by 2030."
+   },
+   {
+    "metric": "Projected jobs created in those emerging markets",
+    "value": "400 million",
+    "unit": "jobs",
+    "speaker": "Ajay Banga",
+    "context": "He used it to illustrate a large gap against the youth cohort entering adulthood."
+   },
+   {
+    "metric": "Annual tourists to India",
+    "value": "under 20 million",
+    "unit": "people",
+    "speaker": "Ajay Banga",
+    "context": "He identified tourism as an underused source of jobs."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "The best way to put a nail in the coffin of poverty is to give somebody a job.",
+    "speaker": "Ajay Banga",
+    "theme": "jobs and poverty"
+   },
+   {
+    "text": "You don't build a pyramid from the tip. You build a pyramid from the foundation.",
+    "speaker": "Ajay Banga",
+    "theme": "primary healthcare"
+   },
+   {
+    "text": "You create local value because that's where the jobs and the better jobs will come from.",
+    "speaker": "Ajay Banga",
+    "theme": "manufacturing"
+   },
+   {
+    "text": "Life is 50% luck. The other 50 is what you do with the luck.",
+    "speaker": "Ajay Banga",
+    "theme": "career"
+   },
+   {
+    "text": "What you do control, you better do something about.",
+    "speaker": "Ajay Banga",
+    "theme": "agency"
+   }
+  ],
+  "ideas": [
+   {
+    "text": "Pair a World Bank contribution with Egyptian government money in a professionally managed seed fund for entrepreneurs emerging from local centers.",
+    "speaker": "Ajay Banga",
+    "type": "business-idea"
+   },
+   {
+    "text": "Build phone-accessible, locally delivered AI tools for primary-care diagnosis and smallholder crop problems.",
+    "speaker": "Ajay Banga",
+    "type": "business-idea"
+   },
+   {
+    "text": "Focus job creation on infrastructure, smallholder agriculture, primary healthcare, tourism, and local value-added manufacturing.",
+    "speaker": "Ajay Banga",
+    "type": "investment-thesis"
+   }
+  ],
+  "stories": [
+   {
+    "text": "Ajay Banga said HDFC began with an IFC investment and went on to become a major private bank and a force in India's mortgage market.",
+    "speaker": "Ajay Banga",
+    "lesson": "Early development finance can help create an enduring private financial institution."
+   },
+   {
+    "text": "Ajay Banga described visiting farmers' cooperatives in Uttar Pradesh using a Google open platform to identify a diseased leaf and find a low-cost insecticide through their cooperative.",
+    "speaker": "Ajay Banga",
+    "lesson": "Simple digital tools can turn agricultural information into a practical decision."
+   },
+   {
+    "text": "Ajay Banga said he left candidacy for Citi's chief executive job to lead the much smaller Mastercard, a risk he cited while discussing how to act on luck.",
+    "speaker": "Ajay Banga",
+    "lesson": "A smaller organization can be the better career opportunity when its trajectory is stronger."
+   }
+  ]
+ },
+ {
+  "video_id": "EP-#21-WTF-is-Longevity-Nikhil-ft.-Nithin-Kamath,-Bryan-Johnson,-Prashanth,-Jitendra-and-Seema",
+  "guests": [
+   "Nithin Kamath",
+   "Bryan Johnson",
+   "Prashant Prakash",
+   "Jitendra",
+   "Seema"
+  ],
+  "industries": [
+   "longevity",
+   "healthcare",
+   "biotech",
+   "skincare",
+   "nutrition",
+   "ai",
+   "finance"
+  ],
+  "geographies": [
+   "India",
+   "US",
+   "Japan",
+   "Morocco"
+  ],
+  "insights": [
+   {
+    "text": "Air quality is a major health consideration because fine particles can affect the lungs and other body tissues.",
+    "speaker": "Bryan Johnson",
+    "industry": "healthcare",
+    "geography": "India"
+   },
+   {
+    "text": "Claims about special longevity 'blue zones' deserve scrutiny because the selection of comparison populations is contested.",
+    "speaker": "Unattributed",
+    "industry": "longevity",
+    "geography": "Japan"
+   },
+   {
+    "text": "Preventive care can become more precise by following people over time and combining systemic and cellular measures with blood chemistry.",
+    "speaker": "Prashant Prakash",
+    "industry": "healthcare",
+    "geography": "India"
+   },
+   {
+    "text": "Even extensive exercise and health monitoring cannot eliminate unexpected events; Nithin reported a stroke after completing an Ironman.",
+    "speaker": "Nithin Kamath",
+    "industry": "healthcare",
+    "geography": "India"
+   },
+   {
+    "text": "A supplement should have a measurable endpoint rather than be taken simply because it is assumed harmless.",
+    "speaker": "Bryan Johnson",
+    "industry": "longevity",
+    "geography": null
+   },
+   {
+    "text": "Personalized clinical care is hard to scale because each patient's health issues create extensive follow-up work and low margins.",
+    "speaker": "Bryan Johnson",
+    "industry": "healthcare",
+    "geography": null
+   },
+   {
+    "text": "Financial incentives behind health-influencer recommendations can reduce trust when they are not disclosed.",
+    "speaker": "Bryan Johnson",
+    "industry": "nutrition",
+    "geography": "US"
+   },
+   {
+    "text": "Cancer care needs better support for choosing specialists and addressing a patient's mental health, not just arranging treatment.",
+    "speaker": "Seema",
+    "industry": "healthcare",
+    "geography": "India"
+   }
+  ],
+  "data_points": [
+   {
+    "metric": "Mumbai PM2.5 reading discussed at the start",
+    "value": "130 140",
+    "unit": "PM2.5 reading",
+    "speaker": "Bryan Johnson",
+    "context": "Bryan said the level was over ten times what he considered reasonable."
+   },
+   {
+    "metric": "Particle reduction from Bryan's mask",
+    "value": "95%",
+    "unit": "%",
+    "speaker": "Bryan Johnson",
+    "context": "His stated estimate of how much PM2.5 the mask would remove."
+   },
+   {
+    "metric": "Bryan's current supplement count in pill form",
+    "value": "40",
+    "unit": "supplements",
+    "speaker": "Bryan Johnson",
+    "context": "He said many of the former pills were moved into a drink."
+   },
+   {
+    "metric": "Supplement ingredients retained across pills and drink",
+    "value": "basically 100 pills a day",
+    "unit": "pill equivalents per day",
+    "speaker": "Bryan Johnson",
+    "context": "He clarified that a lower capsule count did not mean eliminating most ingredients."
+   },
+   {
+    "metric": "AG1 one-time selling price",
+    "value": "$99",
+    "unit": "USD",
+    "speaker": "Bryan Johnson",
+    "context": "Used in his criticism of the product's ingredient cost and influencer commissions."
+   },
+   {
+    "metric": "AG1 subscription selling price",
+    "value": "$79",
+    "unit": "USD",
+    "speaker": "Bryan Johnson",
+    "context": "Compared with his estimate of the ingredient sourcing cost."
+   },
+   {
+    "metric": "Reported influencer commission on AG1",
+    "value": "20%",
+    "unit": "%",
+    "speaker": "Bryan Johnson",
+    "context": "He argued that recurring payments can distort health endorsements."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "You can filter almost any water and get it to be pure. With food you can grow your own food, but with air you have no control.",
+    "speaker": "Bryan Johnson",
+    "theme": "air quality"
+   },
+   {
+    "text": "The process predetermines what foods you eat.",
+    "speaker": "Bryan Johnson",
+    "theme": "measurement-led health"
+   },
+   {
+    "text": "I wouldn't take anything unless you can measure it.",
+    "speaker": "Unattributed",
+    "theme": "supplements"
+   },
+   {
+    "text": "Food is like the most basic boring business that no one built.",
+    "speaker": "Bryan Johnson",
+    "theme": "health business"
+   },
+   {
+    "text": "I just don't see many people succeeding with their objectives on marijuana.",
+    "speaker": "Bryan Johnson",
+    "theme": "drug use"
+   }
+  ],
+  "ideas": [
+   {
+    "text": "Use a science institution to anchor longitudinal precision-medicine research, then build a service that applies it to preventive care in India.",
+    "speaker": "Prashant Prakash",
+    "type": "business-idea"
+   },
+   {
+    "text": "Build reliable food products around measured health outcomes, a basic category Bryan said remains underbuilt.",
+    "speaker": "Bryan Johnson",
+    "type": "business-idea"
+   },
+   {
+    "text": "Create a broader training course covering nutrition, exercise, clinical nutrition, and biochemistry for health coaches.",
+    "speaker": "Jitendra",
+    "type": "business-idea"
+   },
+   {
+    "text": "Make expert referrals and guidance easier to access for patients who need specialists across India.",
+    "speaker": "Prashant Prakash",
+    "type": "business-idea"
+   }
+  ],
+  "stories": [
+   {
+    "text": "Nithin Kamath said he completed an Ironman in October or November while feeling at his fittest, then suffered a stroke in January.",
+    "speaker": "Nithin Kamath",
+    "lesson": "Fitness efforts and monitoring do not remove all health uncertainty."
+   },
+   {
+    "text": "Bryan Johnson said he took an air purifier into a Mumbai hotel gym, measured poor air there, and decided that exercising hard in that room would increase exposure to pollutants.",
+    "speaker": "Bryan Johnson",
+    "lesson": "Indoor exercise space can have harmful air even when it looks clean."
+   },
+   {
+    "text": "Seema described getting a breast-cancer diagnosis, searching across hospitals for the right oncologist, undergoing surgery, and finding that her mental state received little attention.",
+    "speaker": "Seema",
+    "lesson": "Cancer navigation should include specialist choice and emotional support."
+   }
+  ]
+ },
+ {
+  "video_id": "EP-#22-Martin-Escobari-Trauma,-Chaos-and-Three-Industries-Worth-$100B-Nikhil-Kamath-People-by-WTF",
+  "guests": [
+   "Martin Escobari",
+   "Arian"
+  ],
+  "industries": [
+   "venture-capital",
+   "ai",
+   "healthcare",
+   "consumer",
+   "climate",
+   "energy",
+   "ecommerce",
+   "education"
+  ],
+  "geographies": [
+   "India",
+   "Brazil",
+   "Bolivia",
+   "US",
+   "China",
+   "Indonesia",
+   "Mexico",
+   "Argentina",
+   "Portugal",
+   "Spain"
+  ],
+  "insights": [
+   {
+    "text": "As income per person moves from roughly $3,000 to $5,000, consumption expands; from roughly $5,000 to $10,000, private healthcare and education gain demand.",
+    "speaker": "Martin Escobari",
+    "industry": "consumer",
+    "geography": "India"
+   },
+   {
+    "text": "Companies that thrive through turbulence combine sound finances and agile teams with the willingness to make a large move during a crisis.",
+    "speaker": "Martin Escobari",
+    "industry": "venture-capital",
+    "geography": "Brazil"
+   },
+   {
+    "text": "A large domestic market can make international expansion less urgent even for a successful Indian company.",
+    "speaker": "Martin Escobari",
+    "industry": "consumer",
+    "geography": "India"
+   },
+   {
+    "text": "Digitalization, healthcare change, energy transition, and rising consumers in the global south are long-running sources of entrepreneurial opportunity.",
+    "speaker": "Martin Escobari",
+    "industry": "venture-capital",
+    "geography": null
+   },
+   {
+    "text": "Lower launch and distribution costs improve the odds that local consumer brands can beat imported brands.",
+    "speaker": "Martin Escobari",
+    "industry": "consumer",
+    "geography": null
+   },
+   {
+    "text": "For AI investment, demonstrate useful applications and viable unit economics before committing heavily at exuberant valuations.",
+    "speaker": "Martin Escobari",
+    "industry": "ai",
+    "geography": null
+   },
+   {
+    "text": "An Indian company's first global success can create a role-model effect that makes other founders more willing to build internationally.",
+    "speaker": "Martin Escobari",
+    "industry": "venture-capital",
+    "geography": "India"
+   },
+   {
+    "text": "Persistent cold outreach backed by examples of work can open conversations with people who initially cannot meet.",
+    "speaker": "Arian",
+    "industry": "ai",
+    "geography": "US"
+   }
+  ],
+  "data_points": [
+   {
+    "metric": "Bolivian inflation during Martin's childhood",
+    "value": "35,000%",
+    "unit": "%",
+    "speaker": "Martin Escobari",
+    "context": "One sign of the economic chaos he described in 1980s Bolivia."
+   },
+   {
+    "metric": "Bolivian presidents during a ten-year period",
+    "value": "11",
+    "unit": "presidents",
+    "speaker": "Martin Escobari",
+    "context": "He cited the turnover alongside coups and inflation."
+   },
+   {
+    "metric": "Value gain of winning companies in Martin's paired study",
+    "value": "five to 10 times",
+    "unit": "x",
+    "speaker": "Martin Escobari",
+    "context": "The study compared ten winners with similar competing firms in 1990s Brazil."
+   },
+   {
+    "metric": "Valuation of Martin's ecommerce company before its failed IPO",
+    "value": "500 million",
+    "unit": "USD",
+    "speaker": "Martin Escobari",
+    "context": "Six months later, a competitor nearly acquired it for far less."
+   },
+   {
+    "metric": "Near-acquisition offer after the market crash",
+    "value": "$25 million",
+    "unit": "USD",
+    "speaker": "Martin Escobari",
+    "context": "The offer followed the collapse of financing before the IPO."
+   },
+   {
+    "metric": "Capital Martin said his firm allocated to India",
+    "value": "north of $5 billion",
+    "unit": "USD",
+    "speaker": "Martin Escobari",
+    "context": "He cited the amount while affirming continued belief in the Indian market."
+   },
+   {
+    "metric": "Share of firm capital in AI",
+    "value": "15%",
+    "unit": "%",
+    "speaker": "Martin Escobari",
+    "context": "His approximate current allocation after first saying about ten percent."
+   },
+   {
+    "metric": "AI productivity gains in selected portfolio uses",
+    "value": "30 50 70%",
+    "unit": "%",
+    "speaker": "Martin Escobari",
+    "context": "He described gains in coding, marketing, customer service, and rule-based work."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "I take my work very seriously, take my family life very serious, but I don't take myself very seriously.",
+    "speaker": "Martin Escobari",
+    "theme": "perspective"
+   },
+   {
+    "text": "Volatility has one advantage. It's a storm that shakes everything.",
+    "speaker": "Martin Escobari",
+    "theme": "crisis investing"
+   },
+   {
+    "text": "Small countries and big countries are equally hard. Every country is hard. Let's go big.",
+    "speaker": "Martin Escobari",
+    "theme": "international expansion"
+   },
+   {
+    "text": "The cost of launching a new brand has never been lower. The cost of distributing a new brand has never been lower.",
+    "speaker": "Martin Escobari",
+    "theme": "local brands"
+   },
+   {
+    "text": "You need the courage to do what has never done before.",
+    "speaker": "Martin Escobari",
+    "theme": "global ambition"
+   }
+  ],
+  "ideas": [
+   {
+    "text": "Invest in financially strong, agile companies that can deploy capital decisively when volatility creates rare acquisitions or expansion opportunities.",
+    "speaker": "Martin Escobari",
+    "type": "investment-thesis"
+   },
+   {
+    "text": "Build local consumer brands for rising middle-income buyers in emerging markets, where launch and distribution costs have fallen.",
+    "speaker": "Martin Escobari",
+    "type": "investment-thesis"
+   },
+   {
+    "text": "Use AI first to raise productivity in existing businesses, then invest more heavily in AI companies when leadership and unit economics become clearer.",
+    "speaker": "Martin Escobari",
+    "type": "playbook"
+   },
+   {
+    "text": "Explore AI-assisted drug discovery linked to laboratories that can test model-generated candidates.",
+    "speaker": "Arian",
+    "type": "investment-thesis"
+   }
+  ],
+  "stories": [
+   {
+    "text": "Martin Escobari said his father fled a Bolivian farm during the 1952 revolution after the house was burned and thousands of sheep were slaughtered; he then worked as a public-service doctor in rural Bolivia.",
+    "speaker": "Martin Escobari",
+    "lesson": "Family experience of upheaval shaped Martin's view of fragility and resilience."
+   },
+   {
+    "text": "Martin Escobari said his Brazilian ecommerce company had filed for an IPO, but the market crashed three weeks before it; after layoffs and a failed $25 million sale, the company cut growth to reach profitability and later went public.",
+    "speaker": "Martin Escobari",
+    "lesson": "Financial discipline can keep a company alive when capital markets close."
+   },
+   {
+    "text": "Arian said he emailed Sam Altman as a teenager with examples of projects he had built; Altman first replied that he was busy, and Arian's later follow-ups led to a meeting in San Francisco.",
+    "speaker": "Arian",
+    "lesson": "Specific work samples and persistence can make cold outreach effective."
+   }
+  ]
+ }
 ]

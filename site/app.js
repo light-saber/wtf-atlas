@@ -140,13 +140,13 @@
     }).join('') + '</div>';
   }
 
-  function chipsHtml(kind, keys, active, counts) {
-    var h = '<div class="chips" role="group" aria-label="Filter by ' + kind + '">';
-    h += '<button class="chip" data-kind="' + kind + '" data-key="" aria-pressed="' +
+  function chipsHtml(filterDim, keys, active, counts) {
+    var h = '<div class="chips" role="group" aria-label="Filter">';
+    h += '<button class="chip" data-filter="' + filterDim + '" data-key="" aria-pressed="' +
          (!active ? 'true' : 'false') + '">All</button>';
     keys.forEach(function (k) {
-      h += '<button class="chip" data-kind="' + kind + '" data-key="' + esc(k) +
-           '" aria-pressed="' + (active === k ? 'true' : 'false') + '">' + esc(k) +
+      h += '<button class="chip" data-filter="' + filterDim + '" data-key="' + esc(k) +
+           '" aria-pressed="' + (active === k ? 'true' : 'false') + '">' + esc(disp(k)) +
            '<span class="n">' + (counts[k] || 0) + '</span></button>';
     });
     return h + '</div>';
@@ -248,25 +248,28 @@
   }
 
   function countTagged(kind, dim, key) {
-    return DB.items[kind].filter(function (it) { return it[dim] === key; }).length;
+    return filterTagged(kind, dim, key).length;
   }
+  /* an item matches a tag if the item itself is tagged OR its episode covers it */
   function filterTagged(kind, dim, key) {
-    return DB.items[kind].filter(function (it) { return it[dim] === key; });
+    return DB.items[kind].filter(function (it) {
+      if (it[dim] === key) return true;
+      var ep = byId(it.video_id);
+      return !!(ep && ep[dim === 'industry' ? 'industries' : 'geographies'] &&
+                ep[dim === 'industry' ? 'industries' : 'geographies'].indexOf(key) !== -1);
+    });
   }
 
   function viewList(kind, label, blurb, filterDim) {
     var keys = filterDim ? safeKeys(filterDim) : [];
     var counts = {};
-    DB.items[kind].forEach(function (it) {
-      var k = it[filterDim];
-      if (k) counts[k] = (counts[k] || 0) + 1;
-    });
-    var active = filterDim && state.filters[kind];
+    keys.forEach(function (k) { counts[k] = filterTagged(kind, filterDim, k).length; });
+    var active = filterDim && state.filters[filterDim];
     var h = '<section class="page-head"><h1>' + label + '</h1><p>' + blurb + '</p></section>';
     if (filterDim && keys.length) h += chipsHtml(filterDim, keys, active, counts);
     var items = DB.items[kind];
-    if (active) items = items.filter(function (it) { return it[filterDim] === active; });
-    h += '<div class="section-head"><h2>' + label + '</h2><span class="count">' +
+    if (active) items = filterTagged(kind, filterDim, active);
+    h += '<div class="section-head"><h2>' + (active ? disp(active) : label) + '</h2><span class="count">' +
          items.length + '</span><span class="rule"></span></div>';
     h += cardsOf(kind, items);
     return h;
@@ -384,13 +387,13 @@
     window.scrollTo(0, 0);
   }
 
-  /* delegated clicks: chips + episode tabs */
+  /* delegated clicks: filter chips + episode tabs */
   document.addEventListener('click', function (e) {
-    var chip = e.target.closest('.chip[data-key]');
+    var chip = e.target.closest('.chip[data-filter]');
     if (chip) {
-      var kind = chip.getAttribute('data-kind');
+      var dim = chip.getAttribute('data-filter');
       var key = chip.getAttribute('data-key');
-      state.filters[kind] = key || null;
+      state.filters[dim] = key || null;
       route();
       return;
     }

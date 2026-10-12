@@ -1,0 +1,716 @@
+[
+  {
+    "video_id": "EP-#12-WTF-is-The-Restaurant-Game-Nikhil-w-Pooja-Dhingra,-Zorawar-Kalra-and-Riyaaz-Amlani",
+    "guests": ["Pooja Dhingra", "Zorawar Kalra", "Riyaaz Amlani"],
+    "industries": ["restaurant", "content", "real-estate"],
+    "geographies": ["India", "US", "China", "Singapore", "Qatar"],
+    "insights": [
+      {
+        "text": "Restaurants often fail because owners budget for opening but lack capital to survive the period before the business stabilizes.",
+        "speaker": "Unattributed",
+        "industry": "restaurant",
+        "geography": null
+      },
+      {
+        "text": "Indian diners respond to perceived value and may upgrade to a better product when prices fall instead of buying more of the same product.",
+        "speaker": "Riyaaz Amlani",
+        "industry": "restaurant",
+        "geography": "India"
+      },
+      {
+        "text": "Revenue per square foot is a more useful restaurant comparison than total revenue because a smaller site can use space more efficiently.",
+        "speaker": "Zorawar Kalra",
+        "industry": "restaurant",
+        "geography": "India"
+      },
+      {
+        "text": "A group of restaurant brands can share leasing, licensing, hiring and management processes while keeping distinct menus and interiors.",
+        "speaker": "Zorawar Kalra",
+        "industry": "restaurant",
+        "geography": "India"
+      },
+      {
+        "text": "India's lower cost of cooking at home limits the labor-saving advantage that quick-service restaurants have in the US.",
+        "speaker": "Riyaaz Amlani",
+        "industry": "restaurant",
+        "geography": "India"
+      },
+      {
+        "text": "A cloud kitchen needs a strong brand, marketing capability and customer data skills to cope with delivery-platform costs.",
+        "speaker": "Riyaaz Amlani",
+        "industry": "restaurant",
+        "geography": "India"
+      },
+      {
+        "text": "Pooja Dhingra sees demand for desserts that retain the feeling of indulgence while using ingredients such as bananas, dates or apples for sweetness.",
+        "speaker": "Pooja Dhingra",
+        "industry": "restaurant",
+        "geography": null
+      }
+    ],
+    "data_points": [
+      {
+        "metric": "Restaurants said to fail within their first year",
+        "value": "90%",
+        "unit": "%",
+        "speaker": "Unattributed",
+        "context": "The figure was raised while discussing the risk of opening a restaurant."
+      },
+      {
+        "metric": "Restaurants said to fail within 18 months",
+        "value": "96%",
+        "unit": "%",
+        "speaker": "Unattributed",
+        "context": "The speaker linked failure particularly to insufficient capital during the early period."
+      },
+      {
+        "metric": "Direct restaurant-industry employment in India",
+        "value": "10 million",
+        "unit": "people",
+        "speaker": "Riyaaz Amlani",
+        "context": "He argued that the sector is a major employer despite its licensing burden."
+      },
+      {
+        "metric": "Louis Burger cost of goods",
+        "value": "30 to 31%",
+        "unit": "%",
+        "speaker": "Zorawar Kalra",
+        "context": "He gave it as an example of burger unit economics."
+      },
+      {
+        "metric": "Delivery-platform commission described as the current norm",
+        "value": "24 to 28%",
+        "unit": "%",
+        "speaker": "Riyaaz Amlani",
+        "context": "He contrasted it with the commission he considered sustainable for restaurants."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The best way on Earth to export your culture is through your food.",
+        "speaker": "Zorawar Kalra",
+        "theme": "food and culture"
+      },
+      {
+        "text": "India is a very value conscious market. It's not a price sensitive market, it's a value sensitive market.",
+        "speaker": "Riyaaz Amlani",
+        "theme": "consumer behavior"
+      },
+      {
+        "text": "You get to launch only once.",
+        "speaker": "Riyaaz Amlani",
+        "theme": "restaurant launch"
+      },
+      {
+        "text": "Service is simply the aspect of taking a drink and putting it on the table. Hospitality dictates how you made that patron feel.",
+        "speaker": "Riyaaz Amlani",
+        "theme": "hospitality"
+      }
+    ],
+    "ideas": [
+      {
+        "text": "Build a social space where people can work, meet others and spend time together.",
+        "speaker": "Riyaaz Amlani",
+        "type": "business-idea"
+      },
+      {
+        "text": "Aggregate scalable casual-dining brands and share their operating infrastructure.",
+        "speaker": "Nikhil Kamath",
+        "type": "investment-thesis"
+      },
+      {
+        "text": "Create desserts with a cleaner ingredient profile that still taste indulgent.",
+        "speaker": "Pooja Dhingra",
+        "type": "business-idea"
+      }
+    ],
+    "stories": [
+      {
+        "text": "Pooja Dhingra gave her father a business plan to persuade him to fund pastry school in Paris before she returned to open her business.",
+        "speaker": "Pooja Dhingra",
+        "lesson": "A concrete plan helped her pursue culinary training."
+      },
+      {
+        "text": "Zorawar Kalra said his father Jiggs Kalra documented Indian recipes and devoted his career to bringing Indian food to a global audience.",
+        "speaker": "Zorawar Kalra",
+        "lesson": "Documenting a cuisine can help preserve and spread it."
+      }
+    ]
+  },
+  {
+    "video_id": "EP-#13-Sam-Altman-x-Nikhil-Kamath-How-to-Win-When-AI-Changes-Everything-People-by-WTF-Episode-13",
+    "guests": ["Sam Altman"],
+    "industries": ["ai", "software", "content", "robotics", "climate", "finance"],
+    "geographies": ["India", "US", "China"],
+    "insights": [
+      {
+        "text": "Learning to use AI tools is the specific skill Altman recommends most strongly to people starting their careers.",
+        "speaker": "Sam Altman",
+        "industry": "ai",
+        "geography": null
+      },
+      {
+        "text": "AI can let a small startup team handle software, customer support, marketing and legal-document review with less outside expertise.",
+        "speaker": "Sam Altman",
+        "industry": "ai",
+        "geography": null
+      },
+      {
+        "text": "Using AI does not itself make a startup defensible; the company still needs lasting customer value and a durable business.",
+        "speaker": "Sam Altman",
+        "industry": "ai",
+        "geography": null
+      },
+      {
+        "text": "A business built on AI models is better placed when improvements to the underlying model also improve its product.",
+        "speaker": "Sam Altman",
+        "industry": "ai",
+        "geography": null
+      },
+      {
+        "text": "Altman expects people to value real human creators more in a world with abundant AI-generated content.",
+        "speaker": "Sam Altman",
+        "industry": "content",
+        "geography": null
+      },
+      {
+        "text": "Humanoid robots have a practical advantage because doors, cars and factories have been designed around human bodies.",
+        "speaker": "Sam Altman",
+        "industry": "robotics",
+        "geography": null
+      },
+      {
+        "text": "Altman expects AI's economic gains to spread through many products and companies, comparing it with the transistor.",
+        "speaker": "Sam Altman",
+        "industry": "ai",
+        "geography": null
+      }
+    ],
+    "data_points": [
+      {
+        "metric": "India's rank among OpenAI markets",
+        "value": "second largest",
+        "unit": "market rank",
+        "speaker": "Sam Altman",
+        "context": "He said India may become OpenAI's largest market."
+      },
+      {
+        "metric": "Time from OpenAI's start to its first product",
+        "value": "4 and a half years",
+        "unit": "years",
+        "speaker": "Sam Altman",
+        "context": "He used it to illustrate the company's long research horizon."
+      },
+      {
+        "metric": "Time required for an International Mathematical Olympiad problem",
+        "value": "about an hour and a half",
+        "unit": "hours",
+        "speaker": "Sam Altman",
+        "context": "He compared it with the shorter problems models could previously solve."
+      },
+      {
+        "metric": "Time Altman suggested an important new mathematical theorem might require",
+        "value": "like a thousand hours",
+        "unit": "hours",
+        "speaker": "Sam Altman",
+        "context": "He used it to describe work beyond current AI capabilities."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Make something people want.",
+        "speaker": "Sam Altman",
+        "theme": "startup fundamentals"
+      },
+      {
+        "text": "No one knows what happens next.",
+        "speaker": "Sam Altman",
+        "theme": "uncertainty"
+      },
+      {
+        "text": "Using AI itself does not create a defensible business.",
+        "speaker": "Sam Altman",
+        "theme": "business durability"
+      },
+      {
+        "text": "Being a real person in a world of unlimited AI content will increase in value.",
+        "speaker": "Sam Altman",
+        "theme": "human creators"
+      }
+    ],
+    "ideas": [
+      {
+        "text": "Build an AI-enabled startup with a very small team, using the tools across product development and operations.",
+        "speaker": "Sam Altman",
+        "type": "business-idea"
+      },
+      {
+        "text": "Build an AI product whose customer value deepens as the underlying models improve.",
+        "speaker": "Sam Altman",
+        "type": "playbook"
+      },
+      {
+        "text": "Experiment with sovereign wealth funds, basic income or redistribution of AI compute as technology changes the economy.",
+        "speaker": "Sam Altman",
+        "type": "contrarian-take"
+      }
+    ],
+    "stories": [
+      {
+        "text": "Altman said OpenAI spent about four and a half years researching before releasing its first product, despite uncertainty and ideas that differed from the rest of the field.",
+        "speaker": "Sam Altman",
+        "lesson": "Long-term conviction can matter when useful external feedback is scarce."
+      },
+      {
+        "text": "Altman described asking GPT-5 for small pieces of software to solve problems in his life, then refining them as he discovered what his workflow needed.",
+        "speaker": "Sam Altman",
+        "lesson": "Building and iterating is a way to learn AI tools."
+      }
+    ]
+  },
+  {
+    "video_id": "EP-#13-WTF-does-it-take-to-Build-Influence-Today-Nikhil-w-Nuseir,-Tanmay,-Prajakta-and-Ranveer",
+    "guests": ["Nuseir", "Tanmay", "Prajakta", "Ranveer"],
+    "industries": ["content", "marketing", "education"],
+    "geographies": ["India", "US", "Vietnam", "Russia"],
+    "insights": [
+      {
+        "text": "Short videos can help a new creator get discovered, while long videos can build a closer audience relationship.",
+        "speaker": "Nuseir",
+        "industry": "content",
+        "geography": null
+      },
+      {
+        "text": "Ranveer said his meditation-app promotions produced more sales through podcasts than through short Instagram videos, despite the short videos' large view counts.",
+        "speaker": "Ranveer",
+        "industry": "content",
+        "geography": "India"
+      },
+      {
+        "text": "Creators can lose momentum as audiences tire of a format and platforms change what they promote, making reinvention necessary.",
+        "speaker": "Tanmay",
+        "industry": "content",
+        "geography": null
+      },
+      {
+        "text": "Localizing existing videos into languages with limited local content supply helped Nas Daily reach new audiences.",
+        "speaker": "Nuseir",
+        "industry": "content",
+        "geography": "Vietnam"
+      },
+      {
+        "text": "For short videos, the opening seconds matter more than the thumbnail; titles and thumbnails matter most for long YouTube videos.",
+        "speaker": "Nuseir",
+        "industry": "content",
+        "geography": null
+      },
+      {
+        "text": "Sharing revenue from sponsored videos with the production team can give editors and cast members a direct stake in the work.",
+        "speaker": "Tanmay",
+        "industry": "content",
+        "geography": null
+      },
+      {
+        "text": "Prajakta found that a casual, unstyled video made her feel more relatable to viewers than the polished presentation she thought the camera required.",
+        "speaker": "Prajakta",
+        "industry": "content",
+        "geography": "India"
+      }
+    ],
+    "data_points": [
+      {
+        "metric": "Nas Daily followers who do not speak English",
+        "value": "30 million",
+        "unit": "followers",
+        "speaker": "Nuseir",
+        "context": "He used the figure to explain the reach of localized content."
+      },
+      {
+        "metric": "Nas Daily followers in Vietnam",
+        "value": "2 million",
+        "unit": "followers",
+        "speaker": "Nuseir",
+        "context": "He attributed the audience partly to limited Vietnamese-language content supply."
+      },
+      {
+        "metric": "Languages into which Nas Daily localized its English content",
+        "value": "13",
+        "unit": "languages",
+        "speaker": "Nuseir",
+        "context": "Localization expanded the potential audience for existing videos."
+      },
+      {
+        "metric": "Nas Daily combined monthly company revenue",
+        "value": "$900,000 to a million dollar a month",
+        "unit": "$ per month",
+        "speaker": "Nuseir",
+        "context": "He described revenue across two companies and several sources."
+      },
+      {
+        "metric": "Videos Nuseir edited himself before hiring an editor",
+        "value": "750",
+        "unit": "videos",
+        "speaker": "Nuseir",
+        "context": "He said hiring an editor freed time he had spent editing daily."
+      },
+      {
+        "metric": "Monthly profit shared with the team",
+        "value": "7%",
+        "unit": "%",
+        "speaker": "Nuseir",
+        "context": "He described a team bonus arrangement."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The algorithm has no emotions.",
+        "speaker": "Ranveer",
+        "theme": "platform dynamics"
+      },
+      {
+        "text": "Short content gets you reach and after you get the reach you should go deep.",
+        "speaker": "Nuseir",
+        "theme": "audience building"
+      },
+      {
+        "text": "Blind copying can only take you this far.",
+        "speaker": "Prajakta",
+        "theme": "originality"
+      },
+      {
+        "text": "Listen to your audience. They are extremely honest.",
+        "speaker": "Prajakta",
+        "theme": "feedback"
+      }
+    ],
+    "ideas": [
+      {
+        "text": "Start with short videos to gain discovery, then use long videos to build community and a business.",
+        "speaker": "Nuseir",
+        "type": "playbook"
+      },
+      {
+        "text": "Localize proven content into languages where demand exceeds the supply of local videos.",
+        "speaker": "Nuseir",
+        "type": "business-idea"
+      },
+      {
+        "text": "Give editors and cast members a share of sponsored-video income to retain a strong creative team.",
+        "speaker": "Tanmay",
+        "type": "playbook"
+      }
+    ],
+    "stories": [
+      {
+        "text": "Prajakta said a radio show she worked on failed and she was fired; after Sudip from One Digital suggested YouTube, she began creating videos.",
+        "speaker": "Prajakta",
+        "lesson": "An unsuccessful first medium led her to another creative format."
+      },
+      {
+        "text": "Nuseir said he left his friends in New York, went to Kenya alone and began making Nas Daily videos.",
+        "speaker": "Nuseir",
+        "lesson": "He changed his surroundings to focus on creating videos."
+      }
+    ]
+  },
+  {
+    "video_id": "EP-#14-From-Iran-to-Uber-CEO-Nikhil-Kamath-x-Dara-Khosrowshahi-People-by-WTF-Ep.-14",
+    "guests": ["Dara Khosrowshahi"],
+    "industries": ["logistics", "travel", "restaurant", "ev", "ai", "manufacturing"],
+    "geographies": ["Iran", "US", "India", "China", "Europe"],
+    "insights": [
+      {
+        "text": "Rapido's subscription and zero-commission model can raise driver pay relative to a platform taking commission on each trip, though Dara questioned its profitability.",
+        "speaker": "Dara Khosrowshahi",
+        "industry": "logistics",
+        "geography": "India"
+      },
+      {
+        "text": "A marketplace startup can establish supply and demand in a narrowly served local segment, then repeat the model in other cities or adjacent services.",
+        "speaker": "Dara Khosrowshahi",
+        "industry": "logistics",
+        "geography": "India"
+      },
+      {
+        "text": "Dara recommends proving product-market fit and unit economics in a small market before relying on a large total-addressable-market forecast.",
+        "speaker": "Dara Khosrowshahi",
+        "industry": null,
+        "geography": null
+      },
+      {
+        "text": "Quick commerce works better where labor is less costly and customers are concentrated enough to support frequent small deliveries.",
+        "speaker": "Dara Khosrowshahi",
+        "industry": "logistics",
+        "geography": "US"
+      },
+      {
+        "text": "Restaurants focused mainly on food face a stronger shift toward delivery or cloud kitchens, while restaurants offering a distinctive experience can continue to draw diners.",
+        "speaker": "Dara Khosrowshahi",
+        "industry": "restaurant",
+        "geography": null
+      },
+      {
+        "text": "Dara attributes Chinese EV makers' speed partly to intense competition among many manufacturers beneath a national industrial strategy.",
+        "speaker": "Dara Khosrowshahi",
+        "industry": "ev",
+        "geography": "China"
+      },
+      {
+        "text": "He favors autonomous-vehicle systems using cameras, radar and lidar to pursue safety well beyond human driving performance.",
+        "speaker": "Dara Khosrowshahi",
+        "industry": "logistics",
+        "geography": null
+      }
+    ],
+    "data_points": [
+      {
+        "metric": "India's rank among Uber markets by mobility trips",
+        "value": "third largest",
+        "unit": "market rank",
+        "speaker": "Dara Khosrowshahi",
+        "context": "He described India as a major market for Uber."
+      },
+      {
+        "metric": "Uber drivers in India",
+        "value": "over 1.4 million",
+        "unit": "drivers",
+        "speaker": "Dara Khosrowshahi",
+        "context": "The count included two-, three- and four-wheelers."
+      },
+      {
+        "metric": "Uber drivers and couriers working less than 20 hours a week",
+        "value": "70%",
+        "unit": "%",
+        "speaker": "Dara Khosrowshahi",
+        "context": "He cited the figure when explaining the appeal of flexible work."
+      },
+      {
+        "metric": "Uber mobility volume lost overnight during COVID",
+        "value": "80 85%",
+        "unit": "%",
+        "speaker": "Dara Khosrowshahi",
+        "context": "He described the shock that preceded layoffs."
+      },
+      {
+        "metric": "EV adoption rate inside Uber relative to the general public",
+        "value": "five times faster",
+        "unit": "x",
+        "speaker": "Dara Khosrowshahi",
+        "context": "He said Uber drivers have a strong reason to switch because they drive more."
+      },
+      {
+        "metric": "Chinese EV manufacturers",
+        "value": "over a hundred",
+        "unit": "OEMs",
+        "speaker": "Dara Khosrowshahi",
+        "context": "He used the figure to explain competition among Chinese EV makers."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "The biggest mistakes that I see with businesses is not usually errors of judgment, but you just didn't really know what was going on in the organization.",
+        "speaker": "Dara Khosrowshahi",
+        "theme": "leadership information"
+      },
+      {
+        "text": "You actually specifically should go after the small TAMs and then work your way into the adjacencies over a period of time.",
+        "speaker": "Dara Khosrowshahi",
+        "theme": "startup entry"
+      },
+      {
+        "text": "I'm not a startup person. That's not my skill. I'm a scale person.",
+        "speaker": "Dara Khosrowshahi",
+        "theme": "personal strengths"
+      },
+      {
+        "text": "They have to be multiple times better than humans.",
+        "speaker": "Dara Khosrowshahi",
+        "theme": "autonomous safety"
+      }
+    ],
+    "ideas": [
+      {
+        "text": "Launch a mobility service in an underserved local niche, build market liquidity there, then expand city by city.",
+        "speaker": "Dara Khosrowshahi",
+        "type": "playbook"
+      },
+      {
+        "text": "Use AI agents to compare and book travel and improve destination discovery.",
+        "speaker": "Dara Khosrowshahi",
+        "type": "business-idea"
+      },
+      {
+        "text": "Treat local investment in charging infrastructure as a signal when evaluating EV opportunities.",
+        "speaker": "Dara Khosrowshahi",
+        "type": "investment-thesis"
+      }
+    ],
+    "stories": [
+      {
+        "text": "Dara said bullets entered his family's house during the Iranian Revolution after revolutionary guards crossed their garden; his mother decided they had to leave Iran.",
+        "speaker": "Dara Khosrowshahi",
+        "lesson": "The family left when political upheaval became an immediate danger at home."
+      },
+      {
+        "text": "While Dara was a junior analyst modeling QVC's bid for Paramount, Barry Diller insisted on reviewing the model line by line with the person who built it.",
+        "speaker": "Dara Khosrowshahi",
+        "lesson": "Leaders can get clearer information by going directly to its source."
+      },
+      {
+        "text": "Dara said his niece Liliana used Midjourney to design women's golf clothing, sourced production and began promoting her Lily Hummer brand through TikTok, Instagram and golf clubs.",
+        "speaker": "Dara Khosrowshahi",
+        "lesson": "Design tools, manufacturing access and social platforms can help a small founder launch a brand."
+      }
+    ]
+  },
+  {
+    "video_id": "EP-#14-WTF-is-Happening-with-EV-Nikhil-ft.-Founders-of-Reva,-Ather,-Blusmart,-and-Ossus",
+    "guests": ["Punit", "Suuchi", "Chetan", "Tarun"],
+    "industries": ["ev", "batteries", "climate", "manufacturing", "logistics"],
+    "geographies": ["India", "UK", "US", "China", "Europe", "Southeast Asia"],
+    "insights": [
+      {
+        "text": "Punit said BluSmart's expansion is constrained more by the time needed to build charging infrastructure than by car supply or financing.",
+        "speaker": "Punit",
+        "industry": "ev",
+        "geography": "India"
+      },
+      {
+        "text": "Tarun said electric vehicles remain more energy efficient than combustion vehicles even when their electricity comes from fossil-fuel power plants.",
+        "speaker": "Tarun",
+        "industry": "ev",
+        "geography": "India"
+      },
+      {
+        "text": "Suuchi described producing hydrogen and reusable water from wastewater using microorganisms on an electrode.",
+        "speaker": "Suuchi",
+        "industry": "climate",
+        "geography": null
+      },
+      {
+        "text": "Chetan said battery swapping can reduce charging space and power requirements when a fleet operates at scale.",
+        "speaker": "Chetan",
+        "industry": "batteries",
+        "geography": "India"
+      },
+      {
+        "text": "Tarun said Ather's customers across different city tiers show similar daily scooter use, challenging the assumption that smaller cities need a fundamentally different product.",
+        "speaker": "Tarun",
+        "industry": "ev",
+        "geography": "India"
+      },
+      {
+        "text": "Tarun views cell manufacturing as difficult for a startup because it combines technically demanding production with commodity-like margins.",
+        "speaker": "Tarun",
+        "industry": "batteries",
+        "geography": null
+      },
+      {
+        "text": "Punit identified battery recycling and EV waste management as opportunities created by greater electric-vehicle adoption.",
+        "speaker": "Punit",
+        "industry": "batteries",
+        "geography": "India"
+      }
+    ],
+    "data_points": [
+      {
+        "metric": "Sale price of Punit's operating solar project",
+        "value": "$68 million",
+        "unit": "$",
+        "speaker": "Punit",
+        "context": "He described selling the Gujarat project to a Saudi company."
+      },
+      {
+        "metric": "BluSmart fleet size",
+        "value": "5,000 plus",
+        "unit": "cars",
+        "speaker": "Punit",
+        "context": "He gave the figure while discussing its ride-hailing operation."
+      },
+      {
+        "metric": "BluSmart daily revenue",
+        "value": "1.3 to 1.4 crores",
+        "unit": "INR crore per day",
+        "speaker": "Punit",
+        "context": "He described the company's revenue at the time of the conversation."
+      },
+      {
+        "metric": "Cars BluSmart was adding monthly",
+        "value": "400 cars to 500 cars",
+        "unit": "cars per month",
+        "speaker": "Punit",
+        "context": "He linked the slower rate to charging-infrastructure construction."
+      },
+      {
+        "metric": "Electric-vehicle improvement against a combustion vehicle on India's grid",
+        "value": "30 to 35%",
+        "unit": "%",
+        "speaker": "Tarun",
+        "context": "He used the comparison to explain why electrification still helps on the current grid."
+      },
+      {
+        "metric": "Minimum return Chetan suggested for a battery-swapping franchise",
+        "value": "18 to 22%",
+        "unit": "%",
+        "speaker": "Chetan",
+        "context": "He discussed a small operator installing a swapping station alongside an existing store."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "This is a game of energy and this is not a game of mobility.",
+        "speaker": "Punit",
+        "theme": "fleet economics"
+      },
+      {
+        "text": "India's always been supply constraint, not demand constraint.",
+        "speaker": "Tarun",
+        "theme": "EV demand"
+      },
+      {
+        "text": "Self manufacturing [is] this really complexly bad combo: very high-tech with commodity margins.",
+        "speaker": "Tarun",
+        "theme": "battery production"
+      }
+    ],
+    "ideas": [
+      {
+        "text": "Build a battery-recycling or EV-waste-management business.",
+        "speaker": "Punit",
+        "type": "business-idea"
+      },
+      {
+        "text": "Use an industrial site's wastewater and otherwise unused gases to produce hydrogen for an on-site charging facility.",
+        "speaker": "Suuchi",
+        "type": "business-idea"
+      },
+      {
+        "text": "Build data and AI tools for problems at the intersection of energy systems and mobility.",
+        "speaker": "Chetan",
+        "type": "business-idea"
+      },
+      {
+        "text": "Design a new electric-vehicle form factor instead of launching another conventional scooter.",
+        "speaker": "Tarun",
+        "type": "business-idea"
+      },
+      {
+        "text": "Develop an ownership-like subscription for connected electric vehicles that customers can use over a longer period.",
+        "speaker": "Tarun",
+        "type": "business-idea"
+      }
+    ],
+    "stories": [
+      {
+        "text": "Punit said his solar-panel manufacturing venture shut down after the European market fell while producers, including his company, were expanding capacity.",
+        "speaker": "Punit",
+        "lesson": "Manufacturing expansion exposed the venture to a sudden change in its destination market."
+      },
+      {
+        "text": "Chetan said his college solar-car team won a US race, raised money for a new car and placed third in a race across Australia.",
+        "speaker": "Chetan",
+        "lesson": "The race convinced him that electric vehicles could travel long distances using solar energy."
+      }
+    ]
+  }
+]

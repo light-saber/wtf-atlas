@@ -1,191 +1,786 @@
 [
-  {
-    "video_id": "EP-#26-Two-Pharma-Giants-Who'd-Never-Met-Mankind-and-Dr.-Reddy's-WTF-is-Pharma",
-    "guests": ["Rajiv Juneja", "G. V. Prasad"],
-    "industries": ["pharma", "biotech", "healthcare", "skincare", "venture-capital"],
-    "geographies": ["India", "US", "China"],
-    "insights": [
-      {"text": "India's pharmaceutical strength is in low-priced generics, so its share of global volume is much larger than its share of revenue.", "speaker": "G. V. Prasad", "industry": "pharma", "geography": "India"},
-      {"text": "In India's branded generic market, medical representatives' relationships with doctors, reach, and pricing influence which brand gets prescribed.", "speaker": "Rajiv Juneja", "industry": "pharma", "geography": "India"},
-      {"text": "Mankind entered smaller towns first and set affordable prices because it lacked the resources to fight established firms in large cities.", "speaker": "Rajiv Juneja", "industry": "pharma", "geography": "India"},
-      {"text": "Mankind has prioritized revenue growth over raising its operating margin by cutting spending.", "speaker": "Rajiv Juneja", "industry": "pharma", "geography": "India"},
-      {"text": "After a US drug patent expires and more than five generic competitors enter, prices can fall by over 95% from the innovator price.", "speaker": "G. V. Prasad", "industry": "pharma", "geography": "US"},
-      {"text": "China's drug innovation ecosystem combines university research, returning talent, risk capital, public funding, and a home market.", "speaker": "G. V. Prasad", "industry": "biotech", "geography": "China"},
-      {"text": "Supplements and traditional wellness products are bought for prevention and lifestyle use, while conventional medicines are generally bought to cure illness.", "speaker": "Unattributed", "industry": "healthcare", "geography": "India"}
-    ],
-    "data_points": [
-      {"metric": "Mankind annual revenue", "value": "more than 40,000", "unit": "INR crore", "speaker": "Rajiv Juneja", "context": "Scale of Mankind's business as described by its leader."},
-      {"metric": "Mankind revenue from pharma", "value": "85%", "unit": "%", "speaker": "Rajiv Juneja", "context": "The company is predominantly a pharmaceutical business despite its consumer brands."},
-      {"metric": "Indian pharma industry growth", "value": "8 to 10%", "unit": "%", "speaker": "Unattributed", "context": "Growth rate discussed for India's generic pharma market."},
-      {"metric": "Indian pharma market share held by top 50 companies", "value": "75 80%", "unit": "%", "speaker": "Rajiv Juneja", "context": "Indicates the concentration of India's market."},
-      {"metric": "Mankind operating margin", "value": "25 to 26%", "unit": "%", "speaker": "Rajiv Juneja", "context": "Juneja says Mankind accepts this margin to keep investing in growth."},
-      {"metric": "Price discount after US patent expiry with more than five generic entrants", "value": "north of 95%", "unit": "%", "speaker": "G. V. Prasad", "context": "Explains the revenue gap between innovative medicines and generics."},
-      {"metric": "Ayurveda and related wellness market growth", "value": "17%", "unit": "%", "speaker": "Unattributed", "context": "Growth discussed for the broad category including services and products."}
-    ],
-    "quotes": [
-      {"text": "We are not the pharmacy of the world. We are the generic pharmacy of the world.", "speaker": "G. V. Prasad", "theme": "generic economics"},
-      {"text": "If given a choice we'll always go for topline growth.", "speaker": "Rajiv Juneja", "theme": "growth strategy"},
-      {"text": "Why should I fight in their battlegrounds where there are strongholds? We started bottom up.", "speaker": "Rajiv Juneja", "theme": "market entry"},
-      {"text": "Enter a space where there is room to play, grow and mistakes can be tolerated.", "speaker": "G. V. Prasad", "theme": "founder advice"}
-    ],
-    "ideas": [
-      {"text": "Enter pharma segments where a young company has a distinct advantage and enough room to learn through mistakes.", "speaker": "G. V. Prasad", "type": "playbook"},
-      {"text": "Build wellness and supplement businesses around the growing interest in prevention and longer-term health.", "speaker": "Unattributed", "type": "business-idea"},
-      {"text": "Build pharma distribution from underserved smaller towns with prices matched to local patients' means.", "speaker": "Rajiv Juneja", "type": "playbook"}
-    ],
-    "stories": [
-      {"text": "Rajiv Juneja worked in his brother's Meerut medical store during school holidays, became a medical representative for ten years, and started Mankind in 1995.", "speaker": "Rajiv Juneja", "lesson": "Direct experience of pharmacies, doctors, and sales shaped Mankind's distribution strategy."},
-      {"text": "After Dr. Anji Reddy's co-founder at Cheminor Drugs parted ways, he called G. V. Prasad; Prasad took the CEO role in 1990, and Cheminor later merged with Dr. Reddy's.", "speaker": "Unattributed", "lesson": "A trusted operator helped scale and consolidate the group."}
-    ]
-  },
-  {
-    "video_id": "EP-#3-Nikhil-Kamath-x-Nandan-Nilekani-People-by-WTF-Ep-#3",
-    "guests": ["Nandan Nilekani"],
-    "industries": ["finance", "healthcare", "climate", "batteries", "ai"],
-    "geographies": ["India", "US", "Singapore"],
-    "insights": [
-      {"text": "Aadhaar was designed as a digital, online-verifiable ID even though the government had asked only for a unique ID.", "speaker": "Nandan Nilekani", "industry": "finance", "geography": "India"},
-      {"text": "Population-scale digital public infrastructure can support private innovation when startups and large firms can access it through open APIs.", "speaker": "Nandan Nilekani", "industry": "finance", "geography": "India"},
-      {"text": "Aadhaar eKYC made customer onboarding fast enough for mass bank-account and mobile-connection enrollment.", "speaker": "Nandan Nilekani", "industry": "finance", "geography": "India"},
-      {"text": "Account aggregators transfer consented, encrypted financial data between providers and users without storing or reading it themselves.", "speaker": "Nandan Nilekani", "industry": "finance", "geography": "India"},
-      {"text": "Businesses can combine bank statements and GST records through account aggregation to help lenders assess loans in real time.", "speaker": "Nandan Nilekani", "industry": "finance", "geography": "India"},
-      {"text": "FASTag gives vehicles a digital identity linked to a payment instrument and streamlines highway tolling.", "speaker": "Nandan Nilekani", "industry": "logistics", "geography": "India"},
-      {"text": "Distributed rooftop solar and home batteries may offer more room for smaller private businesses than capital-intensive grid projects.", "speaker": "Nandan Nilekani", "industry": "climate", "geography": "India"}
-    ],
-    "data_points": [
-      {"metric": "Aadhaar enrollments when Nilekani left government", "value": "600 million", "unit": "people", "speaker": "Nandan Nilekani", "context": "He met his commitment after about four and a half years on the project."},
-      {"metric": "Aadhaar holders at the time of discussion", "value": "1.3 billion", "unit": "people", "speaker": "Nandan Nilekani", "context": "Shows population-scale adoption of the digital ID."},
-      {"metric": "Time to reach the stated level of banking penetration", "value": "9 years", "unit": "years", "speaker": "Nandan Nilekani", "context": "Nilekani contrasted digital-enabled progress with an estimate of 46 years at the earlier pace."},
-      {"metric": "Jio customer enrollment using Aadhaar KYC", "value": "a million", "unit": "customers a day", "speaker": "Nandan Nilekani", "context": "Online KYC supported Jio's rapid mobile subscriber rollout."},
-      {"metric": "FASTag transactions", "value": "2.5 billion", "unit": "transactions a year", "speaker": "Nandan Nilekani", "context": "Illustrates the scale of vehicle-linked digital tolling."}
-    ],
-    "quotes": [
-      {"text": "The government asked me to build a unique ID. There was no digital in it. I made it digital.", "speaker": "Nandan Nilekani", "theme": "digital design"},
-      {"text": "It's not a repository. It's just an exchange. The data resides where it is.", "speaker": "Nandan Nilekani", "theme": "account aggregation"},
-      {"text": "Half of life is deciding what not to do.", "speaker": "Nandan Nilekani", "theme": "focus"},
-      {"text": "We were marathon runners. We're not sprinters. We built for the long term.", "speaker": "Nandan Nilekani", "theme": "company building"}
-    ],
-    "ideas": [
-      {"text": "Build personal-finance or lending applications on account aggregation's consented data exchange.", "speaker": "Nandan Nilekani", "type": "business-idea"},
-      {"text": "Create markets and efficiency tools for households with rooftop solar and batteries.", "speaker": "Nandan Nilekani", "type": "business-idea"},
-      {"text": "Build useful applications on the APIs of population-scale digital public infrastructure.", "speaker": "Nandan Nilekani", "type": "playbook"}
-    ],
-    "stories": [
-      {"text": "Nandan Nilekani joined the Indian government in 2009 to lead Aadhaar, promised 600 million IDs before leaving, and says the project reached that number when he stepped down.", "speaker": "Nandan Nilekani", "lesson": "A measurable enrollment target helped drive a new public infrastructure project."},
-      {"text": "Jio used Aadhaar eKYC after its 2016 launch to enroll a million mobile customers a day toward a goal of 100 million in six months.", "speaker": "Nandan Nilekani", "lesson": "Fast digital identity checks enabled rapid distribution."}
-    ]
-  },
-  {
-    "video_id": "EP-#3-WTF-is-E-commerce-Kishore-Biyani,-Udaan-and-Meesho-Founders-Reveal-What-Sells-and-What-Doesn't",
-    "guests": ["Vidit Aatrey", "Kishore Biyani", "Sujeet Kumar"],
-    "industries": ["e-commerce", "retail", "logistics", "restaurant", "fashion"],
-    "geographies": ["India", "Indonesia", "Southeast Asia"],
-    "insights": [
-      {"text": "Meesho was built to bring India's long tail of unbranded small retailers online, a part of retail its founder says was still largely offline in 2015.", "speaker": "Vidit Aatrey", "industry": "e-commerce", "geography": "India"},
-      {"text": "Kishore Biyani designed Big Bazaar around the energy and crowds of Indian bazaars rather than copying a foreign retail format.", "speaker": "Kishore Biyani", "industry": "retail", "geography": "India"},
-      {"text": "Biyani's team studied customer behavior and social change repeatedly to guide brands and store formats.", "speaker": "Kishore Biyani", "industry": "retail", "geography": "India"},
-      {"text": "A large gap between India's total small businesses and those selling online leaves a commerce onboarding problem to solve.", "speaker": "Vidit Aatrey", "industry": "e-commerce", "geography": "India"},
-      {"text": "Some Meesho sellers have built businesses entirely online, using marketplace pricing, merchandising, and trend selection rather than an offline shop.", "speaker": "Vidit Aatrey", "industry": "e-commerce", "geography": "India"},
-      {"text": "Sujeet Kumar sees a chance to build scaled quick-service restaurant chains beyond India's largest cities.", "speaker": "Sujeet Kumar", "industry": "restaurant", "geography": "India"}
-    ],
-    "data_points": [
-      {"metric": "Indian retail through small unbranded businesses", "value": "85%", "unit": "%", "speaker": "Vidit Aatrey", "context": "The initial market Meesho wanted to bring online."},
-      {"metric": "Annual Meesho buyers", "value": "close to 140 million", "unit": "consumers", "speaker": "Vidit Aatrey", "context": "Scale of the marketplace at the time of the conversation."},
-      {"metric": "Meesho small-business sellers", "value": "about a million", "unit": "businesses", "speaker": "Vidit Aatrey", "context": "Marketplace supply base described by its founder."},
-      {"metric": "Future Group annual compounded growth", "value": "30%", "unit": "%", "speaker": "Kishore Biyani", "context": "Biyani's description of growth over a 30-year period."},
-      {"metric": "Indian small businesses", "value": "about 60 million", "unit": "businesses", "speaker": "Vidit Aatrey", "context": "Used to frame the potential market for online seller access."},
-      {"metric": "Indian small businesses selling online", "value": "million million and a half", "unit": "businesses", "speaker": "Vidit Aatrey", "context": "Contrasted with the much larger small-business base."},
-      {"metric": "Meesho orders in the last year", "value": "about 1 billion", "unit": "orders", "speaker": "Vidit Aatrey", "context": "Marketplace transaction volume reported by its founder."},
-      {"metric": "Meesho sellers operating only online", "value": "40%", "unit": "%", "speaker": "Vidit Aatrey", "context": "Shows online marketplaces creating first-time merchants."}
-    ],
-    "quotes": [
-      {"text": "Crowd can only get crowd.", "speaker": "Kishore Biyani", "theme": "retail experience"},
-      {"text": "Once you start looking at from consumer lens you can create something much, much more.", "speaker": "Kishore Biyani", "theme": "consumer insight"},
-      {"text": "We said we'll bring them online. If someone asked me how, I had no idea.", "speaker": "Vidit Aatrey", "theme": "founding conviction"},
-      {"text": "If you want to do anything in commerce, you have to basically figure out how to make e-commerce work.", "speaker": "Vidit Aatrey", "theme": "commerce strategy"}
-    ],
-    "ideas": [
-      {"text": "Help small Indian merchants list catalogs and sell across interoperable commerce apps through ONDC.", "speaker": "Vidit Aatrey", "type": "business-idea"},
-      {"text": "Back quick-service restaurant brands that can expand to thousands of stores beyond tier-two and tier-three Indian cities.", "speaker": "Sujeet Kumar", "type": "investment-thesis"},
-      {"text": "Study local customer behavior, popular culture, and store operations before designing a mass-market retail format.", "speaker": "Kishore Biyani", "type": "playbook"}
-    ],
-    "stories": [
-      {"text": "Kishore Biyani visited small-town bazaars before launching Big Bazaar and opened three stores in 22 days to create scale and the bustle he wanted.", "speaker": "Kishore Biyani", "lesson": "Local retail behavior shaped the format and launch pace."},
-      {"text": "Future Group staff went to Tirupati temple to study how it managed queues, water, and waiting for the large crowds at Big Bazaar.", "speaker": "Kishore Biyani", "lesson": "Operational lessons can come from outside one's industry."},
-      {"text": "Sujeet Kumar joined Flipkart in 2008 when it was still a proprietorship taking only a few book orders, built its supply-chain operation including Ekart, and left in 2016 to start Udaan.", "speaker": "Sujeet Kumar", "lesson": "Early logistics capability supported e-commerce scale."}
-    ]
-  },
-  {
-    "video_id": "EP-#4-WTF-is-Artificial-Intelligence-Really-Yann-LeCun-x-Nikhil-Kamath-People-by-WTF-Ep-#4",
-    "guests": ["Yann LeCun"],
-    "industries": ["ai", "healthcare", "finance", "edtech", "manufacturing"],
-    "geographies": ["India", "France", "US"],
-    "insights": [
-      {"text": "Autoregressive language models handle discrete words well but lack the physical-world understanding needed for robots and fully autonomous cars.", "speaker": "Yann LeCun", "industry": "ai", "geography": null},
-      {"text": "AI systems that learn from video and build action-conditioned world models could predict consequences and plan sequences of actions.", "speaker": "Yann LeCun", "industry": "ai", "geography": null},
-      {"text": "Scaling current language models alone will not produce human-level intelligence; new architectures with world models and hierarchical planning are needed.", "speaker": "Yann LeCun", "industry": "ai", "geography": null},
-      {"text": "Local compute infrastructure matters both for training models on local data and for providing low-cost inference to many users.", "speaker": "Yann LeCun", "industry": "ai", "geography": "India"},
-      {"text": "The practical AI startup model LeCun favors is fine-tuning an open-source foundation model for a specific vertical.", "speaker": "Yann LeCun", "industry": "ai", "geography": null},
-      {"text": "Open-source platforms may become dominant AI infrastructure because startups can tailor them more closely to customers than a generic API.", "speaker": "Yann LeCun", "industry": "ai", "geography": null},
-      {"text": "Speech-based AI assistants in local languages could serve rural users who have limited access to doctors or are less comfortable reading and writing.", "speaker": "Yann LeCun", "industry": "healthcare", "geography": "India"}
-    ],
-    "data_points": [
-      {"metric": "Reduction in LLM inference cost", "value": "a factor of 100", "unit": "x", "speaker": "Yann LeCun", "context": "LeCun's estimate for the decline over two years."},
-      {"metric": "Time over which LLM inference cost fell", "value": "two years", "unit": "years", "speaker": "Yann LeCun", "context": "Period attached to his cost-reduction estimate."},
-      {"metric": "Possible AI users in India", "value": "800 million", "unit": "Indians", "speaker": "Yann LeCun", "context": "Illustrative scale motivating local inference infrastructure."},
-      {"metric": "Optimistic horizon for world-model progress", "value": "five to 10 years", "unit": "years", "speaker": "Yann LeCun", "context": "He stressed this assumes plans succeed without unexpected obstacles."},
-      {"metric": "Values in a thousand-by-thousand color image", "value": "three million", "unit": "values", "speaker": "Yann LeCun", "context": "Used to explain why predicting continuous video is harder than predicting text."}
-    ],
-    "quotes": [
-      {"text": "LLMs are not the path to human level intelligence.", "speaker": "Yann LeCun", "theme": "limits of language models"},
-      {"text": "The smartest LLM are not as smart as your house cat.", "speaker": "Yann LeCun", "theme": "physical understanding"},
-      {"text": "If you are a startup, you're much better off using a source engine and fine-tuning it for a vertical application.", "speaker": "Yann LeCun", "theme": "startup strategy"},
-      {"text": "Science is never a sort of individual pursuit.", "speaker": "Yann LeCun", "theme": "research culture"}
-    ],
-    "ideas": [
-      {"text": "Fine-tune open-source models for legal, accounting, finance, or internal company information workflows.", "speaker": "Yann LeCun", "type": "business-idea"},
-      {"text": "Build local compute and low-cost inference infrastructure so AI assistants can be deployed widely in India.", "speaker": "Yann LeCun", "type": "investment-thesis"},
-      {"text": "Build voice-first AI assistants in local languages for healthcare and agricultural use in rural areas.", "speaker": "Yann LeCun", "type": "business-idea"},
-      {"text": "Invest around open-source AI platforms and specialized applications rather than assuming proprietary general models will retain their present importance.", "speaker": "Yann LeCun", "type": "investment-thesis"}
-    ],
-    "stories": [
-      {"text": "Yann LeCun studied electrical engineering in Paris, pursued independent AI projects with mathematics professors, and became drawn into research rather than following a formal computer-science route.", "speaker": "Yann LeCun", "lesson": "Cross-disciplinary projects opened his path into AI research."}
-    ]
-  },
-  {
-    "video_id": "EP-#4-WTF-is-ChatGPT-Heaven-or-Hell-w-Nikhil,-Varun-Mayya,-Tanmay,-Umang-and-Aprameya",
-    "guests": ["Varun Mayya", "Tanmay", "Umang", "Aprameya"],
-    "industries": ["ai", "content", "gaming", "finance", "software"],
-    "geographies": ["India", "US", "South Africa", "China"],
-    "insights": [
-      {"text": "ChatGPT-style tools can act as embedded assistants in creator software, helping with ideas and content creation.", "speaker": "Unattributed", "industry": "content", "geography": null},
-      {"text": "A chatbot can generate convincing text by predicting likely next words, even though that mechanism differs from human understanding.", "speaker": "Varun Mayya", "industry": "ai", "geography": null},
-      {"text": "AI-created text and media could greatly increase the volume of persuasive false content and make public opinion easier to manipulate.", "speaker": "Unattributed", "industry": "content", "geography": null},
-      {"text": "Routine software engineering and other white-collar work may face pressure as AI makes common code and content easier to produce.", "speaker": "Varun Mayya", "industry": "software", "geography": "India"},
-      {"text": "Automating customer-support speech does not itself solve refund decisions, where a human remains accountable for mistakes or abuse.", "speaker": "Unattributed", "industry": "ai", "geography": null},
-      {"text": "When content creation becomes cheap, trusted distribution and an audience's confidence in a creator become more valuable.", "speaker": "Unattributed", "industry": "content", "geography": null},
-      {"text": "Cheap software creation may let people build apps for small groups, but existing communication networks still benefit from network effects.", "speaker": "Unattributed", "industry": "software", "geography": null}
-    ],
-    "data_points": [
-      {"metric": "Varun Mayya's coding experience", "value": "17 years", "unit": "years", "speaker": "Varun Mayya", "context": "Experience he cited when introducing himself to the AI discussion."},
-      {"metric": "Annual jobs India needs to create for its demographic dividend", "value": "10 million", "unit": "jobs a year", "speaker": "Unattributed", "context": "A participant cited this figure while discussing AI and employment."},
-      {"metric": "US engineer salary used in outsourcing comparison", "value": "100K", "unit": "$ a year", "speaker": "Unattributed", "context": "Used to explain India's software-services cost advantage."},
-      {"metric": "South African unemployment rate cited in discussion", "value": "33", "unit": "%", "speaker": "Unattributed", "context": "Raised as a concern when discussing AI-related job displacement."}
-    ],
-    "quotes": [
-      {"text": "ChatGPT is a completion agent. It's a next word predictor.", "speaker": "Varun Mayya", "theme": "model mechanics"},
-      {"text": "The hard part is deciding when to give a refund or not. It's not the voice.", "speaker": "Unattributed", "theme": "automation limits"},
-      {"text": "Once you have the channel, your cost of content creation is now zero.", "speaker": "Unattributed", "theme": "creator distribution"},
-      {"text": "Distribution is not a joke.", "speaker": "Unattributed", "theme": "startup advantage"}
-    ],
-    "ideas": [
-      {"text": "Put AI assistance directly into creator tools for ideation, writing, audio, video, and image workflows.", "speaker": "Unattributed", "type": "business-idea"},
-      {"text": "Partner with trusted influencers to launch multiple products, sharing equity or profits in return for distribution.", "speaker": "Unattributed", "type": "business-idea"},
-      {"text": "Build a voice AI system that handles many customer conversations while retaining human judgment for refund approval.", "speaker": "Unattributed", "type": "business-idea"}
-    ],
-    "stories": [
-      {"text": "One participant said his team integrated ChatGPT into a creator interface so users could click an idea button and request help with content, including poems and images of Virat Kohli or Rohit Sharma.", "speaker": "Unattributed", "lesson": "Putting AI in an existing creation workflow makes assistance immediately accessible."},
-      {"text": "A participant said his team made a company whose system can speak to customers in real time, train on an intended caller's voice, and handle several calls in parallel.", "speaker": "Unattributed", "lesson": "Voice generation can scale conversations, while business decisions still need accountability."}
-    ]
-  }
+ {
+  "video_id": "EP-#26-Two-Pharma-Giants-Who'd-Never-Met-Mankind-and-Dr.-Reddy's-WTF-is-Pharma",
+  "guests": [
+   "Rajiv Juneja",
+   "G. V. Prasad"
+  ],
+  "industries": [
+   "pharma",
+   "biotech",
+   "healthcare",
+   "skincare",
+   "venture-capital"
+  ],
+  "geographies": [
+   "India",
+   "US",
+   "China"
+  ],
+  "insights": [
+   {
+    "text": "India's pharmaceutical strength is in low-priced generics, so its share of global volume is much larger than its share of revenue.",
+    "speaker": "G. V. Prasad",
+    "industry": "pharma",
+    "geography": "India"
+   },
+   {
+    "text": "In India's branded generic market, medical representatives' relationships with doctors, reach, and pricing influence which brand gets prescribed.",
+    "speaker": "Rajiv Juneja",
+    "industry": "pharma",
+    "geography": "India"
+   },
+   {
+    "text": "Mankind entered smaller towns first and set affordable prices because it lacked the resources to fight established firms in large cities.",
+    "speaker": "Rajiv Juneja",
+    "industry": "pharma",
+    "geography": "India"
+   },
+   {
+    "text": "Mankind has prioritized revenue growth over raising its operating margin by cutting spending.",
+    "speaker": "Rajiv Juneja",
+    "industry": "pharma",
+    "geography": "India"
+   },
+   {
+    "text": "After a US drug patent expires and more than five generic competitors enter, prices can fall by over 95% from the innovator price.",
+    "speaker": "G. V. Prasad",
+    "industry": "pharma",
+    "geography": "US"
+   },
+   {
+    "text": "China's drug innovation ecosystem combines university research, returning talent, risk capital, public funding, and a home market.",
+    "speaker": "G. V. Prasad",
+    "industry": "biotech",
+    "geography": "China"
+   },
+   {
+    "text": "Supplements and traditional wellness products are bought for prevention and lifestyle use, while conventional medicines are generally bought to cure illness.",
+    "speaker": "Unattributed",
+    "industry": "healthcare",
+    "geography": "India"
+   }
+  ],
+  "data_points": [
+   {
+    "metric": "Mankind annual revenue",
+    "value": "more than 40,000",
+    "unit": "INR crore",
+    "speaker": "Rajiv Juneja",
+    "context": "Scale of Mankind's business as described by its leader."
+   },
+   {
+    "metric": "Mankind revenue from pharma",
+    "value": "85%",
+    "unit": "%",
+    "speaker": "Rajiv Juneja",
+    "context": "The company is predominantly a pharmaceutical business despite its consumer brands."
+   },
+   {
+    "metric": "Indian pharma industry growth",
+    "value": "8 to 10%",
+    "unit": "%",
+    "speaker": "Unattributed",
+    "context": "Growth rate discussed for India's generic pharma market."
+   },
+   {
+    "metric": "Indian pharma market share held by top 50 companies",
+    "value": "75 80%",
+    "unit": "%",
+    "speaker": "Rajiv Juneja",
+    "context": "Indicates the concentration of India's market."
+   },
+   {
+    "metric": "Mankind operating margin",
+    "value": "25 to 26%",
+    "unit": "%",
+    "speaker": "Rajiv Juneja",
+    "context": "Juneja says Mankind accepts this margin to keep investing in growth."
+   },
+   {
+    "metric": "Price discount after US patent expiry with more than five generic entrants",
+    "value": "north of 95%",
+    "unit": "%",
+    "speaker": "G. V. Prasad",
+    "context": "Explains the revenue gap between innovative medicines and generics."
+   },
+   {
+    "metric": "Ayurveda and related wellness market growth",
+    "value": "17%",
+    "unit": "%",
+    "speaker": "Unattributed",
+    "context": "Growth discussed for the broad category including services and products."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "We are not the pharmacy of the world. We are the generic pharmacy of the world.",
+    "speaker": "G. V. Prasad",
+    "theme": "generic economics"
+   },
+   {
+    "text": "If given a choice we'll always go for topline growth.",
+    "speaker": "Rajiv Juneja",
+    "theme": "growth strategy"
+   },
+   {
+    "text": "Why should I fight in their battlegrounds where there are strongholds? We started bottom up.",
+    "speaker": "Rajiv Juneja",
+    "theme": "market entry"
+   },
+   {
+    "text": "Enter a space where there is room to play, grow and mistakes can be tolerated.",
+    "speaker": "G. V. Prasad",
+    "theme": "founder advice"
+   }
+  ],
+  "ideas": [
+   {
+    "text": "Enter pharma segments where a young company has a distinct advantage and enough room to learn through mistakes.",
+    "speaker": "G. V. Prasad",
+    "type": "playbook"
+   },
+   {
+    "text": "Build wellness and supplement businesses around the growing interest in prevention and longer-term health.",
+    "speaker": "Unattributed",
+    "type": "business-idea"
+   },
+   {
+    "text": "Build pharma distribution from underserved smaller towns with prices matched to local patients' means.",
+    "speaker": "Rajiv Juneja",
+    "type": "playbook"
+   }
+  ],
+  "stories": [
+   {
+    "text": "Rajiv Juneja worked in his brother's Meerut medical store during school holidays, became a medical representative for ten years, and started Mankind in 1995.",
+    "speaker": "Rajiv Juneja",
+    "lesson": "Direct experience of pharmacies, doctors, and sales shaped Mankind's distribution strategy."
+   },
+   {
+    "text": "After Dr. Anji Reddy's co-founder at Cheminor Drugs parted ways, he called G. V. Prasad; Prasad took the CEO role in 1990, and Cheminor later merged with Dr. Reddy's.",
+    "speaker": "Unattributed",
+    "lesson": "A trusted operator helped scale and consolidate the group."
+   }
+  ]
+ },
+ {
+  "video_id": "EP-#3-Nikhil-Kamath-x-Nandan-Nilekani-People-by-WTF-Ep-#3",
+  "guests": [
+   "Nandan Nilekani"
+  ],
+  "industries": [
+   "finance",
+   "healthcare",
+   "climate",
+   "batteries",
+   "ai"
+  ],
+  "geographies": [
+   "India",
+   "US",
+   "Singapore"
+  ],
+  "insights": [
+   {
+    "text": "Aadhaar was designed as a digital, online-verifiable ID even though the government had asked only for a unique ID.",
+    "speaker": "Nandan Nilekani",
+    "industry": "finance",
+    "geography": "India"
+   },
+   {
+    "text": "Population-scale digital public infrastructure can support private innovation when startups and large firms can access it through open APIs.",
+    "speaker": "Nandan Nilekani",
+    "industry": "finance",
+    "geography": "India"
+   },
+   {
+    "text": "Aadhaar eKYC made customer onboarding fast enough for mass bank-account and mobile-connection enrollment.",
+    "speaker": "Nandan Nilekani",
+    "industry": "finance",
+    "geography": "India"
+   },
+   {
+    "text": "Account aggregators transfer consented, encrypted financial data between providers and users without storing or reading it themselves.",
+    "speaker": "Nandan Nilekani",
+    "industry": "finance",
+    "geography": "India"
+   },
+   {
+    "text": "Businesses can combine bank statements and GST records through account aggregation to help lenders assess loans in real time.",
+    "speaker": "Nandan Nilekani",
+    "industry": "finance",
+    "geography": "India"
+   },
+   {
+    "text": "FASTag gives vehicles a digital identity linked to a payment instrument and streamlines highway tolling.",
+    "speaker": "Nandan Nilekani",
+    "industry": "logistics",
+    "geography": "India"
+   },
+   {
+    "text": "Distributed rooftop solar and home batteries may offer more room for smaller private businesses than capital-intensive grid projects.",
+    "speaker": "Nandan Nilekani",
+    "industry": "climate",
+    "geography": "India"
+   }
+  ],
+  "data_points": [
+   {
+    "metric": "Aadhaar enrollments when Nilekani left government",
+    "value": "600 million",
+    "unit": "people",
+    "speaker": "Nandan Nilekani",
+    "context": "He met his commitment after about four and a half years on the project."
+   },
+   {
+    "metric": "Aadhaar holders at the time of discussion",
+    "value": "1.3 billion",
+    "unit": "people",
+    "speaker": "Nandan Nilekani",
+    "context": "Shows population-scale adoption of the digital ID."
+   },
+   {
+    "metric": "Time to reach the stated level of banking penetration",
+    "value": "9 years",
+    "unit": "years",
+    "speaker": "Nandan Nilekani",
+    "context": "Nilekani contrasted digital-enabled progress with an estimate of 46 years at the earlier pace."
+   },
+   {
+    "metric": "Jio customer enrollment using Aadhaar KYC",
+    "value": "a million",
+    "unit": "customers a day",
+    "speaker": "Nandan Nilekani",
+    "context": "Online KYC supported Jio's rapid mobile subscriber rollout."
+   },
+   {
+    "metric": "FASTag transactions",
+    "value": "2.5 billion",
+    "unit": "transactions a year",
+    "speaker": "Nandan Nilekani",
+    "context": "Illustrates the scale of vehicle-linked digital tolling."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "The government asked me to build a unique ID. There was no digital in it. I made it digital.",
+    "speaker": "Nandan Nilekani",
+    "theme": "digital design"
+   },
+   {
+    "text": "It's not a repository. It's just an exchange. The data resides where it is.",
+    "speaker": "Nandan Nilekani",
+    "theme": "account aggregation"
+   },
+   {
+    "text": "Half of life is deciding what not to do.",
+    "speaker": "Nandan Nilekani",
+    "theme": "focus"
+   },
+   {
+    "text": "We were marathon runners. We're not sprinters. We built for the long term.",
+    "speaker": "Nandan Nilekani",
+    "theme": "company building"
+   }
+  ],
+  "ideas": [
+   {
+    "text": "Build personal-finance or lending applications on account aggregation's consented data exchange.",
+    "speaker": "Nandan Nilekani",
+    "type": "business-idea"
+   },
+   {
+    "text": "Create markets and efficiency tools for households with rooftop solar and batteries.",
+    "speaker": "Nandan Nilekani",
+    "type": "business-idea"
+   },
+   {
+    "text": "Build useful applications on the APIs of population-scale digital public infrastructure.",
+    "speaker": "Nandan Nilekani",
+    "type": "playbook"
+   }
+  ],
+  "stories": [
+   {
+    "text": "Nandan Nilekani joined the Indian government in 2009 to lead Aadhaar, promised 600 million IDs before leaving, and says the project reached that number when he stepped down.",
+    "speaker": "Nandan Nilekani",
+    "lesson": "A measurable enrollment target helped drive a new public infrastructure project."
+   },
+   {
+    "text": "Jio used Aadhaar eKYC after its 2016 launch to enroll a million mobile customers a day toward a goal of 100 million in six months.",
+    "speaker": "Nandan Nilekani",
+    "lesson": "Fast digital identity checks enabled rapid distribution."
+   }
+  ]
+ },
+ {
+  "video_id": "EP-#3-WTF-is-E-commerce-Kishore-Biyani,-Udaan-and-Meesho-Founders-Reveal-What-Sells-and-What-Doesn't",
+  "guests": [
+   "Vidit Aatrey",
+   "Kishore Biyani",
+   "Sujeet Kumar"
+  ],
+  "industries": [
+   "e-commerce",
+   "retail",
+   "logistics",
+   "restaurant",
+   "fashion"
+  ],
+  "geographies": [
+   "India",
+   "Indonesia",
+   "Southeast Asia"
+  ],
+  "insights": [
+   {
+    "text": "Meesho was built to bring India's long tail of unbranded small retailers online, a part of retail its founder says was still largely offline in 2015.",
+    "speaker": "Vidit Aatrey",
+    "industry": "e-commerce",
+    "geography": "India"
+   },
+   {
+    "text": "Kishore Biyani designed Big Bazaar around the energy and crowds of Indian bazaars rather than copying a foreign retail format.",
+    "speaker": "Kishore Biyani",
+    "industry": "retail",
+    "geography": "India"
+   },
+   {
+    "text": "Biyani's team studied customer behavior and social change repeatedly to guide brands and store formats.",
+    "speaker": "Kishore Biyani",
+    "industry": "retail",
+    "geography": "India"
+   },
+   {
+    "text": "A large gap between India's total small businesses and those selling online leaves a commerce onboarding problem to solve.",
+    "speaker": "Vidit Aatrey",
+    "industry": "e-commerce",
+    "geography": "India"
+   },
+   {
+    "text": "Some Meesho sellers have built businesses entirely online, using marketplace pricing, merchandising, and trend selection rather than an offline shop.",
+    "speaker": "Vidit Aatrey",
+    "industry": "e-commerce",
+    "geography": "India"
+   },
+   {
+    "text": "Sujeet Kumar sees a chance to build scaled quick-service restaurant chains beyond India's largest cities.",
+    "speaker": "Sujeet Kumar",
+    "industry": "restaurant",
+    "geography": "India"
+   }
+  ],
+  "data_points": [
+   {
+    "metric": "Indian retail through small unbranded businesses",
+    "value": "85%",
+    "unit": "%",
+    "speaker": "Vidit Aatrey",
+    "context": "The initial market Meesho wanted to bring online."
+   },
+   {
+    "metric": "Annual Meesho buyers",
+    "value": "close to 140 million",
+    "unit": "consumers",
+    "speaker": "Vidit Aatrey",
+    "context": "Scale of the marketplace at the time of the conversation."
+   },
+   {
+    "metric": "Meesho small-business sellers",
+    "value": "about a million",
+    "unit": "businesses",
+    "speaker": "Vidit Aatrey",
+    "context": "Marketplace supply base described by its founder."
+   },
+   {
+    "metric": "Future Group annual compounded growth",
+    "value": "30%",
+    "unit": "%",
+    "speaker": "Kishore Biyani",
+    "context": "Biyani's description of growth over a 30-year period."
+   },
+   {
+    "metric": "Indian small businesses",
+    "value": "about 60 million",
+    "unit": "businesses",
+    "speaker": "Vidit Aatrey",
+    "context": "Used to frame the potential market for online seller access."
+   },
+   {
+    "metric": "Indian small businesses selling online",
+    "value": "million million and a half",
+    "unit": "businesses",
+    "speaker": "Vidit Aatrey",
+    "context": "Contrasted with the much larger small-business base."
+   },
+   {
+    "metric": "Meesho orders in the last year",
+    "value": "about 1 billion",
+    "unit": "orders",
+    "speaker": "Vidit Aatrey",
+    "context": "Marketplace transaction volume reported by its founder."
+   },
+   {
+    "metric": "Meesho sellers operating only online",
+    "value": "40%",
+    "unit": "%",
+    "speaker": "Vidit Aatrey",
+    "context": "Shows online marketplaces creating first-time merchants."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "Crowd can only get crowd.",
+    "speaker": "Kishore Biyani",
+    "theme": "retail experience"
+   },
+   {
+    "text": "Once you start looking at from consumer lens you can create something much, much more.",
+    "speaker": "Kishore Biyani",
+    "theme": "consumer insight"
+   },
+   {
+    "text": "We said we'll bring them online. If someone asked me how, I had no idea.",
+    "speaker": "Vidit Aatrey",
+    "theme": "founding conviction"
+   },
+   {
+    "text": "If you want to do anything in commerce, you have to basically figure out how to make e-commerce work.",
+    "speaker": "Vidit Aatrey",
+    "theme": "commerce strategy"
+   }
+  ],
+  "ideas": [
+   {
+    "text": "Help small Indian merchants list catalogs and sell across interoperable commerce apps through ONDC.",
+    "speaker": "Vidit Aatrey",
+    "type": "business-idea"
+   },
+   {
+    "text": "Back quick-service restaurant brands that can expand to thousands of stores beyond tier-two and tier-three Indian cities.",
+    "speaker": "Sujeet Kumar",
+    "type": "investment-thesis"
+   },
+   {
+    "text": "Study local customer behavior, popular culture, and store operations before designing a mass-market retail format.",
+    "speaker": "Kishore Biyani",
+    "type": "playbook"
+   }
+  ],
+  "stories": [
+   {
+    "text": "Kishore Biyani visited small-town bazaars before launching Big Bazaar and opened three stores in 22 days to create scale and the bustle he wanted.",
+    "speaker": "Kishore Biyani",
+    "lesson": "Local retail behavior shaped the format and launch pace."
+   },
+   {
+    "text": "Future Group staff went to Tirupati temple to study how it managed queues, water, and waiting for the large crowds at Big Bazaar.",
+    "speaker": "Kishore Biyani",
+    "lesson": "Operational lessons can come from outside one's industry."
+   },
+   {
+    "text": "Sujeet Kumar joined Flipkart in 2008 when it was still a proprietorship taking only a few book orders, built its supply-chain operation including Ekart, and left in 2016 to start Udaan.",
+    "speaker": "Sujeet Kumar",
+    "lesson": "Early logistics capability supported e-commerce scale."
+   }
+  ]
+ },
+ {
+  "video_id": "EP-#4-WTF-is-Artificial-Intelligence-Really-Yann-LeCun-x-Nikhil-Kamath-People-by-WTF-Ep-#4",
+  "guests": [
+   "Yann LeCun"
+  ],
+  "industries": [
+   "ai",
+   "healthcare",
+   "finance",
+   "edtech",
+   "manufacturing"
+  ],
+  "geographies": [
+   "India",
+   "France",
+   "US"
+  ],
+  "insights": [
+   {
+    "text": "Autoregressive language models handle discrete words well but lack the physical-world understanding needed for robots and fully autonomous cars.",
+    "speaker": "Yann LeCun",
+    "industry": "ai",
+    "geography": null
+   },
+   {
+    "text": "AI systems that learn from video and build action-conditioned world models could predict consequences and plan sequences of actions.",
+    "speaker": "Yann LeCun",
+    "industry": "ai",
+    "geography": null
+   },
+   {
+    "text": "Scaling current language models alone will not produce human-level intelligence; new architectures with world models and hierarchical planning are needed.",
+    "speaker": "Yann LeCun",
+    "industry": "ai",
+    "geography": null
+   },
+   {
+    "text": "Local compute infrastructure matters both for training models on local data and for providing low-cost inference to many users.",
+    "speaker": "Yann LeCun",
+    "industry": "ai",
+    "geography": "India"
+   },
+   {
+    "text": "The practical AI startup model LeCun favors is fine-tuning an open-source foundation model for a specific vertical.",
+    "speaker": "Yann LeCun",
+    "industry": "ai",
+    "geography": null
+   },
+   {
+    "text": "Open-source platforms may become dominant AI infrastructure because startups can tailor them more closely to customers than a generic API.",
+    "speaker": "Yann LeCun",
+    "industry": "ai",
+    "geography": null
+   },
+   {
+    "text": "Speech-based AI assistants in local languages could serve rural users who have limited access to doctors or are less comfortable reading and writing.",
+    "speaker": "Yann LeCun",
+    "industry": "healthcare",
+    "geography": "India"
+   }
+  ],
+  "data_points": [
+   {
+    "metric": "Reduction in LLM inference cost",
+    "value": "a factor of 100",
+    "unit": "x",
+    "speaker": "Yann LeCun",
+    "context": "LeCun's estimate for the decline over two years."
+   },
+   {
+    "metric": "Time over which LLM inference cost fell",
+    "value": "two years",
+    "unit": "years",
+    "speaker": "Yann LeCun",
+    "context": "Period attached to his cost-reduction estimate."
+   },
+   {
+    "metric": "Possible AI users in India",
+    "value": "800 million",
+    "unit": "Indians",
+    "speaker": "Yann LeCun",
+    "context": "Illustrative scale motivating local inference infrastructure."
+   },
+   {
+    "metric": "Optimistic horizon for world-model progress",
+    "value": "five to 10 years",
+    "unit": "years",
+    "speaker": "Yann LeCun",
+    "context": "He stressed this assumes plans succeed without unexpected obstacles."
+   },
+   {
+    "metric": "Values in a thousand-by-thousand color image",
+    "value": "three million",
+    "unit": "values",
+    "speaker": "Yann LeCun",
+    "context": "Used to explain why predicting continuous video is harder than predicting text."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "LLMs are not the path to human level intelligence.",
+    "speaker": "Yann LeCun",
+    "theme": "limits of language models"
+   },
+   {
+    "text": "The smartest LLM are not as smart as your house cat.",
+    "speaker": "Yann LeCun",
+    "theme": "physical understanding"
+   },
+   {
+    "text": "If you are a startup, you're much better off using a source engine and fine-tuning it for a vertical application.",
+    "speaker": "Yann LeCun",
+    "theme": "startup strategy"
+   },
+   {
+    "text": "Science is never a sort of individual pursuit.",
+    "speaker": "Yann LeCun",
+    "theme": "research culture"
+   }
+  ],
+  "ideas": [
+   {
+    "text": "Fine-tune open-source models for legal, accounting, finance, or internal company information workflows.",
+    "speaker": "Yann LeCun",
+    "type": "business-idea"
+   },
+   {
+    "text": "Build local compute and low-cost inference infrastructure so AI assistants can be deployed widely in India.",
+    "speaker": "Yann LeCun",
+    "type": "investment-thesis"
+   },
+   {
+    "text": "Build voice-first AI assistants in local languages for healthcare and agricultural use in rural areas.",
+    "speaker": "Yann LeCun",
+    "type": "business-idea"
+   },
+   {
+    "text": "Invest around open-source AI platforms and specialized applications rather than assuming proprietary general models will retain their present importance.",
+    "speaker": "Yann LeCun",
+    "type": "investment-thesis"
+   }
+  ],
+  "stories": [
+   {
+    "text": "Yann LeCun studied electrical engineering in Paris, pursued independent AI projects with mathematics professors, and became drawn into research rather than following a formal computer-science route.",
+    "speaker": "Yann LeCun",
+    "lesson": "Cross-disciplinary projects opened his path into AI research."
+   }
+  ]
+ },
+ {
+  "video_id": "EP-#4-WTF-is-ChatGPT-Heaven-or-Hell-w-Nikhil,-Varun-Mayya,-Tanmay,-Umang-and-Aprameya",
+  "guests": [
+   "Varun Mayya",
+   "Tanmay",
+   "Umang",
+   "Aprameya"
+  ],
+  "industries": [
+   "ai",
+   "content",
+   "gaming",
+   "finance",
+   "software"
+  ],
+  "geographies": [
+   "India",
+   "US",
+   "South Africa",
+   "China"
+  ],
+  "insights": [
+   {
+    "text": "ChatGPT-style tools can act as embedded assistants in creator software, helping with ideas and content creation.",
+    "speaker": "Unattributed",
+    "industry": "content",
+    "geography": null
+   },
+   {
+    "text": "A chatbot can generate convincing text by predicting likely next words, even though that mechanism differs from human understanding.",
+    "speaker": "Varun Mayya",
+    "industry": "ai",
+    "geography": null
+   },
+   {
+    "text": "AI-created text and media could greatly increase the volume of persuasive false content and make public opinion easier to manipulate.",
+    "speaker": "Unattributed",
+    "industry": "content",
+    "geography": null
+   },
+   {
+    "text": "Routine software engineering and other white-collar work may face pressure as AI makes common code and content easier to produce.",
+    "speaker": "Varun Mayya",
+    "industry": "software",
+    "geography": "India"
+   },
+   {
+    "text": "Automating customer-support speech does not itself solve refund decisions, where a human remains accountable for mistakes or abuse.",
+    "speaker": "Unattributed",
+    "industry": "ai",
+    "geography": null
+   },
+   {
+    "text": "When content creation becomes cheap, trusted distribution and an audience's confidence in a creator become more valuable.",
+    "speaker": "Unattributed",
+    "industry": "content",
+    "geography": null
+   },
+   {
+    "text": "Cheap software creation may let people build apps for small groups, but existing communication networks still benefit from network effects.",
+    "speaker": "Unattributed",
+    "industry": "software",
+    "geography": null
+   }
+  ],
+  "data_points": [
+   {
+    "metric": "Varun Mayya's coding experience",
+    "value": "17 years",
+    "unit": "years",
+    "speaker": "Varun Mayya",
+    "context": "Experience he cited when introducing himself to the AI discussion."
+   },
+   {
+    "metric": "Annual jobs India needs to create for its demographic dividend",
+    "value": "10 million",
+    "unit": "jobs a year",
+    "speaker": "Unattributed",
+    "context": "A participant cited this figure while discussing AI and employment."
+   },
+   {
+    "metric": "US engineer salary used in outsourcing comparison",
+    "value": "100K",
+    "unit": "$ a year",
+    "speaker": "Unattributed",
+    "context": "Used to explain India's software-services cost advantage."
+   },
+   {
+    "metric": "South African unemployment rate cited in discussion",
+    "value": "33",
+    "unit": "%",
+    "speaker": "Unattributed",
+    "context": "Raised as a concern when discussing AI-related job displacement."
+   }
+  ],
+  "quotes": [
+   {
+    "text": "ChatGPT is a completion agent. It's a next word predictor.",
+    "speaker": "Varun Mayya",
+    "theme": "model mechanics"
+   },
+   {
+    "text": "The hard part is deciding when to give a refund or not. It's not the voice.",
+    "speaker": "Unattributed",
+    "theme": "automation limits"
+   },
+   {
+    "text": "Once you have the channel, your cost of content creation is now zero.",
+    "speaker": "Unattributed",
+    "theme": "creator distribution"
+   },
+   {
+    "text": "Distribution is not a joke.",
+    "speaker": "Unattributed",
+    "theme": "startup advantage"
+   }
+  ],
+  "ideas": [
+   {
+    "text": "Put AI assistance directly into creator tools for ideation, writing, audio, video, and image workflows.",
+    "speaker": "Unattributed",
+    "type": "business-idea"
+   },
+   {
+    "text": "Partner with trusted influencers to launch multiple products, sharing equity or profits in return for distribution.",
+    "speaker": "Unattributed",
+    "type": "business-idea"
+   },
+   {
+    "text": "Build a voice AI system that handles many customer conversations while retaining human judgment for refund approval.",
+    "speaker": "Unattributed",
+    "type": "business-idea"
+   }
+  ],
+  "stories": [
+   {
+    "text": "One participant said his team integrated ChatGPT into a creator interface so users could click an idea button and request help with content, including poems and images of Virat Kohli or Rohit Sharma.",
+    "speaker": "Unattributed",
+    "lesson": "Putting AI in an existing creation workflow makes assistance immediately accessible."
+   },
+   {
+    "text": "A participant said his team made a company whose system can speak to customers in real time, train on an intended caller's voice, and handle several calls in parallel.",
+    "speaker": "Unattributed",
+    "lesson": "Voice generation can scale conversations, while business decisions still need accountability."
+   }
+  ]
+ }
 ]
