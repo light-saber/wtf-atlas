@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WTF Atlas — Insights from Nikhil Kamath&rsquo;s podcast</title>
+<meta name="description" content="Industry, geography, data, quotes and ideas crystallized from 55 episodes of WTF with Nikhil Kamath.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..900;1,9..144,400..900&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="topbar">
+  <div class="topbar-inner">
+    <a class="brand" href="#/" data-nav>
+      <span class="brand-mark" aria-hidden="true">◈</span>
+      <span class="brand-text">WTF<em>Atlas</em></span>
+    </a>
+    <nav class="nav" aria-label="Sections">
+      <a href="#/industries" data-nav>Industries</a>
+      <a href="#/geographies" data-nav>Geographies</a>
+      <a href="#/data" data-nav>Data</a>
+      <a href="#/quotes" data-nav>Quotes</a>
+      <a href="#/ideas" data-nav>Ideas</a>
+      <a href="#/episodes" data-nav>Episodes</a>
+    </nav>
+    <button class="search-btn" id="searchBtn" aria-label="Search all insights">
+      <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+      <span>Search</span>
+      <kbd>/</kbd>
+    </button>
+  </div>
+</header>
+
+<main id="main" class="wrap"></main>
+
+<footer class="foot">
+  <div class="wrap foot-inner">
+    <p><strong>WTF Atlas</strong> — insights crystallized from 55 episodes of
+      <em>WTF</em> with Nikhil Kamath.</p>
+    <p class="foot-src">Every claim is attributed to the person who said it and
+      linked to its episode. Transcripts (private repo):
+      <a href="https://github.com/light-saber/nikhil-kamath-wtf-transcripts">nikhil-kamath-wtf-transcripts</a>.
+      Numbers appear as stated on the show, never converted.</p>
+  </div>
+</footer>
+
+<div class="modal" id="searchModal" hidden>
+  <div class="modal-backdrop" data-close></div>
+  <div class="modal-panel" role="dialog" aria-modal="true" aria-label="Search">
+    <input type="search" id="searchInput" placeholder="Search insights, data, quotes, ideas, people…"
+           autocomplete="off" spellcheck="false">
+    <div class="search-results" id="searchResults"></div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
