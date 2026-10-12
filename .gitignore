@@ -1,0 +1,4 @@
+data/insights/batch_*.json
+node_modules/
+.DS_Store
+__pycache__/
