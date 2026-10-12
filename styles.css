@@ -402,3 +402,7 @@ a:hover { color: var(--accent-2); text-decoration: underline; }
   .dp-val { font-size: 28px; }
   .card { padding: 16px; }
 }
+
+/* search deep-link highlight */
+@keyframes card-flash { 0%, 40% { box-shadow: 0 0 0 3px var(--accent, #c8553d); } 100% { box-shadow: 0 0 0 0 transparent; } }
+.card.flash { animation: card-flash 2.4s ease-out; }
