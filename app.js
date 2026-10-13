@@ -102,11 +102,16 @@
   }
 
   function dataCard(it, opts) {
+    var parsed = ValueParse.parse(it.value, it.unit);
+    var badge = '';
+    if (it._n != null && parsed.n != null) {
+      badge = '<span class="dp-rank">' + esc(ValueParse.fmt(parsed.n, parsed.family)) + '</span>';
+    }
     return '<article class="card is-data"><div class="dp">' +
       '<span class="dp-val">' + esc(it.value) + '</span>' +
       '<span class="dp-metric">' + esc(it.metric) +
       (it.unit ? ' <span class="dp-unit">(' + esc(it.unit) + ')</span>' : '') +
-      '</span></div>' +
+      '</span>' + badge + '</div>' +
       (it.context ? '<p class="card-text">' + esc(it.context) + '</p>' : '') +
       footHtml(it, opts) + '</article>';
   }
@@ -160,6 +165,93 @@
            '<span class="n">' + (counts[k] || 0) + '</span></button>';
     });
     return h + '</div>';
+  }
+
+  /* ============================ THEMES ============================ */
+
+  var THEMES = [
+    ['scale_headcount', 'Scale & headcount'],
+    ['price_revenue_spend', 'Prices, revenue & spend'],
+    ['audience_mix_share', 'Audience mix & shares'],
+    ['time_tenure', 'Time & tenure'],
+    ['money_raised_valuation', 'Money raised & valuations'],
+    ['operations_volume', 'Operations & volume'],
+    ['macro_economy', 'Macro & economy'],
+    ['growth_multiples', 'Growth & multiples'],
+    ['market_rank_size', 'Market rank & size']
+  ];
+
+  /* Group items by unit family, each group sorted largest-first.
+     Unparsed values stay in original order at the end. */
+  function themeGroups(items) {
+    var buckets = {};
+    items.forEach(function (it) {
+      var p = ValueParse.parse(it.value, it.unit);
+      it._n = p.n; it._fam = p.family;
+      (buckets[p.family] = buckets[p.family] || []).push(it);
+    });
+    var order = ValueParse.FAMILY_ORDER;
+    return order.filter(function (f) { return buckets[f]; }).map(function (f) {
+      var arr = buckets[f];
+      arr.sort(function (a, b) {
+        if (a._n == null && b._n == null) return 0;
+        if (a._n == null) return 1;
+        if (b._n == null) return -1;
+        return b._n - a._n;
+      });
+      return { family: f, label: ValueParse.FAMILY_LABELS[f], items: arr };
+    });
+  }
+
+  function familyHead(fam, items) {
+    var sortable = items.filter(function (x) { return x._n != null; }).length;
+    return '<div class="fam-head"><h3>' + esc(ValueParse.FAMILY_LABELS[fam]) + '</h3>' +
+      '<span class="count">' + items.length +
+      (sortable ? ' · largest first' : ' · as stated') + '</span><span class="rule"></span></div>';
+  }
+
+  /* The Data page: theme tabs replace the old industry chips, because data
+     points carry no industry tag of their own. */
+  function viewData() {
+    var active = state.filters.theme;
+    var counts = {};
+    THEMES.forEach(function (t) { counts[t[0]] = 0; });
+    DB.items.data_points.forEach(function (it) {
+      if (counts[it.theme] != null) counts[it.theme]++;
+    });
+
+    var h = '<section class="page-head"><h1>Data</h1>' +
+      '<p>Every specific number stated on the show, grouped by what kind of number it is. ' +
+      'Inside each group the biggest figure comes first.</p></section>';
+
+    h += '<div class="theme-tabs" role="group" aria-label="Theme">';
+    h += '<button class="chip" data-filter="theme" data-key="" aria-pressed="' + (!active ? 'true' : 'false') +
+      '">All themes<span class="n">' + DB.items.data_points.length + '</span></button>';
+    THEMES.forEach(function (t) {
+      h += '<button class="chip" data-filter="theme" data-key="' + t[0] + '" aria-pressed="' +
+        (active === t[0] ? 'true' : 'false') + '">' + esc(t[1]) +
+        '<span class="n">' + (counts[t[0]] || 0) + '</span></button>';
+    });
+    h += '</div>';
+
+    var items = DB.items.data_points;
+    if (active) items = items.filter(function (it) { return it.theme === active; });
+
+    var label = active ? (THEMES.filter(function (t) { return t[0] === active; })[0] || [0, 'Data'])[1] : 'All data points';
+    h += '<div class="section-head"><h2>' + esc(label) + '</h2><span class="count">' +
+      items.length + '</span><span class="rule"></span></div>';
+
+    if (!items.length) {
+      return h + '<div class="empty"><h3>Nothing here yet</h3><p>No data points in this theme.</p></div>';
+    }
+
+    var groups = themeGroups(items);
+    groups.forEach(function (g) {
+      h += '<section class="fam-section">' + familyHead(g.family, g.items) +
+        '<div class="cards">' + g.items.map(function (it) { return dataCard(it, {}); }).join('') +
+        '</div></section>';
+    });
+    return h;
   }
 
   /* ============================ VIEWS ============================ */
@@ -384,7 +476,7 @@
       if (!root) html = viewHome();
       else if (root === 'industries') html = parts[1] ? viewTagDetail('industry', parts[1]) : viewTagList('industry');
       else if (root === 'geographies') html = parts[1] ? viewTagDetail('geography', parts[1]) : viewTagList('geography');
-      else if (root === 'data') html = viewList('data_points', 'Data', 'Every specific number stated on the show, with the context that makes it matter.', 'industry');
+      else if (root === 'data') html = viewData();
       else if (root === 'quotes') html = viewList('quotes', 'Quotes', 'The lines worth writing down, and who said them.', null);
       else if (root === 'ideas') html = viewList('ideas', 'Ideas', 'Opportunities, theses and contrarian bets proposed by the guests.', null);
       else if (root === 'stories') html = viewList('stories', 'Stories', 'Concrete anecdotes with named entities — and the lesson attached.', null);

@@ -219,6 +219,38 @@ a:hover { color: var(--accent-2); text-decoration: underline; }
 }
 .chip .n { opacity: .55; font-variant-numeric: tabular-nums; margin-left: 5px; font-size: 12px; }
 
+/* ============================ Data page: theme tabs + family sections ============================ */
+
+/* theme tabs scroll horizontally rather than wrap, so all 9 stay on one line */
+.theme-tabs {
+  display: flex; gap: 7px; margin: 0 0 26px;
+  overflow-x: auto; padding-bottom: 6px;
+  scrollbar-width: thin; -webkit-overflow-scrolling: touch;
+}
+.theme-tabs .chip { flex: 0 0 auto; }
+
+.fam-section { margin-bottom: 8px; }
+.fam-head {
+  display: flex; align-items: baseline; gap: 12px;
+  margin: 26px 0 14px; padding-top: 4px;
+}
+.fam-head h3 {
+  font-family: var(--serif); font-weight: 700; font-size: 16px;
+  letter-spacing: -.01em; margin: 0; color: var(--ink-2);
+  text-transform: uppercase; letter-spacing: .06em; font-size: 12px;
+}
+.fam-head .count { font-size: 12px; color: var(--ink-3); font-variant-numeric: tabular-nums; }
+.fam-head .rule { flex: 1; height: 1px; background: var(--rule); }
+
+/* normalised magnitude badge, right-aligned on the number row */
+.dp-rank {
+  font-family: var(--mono); font-size: 12px; font-weight: 500;
+  color: var(--ink-3); background: var(--paper-2);
+  border: 1px solid var(--rule); border-radius: 4px;
+  padding: 3px 7px; white-space: nowrap; margin-left: auto;
+  font-variant-numeric: tabular-nums;
+}
+
 /* ============================ Tag grid (industries/geos) ============================ */
 
 .tag-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 12px; }

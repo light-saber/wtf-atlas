@@ -2,3 +2,5 @@ data/insights/batch_*.json
 node_modules/
 .DS_Store
 __pycache__/
+__pycache__*/
+*.pyc
