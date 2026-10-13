@@ -132,6 +132,10 @@
   /* Human-readable magnitude for the sort key badge */
   function fmt(n, family) {
     if (n == null) return '';
+    /* calendar years read as years, not as "2.0k" */
+    if (family === 'time_years' && n >= 1900 && n <= 2100 && n % 1 === 0) {
+      return String(n);
+    }
     if (family === 'percent') return n.toFixed(n % 1 ? 1 : 0) + '%';
     if (family === 'multiple') return n.toFixed(n % 1 ? 1 : 0) + '×';
     if (family === 'basis_points') return n.toFixed(0) + ' bps';
